@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/05/09/bioengineering-researchers-showcase-work-at-waikato-m/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

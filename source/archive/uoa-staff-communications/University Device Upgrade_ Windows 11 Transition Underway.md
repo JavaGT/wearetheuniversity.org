@@ -12,6 +12,8 @@ author: Connect Change & Incident <change&incident@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: >-
   /archive/2025/08/11/university-device-upgrade-windows-11-transition-underway/index.html
+tags:
+  - uoa-staff-communications
 ---
 Kia ora koutou,
 As part of the University’s commitment to maintaining a secure and supported digital environment, we are currently undertaking a major upgrade project to transition all University-managed devices from Windows 10 to Windows 11.

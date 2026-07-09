@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/04/2017-world-masters-games.html
 permalink: /archive/2017/04/20/2017-world-masters-games/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 2017 World Masters Games
 ========================

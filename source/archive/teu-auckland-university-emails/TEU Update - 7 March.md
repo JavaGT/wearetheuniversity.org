@@ -11,6 +11,12 @@ excerpt: >-
 author: Brent Burmester <b.burmester@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 permalink: /archive/2025/03/07/teu-update-7-march/index.html
+tags:
+  - governance
+  - merger
+  - student-politics
+  - teu
+  - teu-auckland-university-emails
 ---
 Attachment: [TEU_UoA Poster_A4.pdf](/attachments/TEU_UoA Poster_A4.pdf)
 ![](/attachments/image001.png)

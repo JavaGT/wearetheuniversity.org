@@ -8,6 +8,8 @@ author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
 permalink: /archive/2019/11/20/new-nzas-president/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 20-Nov-2019

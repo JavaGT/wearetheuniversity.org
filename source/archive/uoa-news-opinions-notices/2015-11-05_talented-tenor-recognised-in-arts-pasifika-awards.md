@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/11/05/talented-tenor-recognised-in-arts-pasifika-awards/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Talented tenor recognised in Arts Pasifika Awards
 =================================================

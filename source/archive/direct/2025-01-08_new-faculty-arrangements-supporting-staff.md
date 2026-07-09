@@ -7,6 +7,8 @@ source-url: >-
 title: 'New faculty arrangements: Supporting staff through change'
 permalink: /archive/2025/05/15/new-faculty-arrangements-supporting-staff/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 # New faculty arrangements: Supporting staff through change

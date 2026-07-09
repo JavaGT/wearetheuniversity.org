@@ -12,6 +12,10 @@ author: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: >-
   /archive/2023/10/11/vice-chancellor-s-update-wednesday-11-october-2023/index.html
+tags:
+  - governance
+  - palestine
+  - uoa-vc-updates
 ---
 Ni sa bula
 

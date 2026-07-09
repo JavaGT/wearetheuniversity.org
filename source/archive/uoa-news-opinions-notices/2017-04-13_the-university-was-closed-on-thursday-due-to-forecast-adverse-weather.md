@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/04/13/the-university-was-closed-on-thursday-due-to-forecast-adverse-weather/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 The University was closed on Thursday due to forecast adverse weather
 =====================================================================

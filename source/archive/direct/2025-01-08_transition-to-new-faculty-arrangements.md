@@ -7,6 +7,9 @@ source-url: >-
 title: Transition to new faculty arrangements
 permalink: /archive/2025/05/15/transition-to-new-faculty-arrangements/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 
 # Transition to new faculty arrangements

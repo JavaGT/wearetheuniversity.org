@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/10/22/new-partnership-approach-will-improve-hearing-services/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

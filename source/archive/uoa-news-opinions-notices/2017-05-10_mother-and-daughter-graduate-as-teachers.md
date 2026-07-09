@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/mother-and-daughter-graduate-as-teachers.html
 permalink: /archive/2017/05/10/mother-and-daughter-graduate-as-teachers/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Mother and daughter graduate as teachers
 ========================================

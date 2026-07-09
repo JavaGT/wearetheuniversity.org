@@ -11,6 +11,9 @@ excerpt: >-
 author: Barry Hughes <b.hughes@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 permalink: /archive/2024/03/08/teu-academic-teu-update/index.html
+tags:
+  - teu
+  - teu-auckland-university-emails
 ---
 ![](/attachments/image001.png)
 

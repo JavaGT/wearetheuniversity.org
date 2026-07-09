@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/02/23/launch-of-new-graduate-school-to-prepare-nz-for-tech-future/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

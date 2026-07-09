@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/08/auckland-leads-nz-in-business-school-subject-rankings/index.html
 layout: layout.njk
+tags:
+  - merger
+  - uoa-news-opinions-notices
 ---
 Auckland leads NZ in Business School subject rankings
 =====================================================

@@ -4,9 +4,7 @@ title: 'SPECIAL EDITION: Praxis (Critical University Studies Reading Group #12)'
 slug: special-edition-praxis-critical-university-studies-reading-group-12
 date: 2024-08-19T00:00:00.000Z
 source: Reading Group Mailing List
-author: Java Grant
-author-url: https://javagrant.com
-author-slug: java-grant
+author: WATU
 permalink: >-
   /blog/2024/08/19/special-edition-praxis-critical-university-studies-reading-group-12/index.html
 excerpt: >-
@@ -15,6 +13,10 @@ excerpt: >-
   Students are organising some political action, and it overlaps partially with
   our allotted readinggroup time. I'm providing support and I'm hoping you'll
   join me. To consider for the...
+tags:
+  - course-cuts
+  - governance
+  - student-politics
 ---
 
 2024/08/19

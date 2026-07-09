@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/03/02/doctoral-fellow-to-research-legal-protection-of-migrant-domestic-workers/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Doctoral Fellow to research legal protection of migrant domestic workers
 ========================================================================

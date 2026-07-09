@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/11/08/public-policy-institute-will-address-key-policy-issues/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Public Policy Institute will address key policy issues
 ======================================================

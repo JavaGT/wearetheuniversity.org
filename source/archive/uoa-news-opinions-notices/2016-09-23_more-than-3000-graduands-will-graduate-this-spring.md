@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/09/23/more-than-3000-graduands-will-graduate-this-spring/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 More than 3000 graduands will graduate this Spring
 ==================================================

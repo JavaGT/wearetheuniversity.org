@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/free-happy-texts-at-late-night-art.html
 permalink: /archive/2017/10/05/free-happy-texts-at-late-night-art/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Free happy texts at Late Night Art
 ==================================

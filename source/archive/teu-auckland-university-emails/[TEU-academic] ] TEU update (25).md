@@ -13,6 +13,10 @@ excerpt: >-
 author: Barry Hughes <b.hughes@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 permalink: /archive/2023/10/06/teu-academic-teu-update/index.html
+tags:
+  - merger
+  - teu
+  - teu-auckland-university-emails
 ---
 ![](/attachments/image.png)
 Tēnā koutou katoa

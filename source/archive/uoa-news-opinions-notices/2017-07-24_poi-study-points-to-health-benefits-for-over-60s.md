@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/07/24/poi-study-points-to-health-benefits-for-over-60s/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Poi study points to health benefits for over 60s
 ================================================

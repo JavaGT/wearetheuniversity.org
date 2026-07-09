@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/10/27/south-auckland-leads-the-way-in-obesity-prevention/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 South Auckland leads the way in obesity prevention
 ==================================================

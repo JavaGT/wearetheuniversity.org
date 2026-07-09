@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/renowned-maaori-scholar-honoured-by-royal-society.html
 permalink: /archive/2017/11/16/renowned-m/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Renowned Māori scholar honoured by Royal Society
 ================================================

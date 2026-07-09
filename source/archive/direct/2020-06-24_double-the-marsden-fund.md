@@ -8,6 +8,9 @@ author: Luke Oldfield
 author-slug: luke-oldfield
 permalink: /archive/2020/06/24/double-the-marsden-fund/index.html
 layout: layout.njk
+tags:
+  - direct
+  - marsden
 ---
 
 Double the Marsden fund #doublethefund

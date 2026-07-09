@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/07/24/experts-call-for-action-to-fill-gaps-on-healthy-food-policies/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Experts call for action to fill gaps on healthy food policies
 =============================================================

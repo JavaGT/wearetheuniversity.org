@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/08/30/new-study-finds-exercise-improves-childrens-brain-power/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New study finds exercise improves children’s brain power
 ========================================================

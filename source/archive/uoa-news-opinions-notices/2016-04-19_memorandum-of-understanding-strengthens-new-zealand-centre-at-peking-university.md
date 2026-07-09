@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2016/04/19/memorandum-of-understanding-strengthens-new-zealand-centre-at-peking-university/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 
 Memorandum of Understanding strengthens New Zealand Centre at Peking University

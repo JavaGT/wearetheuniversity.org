@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/02/24/academic-to-share-shakespeare-knowledge-at-pop-up-globe/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Academic to share Shakespeare knowledge at Pop-Up Globe
 =======================================================

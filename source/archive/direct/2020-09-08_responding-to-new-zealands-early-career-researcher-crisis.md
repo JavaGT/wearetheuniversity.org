@@ -9,6 +9,10 @@ author-slug: the-new-zealand-association-of-scientists
 permalink: >-
   /archive/2020/09/08/responding-to-new-zealands-early-career-researcher-crisis/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - student-politics
 ---
 
 8 September 2020

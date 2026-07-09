@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/04/20/the-dual-function-of-the-human-gaze-where-we-look-and-why/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 The dual function of the human gaze: where we look and why
 ==========================================================

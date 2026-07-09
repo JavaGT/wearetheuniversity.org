@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/01/24/food-industry-tactics-shape-public-food-policies/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Food industry tactics shape public food policies
 ================================================

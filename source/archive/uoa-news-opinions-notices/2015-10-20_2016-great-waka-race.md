@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/2016-great-waka-race.html
 permalink: /archive/2015/10/20/2016-great-waka-race/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 2016 Great Waka Race
 ====================

@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/raise-your-glass-to-knowledge.html
 permalink: /archive/2017/07/21/raise-your-glass-to-knowledge/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Raise your glass to knowledge
 =============================

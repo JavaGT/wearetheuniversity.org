@@ -12,6 +12,8 @@ author: Julie Tomov <j.tomov@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: >-
   /archive/2024/04/07/professional-staff-registration-may-2024-graduation-ceremonies/index.html
+tags:
+  - uoa-staff-communications
 ---
 Note: the days of the week have been corrected for the graduation ceremonies.
 

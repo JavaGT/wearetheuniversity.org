@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/05/16/guidelines-needed-for-childrens-screen-time-at-daycare/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Guidelines needed for children’s screen time at daycare
 =======================================================

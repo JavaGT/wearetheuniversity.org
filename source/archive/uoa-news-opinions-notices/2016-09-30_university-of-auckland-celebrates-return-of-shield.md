@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/09/30/university-of-auckland-celebrates-return-of-shield/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland celebrates return of Shield
 ==================================================

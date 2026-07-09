@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/03/22/waka-ama-paddlers-blow-competition-out-of-the-water/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Waka Ama paddlers blow competition out of the water
 ===================================================

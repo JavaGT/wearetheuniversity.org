@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/09/university-of-auckland-to-help-new-zealanders-become-more-asia-savvy-with-new-asia-pacific-centre/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland to help New Zealanders become more Asia-savvy with new Asia-Pacific centre
 =================================================================================================

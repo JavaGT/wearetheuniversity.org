@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/07/07/student-services-online-gets-new-look-and-becomes-mobile-compatible/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Student Services Online gets new look and becomes mobile compatible
 ===================================================================

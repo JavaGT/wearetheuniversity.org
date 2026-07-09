@@ -7,6 +7,8 @@ author: Nicola Owen
 author-slug: nicola-owen
 permalink: /archive/2012/04/01/folk-the-ports/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 # Folk the Ports - Solidarity with the wharfies - musical fundraiser

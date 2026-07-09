@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/11/20/top-nz-scientist-talks-about-entrepreneurship-and-the-role-of-universities/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Top NZ scientist talks about entrepreneurship and the role of universities
 ==========================================================================

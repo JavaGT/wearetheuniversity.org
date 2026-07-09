@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/brain-and-mind-symposium-coming-to-auckland.html
 permalink: /archive/2016/07/28/brain-and-mind-symposium-coming-to-auckland/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Brain and Mind Symposium coming to Auckland
 ===========================================

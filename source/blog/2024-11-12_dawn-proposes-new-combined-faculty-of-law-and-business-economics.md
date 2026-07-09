@@ -6,7 +6,6 @@ date: 2024-11-12T00:00:00.000Z
 source: null
 source-name: null
 author: We Are The University
-author-slug: we-are-the-university
 permalink: >-
   /blog/2024/11/12/dawn-proposes-new-combined-faculty-of-law-and-business-economics/index.html
 excerpt: >-
@@ -15,6 +14,9 @@ excerpt: >-
   finally refreshed her contract and is contracted another 5 years as
   ViceChancellor. Her ideology of consolidation and socalled efficiency has cost
   this institution valuable professional staff and countless years...
+tags:
+  - governance
+  - merger
 ---
 
 <script src="/table-of-contents.js" columns="2"></script>

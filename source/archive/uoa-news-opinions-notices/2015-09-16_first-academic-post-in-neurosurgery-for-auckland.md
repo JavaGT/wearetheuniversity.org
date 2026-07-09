@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/09/16/first-academic-post-in-neurosurgery-for-auckland/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

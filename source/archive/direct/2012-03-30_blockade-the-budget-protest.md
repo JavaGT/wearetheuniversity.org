@@ -8,6 +8,9 @@ author: Blockade the Budget
 author-slug: blockade-the-budget
 permalink: /archive/2012/03/30/blockade-the-budget-protest/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 
 [https://www.facebook.com/events/172083019584218/](https://web.archive.org/web/20130208031103/https://www.facebook.com/events/172083019584218/)

@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2017/05/18/university-expects-to-place-more-medical-students-in-rural-towns/index.html
 layout: layout.njk
+tags:
+  - governance
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 University expects to place more medical students in rural towns
 ================================================================

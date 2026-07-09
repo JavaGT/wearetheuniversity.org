@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/10/14/new-zealand-and-australia-unite-for-social-equity/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 New Zealand and Australia unite for social equity
 =================================================

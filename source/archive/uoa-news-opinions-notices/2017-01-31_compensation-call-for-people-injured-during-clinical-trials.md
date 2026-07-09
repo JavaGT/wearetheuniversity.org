@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/01/31/compensation-call-for-people-injured-during-clinical-trials/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

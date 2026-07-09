@@ -8,6 +8,9 @@ author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
 permalink: /archive/2018/03/25/deplore-reduction-in-national-knowledge/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 
 1

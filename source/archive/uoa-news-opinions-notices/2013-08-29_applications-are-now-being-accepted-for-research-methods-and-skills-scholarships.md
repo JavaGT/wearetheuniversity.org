@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2013/08/29/applications-are-now-being-accepted-for-research-methods-and-skills-scholarships/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Applications are now being accepted for Research Methods and Skills Scholarships
 ================================================================================

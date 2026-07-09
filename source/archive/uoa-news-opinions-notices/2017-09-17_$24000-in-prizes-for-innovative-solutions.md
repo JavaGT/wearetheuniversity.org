@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/24000-prizes-for-innovative-solutions.html
 permalink: /archive/2017/09/17/24-000-in-prizes-for-innovative-solutions/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 $24,000 in prizes for innovative solutions
 ==========================================

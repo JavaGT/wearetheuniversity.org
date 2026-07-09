@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/02/22/nz-korea-collaboration-to-promote-joint-research/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 NZ-Korea collaboration to promote joint research
 ================================================

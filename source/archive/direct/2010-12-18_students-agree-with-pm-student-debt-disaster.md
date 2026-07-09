@@ -9,6 +9,9 @@ author: Unknown
 author-slug: unknown
 permalink: /archive/2010/12/18/students-agree-with-pm-student-debt-disaster/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 Universal or voluntary membership? That was the question put to tertiary students in 1999 after the National Government passed a law insisting they choose how they should belong to their student association.  

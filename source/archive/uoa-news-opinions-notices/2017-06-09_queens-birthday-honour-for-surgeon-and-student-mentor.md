@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/06/09/queens-birthday-honour-for-surgeon-and-student-mentor/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

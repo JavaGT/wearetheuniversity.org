@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/04/21/monthly-vitamin-d-supplement-does-not-prevent-heart-disease/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Monthly vitamin D supplement does not prevent heart disease
 ===========================================================

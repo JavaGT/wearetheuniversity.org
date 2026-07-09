@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/11/12/subtle-genetic-variations-offer-clues-to-treating-childhood-cancer/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Subtle genetic variations offer clues to treating childhood cancer
 ==================================================================

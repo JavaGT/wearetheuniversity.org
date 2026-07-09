@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/09/30/public-lecture-on-the-u-s-presidential-elections/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

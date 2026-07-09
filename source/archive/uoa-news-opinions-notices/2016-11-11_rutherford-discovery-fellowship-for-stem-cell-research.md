@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/11/11/rutherford-discovery-fellowship-for-stem-cell-research/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

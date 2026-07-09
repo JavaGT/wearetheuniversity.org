@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/11/27/chris-liddell-funds-scholarships-to-take-kiwis-to-oxford/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Chris Liddell funds scholarships to take Kiwis to Oxford
 ========================================================

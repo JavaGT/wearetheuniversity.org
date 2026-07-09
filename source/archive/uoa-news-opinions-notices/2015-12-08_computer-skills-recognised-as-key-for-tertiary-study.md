@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/12/08/computer-skills-recognised-as-key-for-tertiary-study/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Computer skills recognised as key for tertiary study
 ====================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/08/15/the-power-of-stories-researching-and-engaging-with-sports-media/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 The Power of stories: Researching and Engaging with Sports Media
 ================================================================

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/10/13/new-research-for-nutritional-solutions-to-obesity-and-diabetes/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

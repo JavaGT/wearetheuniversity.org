@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2011/01/14/update-25-february-enrolment-help-for-new-and-current-students/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Update \[25 February\]: Enrolment help for new and current students
 ===================================================================

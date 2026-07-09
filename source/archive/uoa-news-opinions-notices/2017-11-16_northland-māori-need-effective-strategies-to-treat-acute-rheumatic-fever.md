@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/northland-maaori-need-effective-strategies-for-rheumatic-fever.html
 permalink: /archive/2017/11/16/northland-m/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Northland Māori need effective strategies to treat acute rheumatic fever
 ========================================================================

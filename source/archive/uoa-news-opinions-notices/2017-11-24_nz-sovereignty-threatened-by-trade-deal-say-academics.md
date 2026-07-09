@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/11/24/nz-sovereignty-threatened-by-trade-deal-say-academics/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 NZ sovereignty threatened by trade deal, say academics
 ======================================================

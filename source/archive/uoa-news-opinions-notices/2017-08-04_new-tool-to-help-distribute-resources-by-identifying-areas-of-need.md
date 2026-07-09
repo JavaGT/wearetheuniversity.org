@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/08/04/new-tool-to-help-distribute-resources-by-identifying-areas-of-need/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New tool to help distribute resources by identifying areas of need
 ==================================================================

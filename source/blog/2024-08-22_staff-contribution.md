@@ -5,7 +5,6 @@ slug: staff-contribution
 date: 2024-08-22T00:00:00.000Z
 source: private communications
 author: anonymous
-author-slug: anonymous
 permalink: /blog/2024/08/22/staff-contribution/index.html
 excerpt: >-
   In her messages to staff she calls the is this proposal "slightly" different

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/sining-a-light-on-new-zealand-s-medical-history.html
 permalink: /archive/2017/05/22/shining-a-light-on-new-zealands-medical-history/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Shining a light on New Zealand's medical history
 ================================================

@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/tessa-takes-new-path-to-cambridge.html
 permalink: /archive/2016/10/07/tessa-takes-new-path-to-cambridge/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Tessa takes new path to Cambridge
 =================================

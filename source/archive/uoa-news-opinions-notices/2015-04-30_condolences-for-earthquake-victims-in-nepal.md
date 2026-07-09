@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/condolences-for-earthquake-victims-in-nepal.html
 permalink: /archive/2015/04/30/condolences-for-earthquake-victims-in-nepal/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Condolences for earthquake victims in Nepal
 ===========================================

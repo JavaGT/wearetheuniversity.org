@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/03/04/new-zealand-primary-cancer-care-trails-australia/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

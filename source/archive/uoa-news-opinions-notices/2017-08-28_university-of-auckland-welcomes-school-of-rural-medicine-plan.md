@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/08/28/university-of-auckland-welcomes-school-of-rural-medicine-plan/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

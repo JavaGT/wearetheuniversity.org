@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/08/15/college-students-sent-unwanted-sexually-explicit-material/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 College students sent unwanted sexually explicit material
 =========================================================

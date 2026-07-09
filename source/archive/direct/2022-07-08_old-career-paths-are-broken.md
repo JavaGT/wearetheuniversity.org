@@ -10,6 +10,8 @@ author: Dr. Leon Salter
 author-slug: leon-salter
 permalink: /archive/2022/07/08/old-career-paths-are-broken/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 **Dr. Leon Salter**

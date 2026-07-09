@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/smartphones-deliver-nutrition-labelling-study.html
 permalink: /archive/2015/11/05/smartphones-deliver-nutrition-labelling-study/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Smartphones deliver nutrition labelling study
 =============================================

@@ -8,6 +8,9 @@ author: Anonymous
 author-slug: anonymous
 permalink: /archive/2012/03/01/craccum-letters/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 Dear Craccum,

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2011/09/20/student-and-applicant-online-services-unavailable-this-weekend/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Student and applicant online services unavailable this weekend
 ==============================================================

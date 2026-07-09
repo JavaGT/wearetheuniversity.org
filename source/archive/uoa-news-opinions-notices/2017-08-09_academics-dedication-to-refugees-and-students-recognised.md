@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2017/08/09/academics-dedication-to-refugees-and-students-recognised/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Academic’s dedication to refugees and students recognised
 =========================================================

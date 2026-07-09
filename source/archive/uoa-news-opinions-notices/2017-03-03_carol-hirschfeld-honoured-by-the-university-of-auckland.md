@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/03/03/carol-hirschfeld-honoured-by-the-university-of-auckland/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/09/21/more-than-3200-students-cap-off-studies-in-spring-graduation/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

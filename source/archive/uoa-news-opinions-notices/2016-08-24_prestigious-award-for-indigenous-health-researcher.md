@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/08/24/prestigious-award-for-indigenous-health-researcher/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Prestigious award for indigenous health researcher
 ==================================================

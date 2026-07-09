@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/05/09/finding-your-place-in-the-genome-assembly-annotation-association/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

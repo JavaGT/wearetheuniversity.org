@@ -10,6 +10,9 @@ excerpt: >-
 author: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2025/06/23/vice-chancellor-s-update-23-june-2025/index.html
+tags:
+  - governance
+  - uoa-vc-updates
 ---
 Kia ora tātou
 

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/new-insights-on-limb-evolution-from-auckland-.html
 permalink: /archive/2016/11/30/new-insights-on-limb-evolution-from-auckland/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New insights on limb evolution from Auckland
 ============================================

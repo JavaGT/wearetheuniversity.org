@@ -7,6 +7,9 @@ source-url: >-
 title: 'Transition to new faculty arrangements: Staff FAQs'
 permalink: /archive/2025/05/15/transition-new-faculty-staff-faqs/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 # Transition to new faculty arrangements: Staff FAQs

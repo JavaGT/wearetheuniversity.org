@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/10/03/another-perspective-on-new-zealands-midwifery-care/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Another perspective on New Zealand’s midwifery care
 ===================================================

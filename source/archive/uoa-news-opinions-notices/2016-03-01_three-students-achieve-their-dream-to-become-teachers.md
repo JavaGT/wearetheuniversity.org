@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/03/01/three-students-achieve-their-dream-to-become-teachers/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,6 +7,8 @@ source-url: >-
 title: Establishing faculty operations
 permalink: /archive/2025/05/15/establishing-faculty-operations/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 # Establishing faculty operations

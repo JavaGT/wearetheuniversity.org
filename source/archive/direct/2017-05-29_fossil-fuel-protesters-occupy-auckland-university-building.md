@@ -10,6 +10,9 @@ author-slug: unknown
 permalink: >-
   /archive/2017/05/29/fossil-fuel-protesters-occupy-auckland-university-building/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 A group of Auckland University students have occupied a wing of the University's administration block, calling for it to ditch its fossil fuels investments.
 

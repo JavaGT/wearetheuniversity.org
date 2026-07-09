@@ -8,6 +8,10 @@ author: We Are The University
 author-slug: we-are-the-university
 permalink: /archive/2012/03/30/uoa-activism-week/index.html
 layout: layout.njk
+tags:
+  - direct
+  - palestine
+  - student-politics
 ---
 Monday 14th  
 Workshop 1  

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/07/27/more-participants-wanted-for-virtual-supermarket/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 More participants wanted for virtual supermarket
 ================================================

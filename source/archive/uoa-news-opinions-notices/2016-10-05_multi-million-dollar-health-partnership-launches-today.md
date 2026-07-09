@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/10/05/multi-million-dollar-health-partnership-launches-today/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/06/30/auckland-study-determines-global-burden-of-pancreatic-diseases/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Auckland study determines global burden of pancreatic diseases
 ==============================================================

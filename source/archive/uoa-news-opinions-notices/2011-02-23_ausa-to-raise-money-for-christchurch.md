@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/02/23/AUSA-to-raise-money-for-Christchurch.html
 permalink: /archive/2011/02/23/ausa-to-raise-money-for-christchurch/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 AUSA to raise money for Christchurch
 ====================================

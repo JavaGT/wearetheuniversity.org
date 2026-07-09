@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/11/12/university-of-auckland-takes-major-prime-ministers-science-prizes/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

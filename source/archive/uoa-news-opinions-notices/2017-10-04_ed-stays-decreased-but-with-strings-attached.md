@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/ed-stays-decreased-but-with-strings-attached.html
 permalink: /archive/2017/10/04/ed-stays-decreased-but-with-strings-attached-2/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 ED stays decreased but with strings attached
 ============================================

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/01/13/gifted-students-could-be-accelerated-to-keep-them-challenged/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

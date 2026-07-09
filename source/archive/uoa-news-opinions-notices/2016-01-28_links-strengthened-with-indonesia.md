@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/links-strengthened-with-indonesia.html
 permalink: /archive/2016/01/28/links-strengthened-with-indonesia/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Links strengthened with Indonesia
 =================================

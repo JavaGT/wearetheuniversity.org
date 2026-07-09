@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/03/29/Auckland-Transport-needs-your-feedback.html
 permalink: /archive/2011/03/29/auckland-transport-needs-your-feedback/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Auckland Transport needs your feedback
 ======================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/09/30/sugary-drinks-banned-from-hospitals-and-health-boards/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Sugary drinks banned from hospitals and health boards
 =====================================================

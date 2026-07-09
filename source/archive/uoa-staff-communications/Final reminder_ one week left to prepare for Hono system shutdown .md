@@ -11,6 +11,8 @@ author: Staff Communications <staff-comms@auckland.ac.nz>
 to: all-staff@list.auckland.ac.nz
 permalink: >-
   /archive/2024/12/16/final-reminder-one-week-left-to-prepare-for-hono-system-shutdown/index.html
+tags:
+  - uoa-staff-communications
 ---
 Kia ora koutou
 

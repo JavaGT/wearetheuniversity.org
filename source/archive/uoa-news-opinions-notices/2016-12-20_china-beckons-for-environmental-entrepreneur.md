@@ -6,6 +6,10 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/china-beckons-for-environmental-entrepreneur.html
 permalink: /archive/2016/12/20/china-beckons-for-environmental-entrepreneur/index.html
 layout: layout.njk
+tags:
+  - governance
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 China beckons for environmental entrepreneur
 ============================================

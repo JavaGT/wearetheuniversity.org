@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/03/27/innovative-wooden-projects-recognised-with-awards/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Innovative wooden projects recognised with awards
 =================================================

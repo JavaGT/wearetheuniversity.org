@@ -12,6 +12,12 @@ excerpt: >-
 author: Barry Hughes <b.hughes@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 permalink: /archive/2024/04/12/teu-academic-teu-update/index.html
+tags:
+  - governance
+  - merger
+  - student-politics
+  - teu
+  - teu-auckland-university-emails
 ---
 Attachment: [Nous Group - Academic restructuring - International case studies.pdf](/attachments/Nous Group - Academic restructuring - International case studies.pdf)
 Attachment: [Wollscheid & Røsdal - The impact of mergers in higher education on micro-level processes – A literature review.pdf](/attachments/Wollscheid & Røsdal - The impact of mergers in higher education on micro-level processes – A literature review.pdf)

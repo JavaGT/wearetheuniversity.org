@@ -8,6 +8,8 @@ author: The University Without Conditions
 author-slug: the-university-without-conditions
 permalink: /archive/2012/03/04/university-without-conditions/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 “The University Without Conditions is a free university.

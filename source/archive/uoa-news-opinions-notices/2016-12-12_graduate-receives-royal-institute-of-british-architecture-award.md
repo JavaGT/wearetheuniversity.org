@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/12/12/graduate-receives-royal-institute-of-british-architecture-award/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Graduate receives Royal Institute of British Architecture award
 ===============================================================

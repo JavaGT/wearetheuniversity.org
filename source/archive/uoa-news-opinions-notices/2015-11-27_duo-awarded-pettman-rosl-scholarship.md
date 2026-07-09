@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/duo-awarded-pettman-rosl-scholarship.html
 permalink: /archive/2015/11/27/duo-awarded-pettman-rosl-scholarship/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Duo awarded Pettman/ROSL Scholarship
 ====================================

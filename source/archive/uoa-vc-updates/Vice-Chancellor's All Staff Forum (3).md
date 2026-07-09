@@ -13,6 +13,9 @@ excerpt: >-
 author: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2023/11/23/vice-chancellor-s-all-staff-forum/index.html
+tags:
+  - governance
+  - uoa-vc-updates
 ---
 Attachment: [undefined](/attachments/attachment_1783636964676)
 Topic:  Estate Strategy & Campus Updates

@@ -5,7 +5,6 @@ subtitle: null
 slug: rally-agains-course-cuts
 date: 2024-10-09T00:00:00.000Z
 author: We Are The University
-author-slug: we-are-the-university
 permalink: /blog/2024/10/09/rally-agains-course-cuts/index.html
 excerpt: >-
   Rally Graphic/media/rally.png Link to Instagram
@@ -14,6 +13,11 @@ excerpt: >-
   staff, and Senate. Staff are picketing outside this meeting at 3:30pm outside
   the Clocktower. We join them at 4pm, after the Students for Palestine rally
   concludes. It...
+tags:
+  - course-cuts
+  - governance
+  - palestine
+  - student-politics
 ---
 
 ![Rally Graphic](/media/rally.png)

@@ -5,7 +5,6 @@ slug: university-of-auckland-all-staff-forum-29th-august-2024
 date: 2024-08-29T00:00:00.000Z
 source: https://pastebin.com/kfq2M4Ex
 author: Anonymous
-author-slug: anonymous
 permalink: >-
   /blog/2024/08/29/university-of-auckland-all-staff-forum-29th-august-2024/index.html
 excerpt: >-

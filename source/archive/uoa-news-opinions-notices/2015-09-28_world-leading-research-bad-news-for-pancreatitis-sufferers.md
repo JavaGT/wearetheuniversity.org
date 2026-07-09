@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/09/28/world-leading-research-bad-news-for-pancreatitis-sufferers/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 World leading research bad news for pancreatitis sufferers
 ==========================================================

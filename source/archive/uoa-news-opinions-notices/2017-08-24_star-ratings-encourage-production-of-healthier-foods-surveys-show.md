@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/08/24/star-ratings-encourage-production-of-healthier-foods-surveys-show/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Star ratings encourage production of healthier foods, surveys show
 ==================================================================

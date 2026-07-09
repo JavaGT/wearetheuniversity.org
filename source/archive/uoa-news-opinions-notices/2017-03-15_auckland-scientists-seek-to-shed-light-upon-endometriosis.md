@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/15/auckland-scientists-seek-to-shed-light-upon-endometriosis-2/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Auckland scientists seek to shed light upon endometriosis
 =========================================================

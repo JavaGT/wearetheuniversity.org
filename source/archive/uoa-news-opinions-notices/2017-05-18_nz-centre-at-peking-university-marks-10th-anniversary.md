@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/05/18/nz-centre-at-peking-university-marks-10th-anniversary/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 NZ Centre at Peking University marks 10th anniversary
 =====================================================

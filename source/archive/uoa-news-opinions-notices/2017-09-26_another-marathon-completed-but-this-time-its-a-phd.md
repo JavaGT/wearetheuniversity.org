@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/09/26/another-marathon-completed-but-this-time-its-a-phd/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Another marathon completed but this time it’s a PhD
 ===================================================

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/new-partnership-to-connect-engineering-and-maori-business.html
 permalink: /archive/2016/11/21/new-partnership-to-connect-engineering-and-m/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New partnership to connect engineering and Māori business
 =========================================================

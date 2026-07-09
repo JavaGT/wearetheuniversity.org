@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/12/19/Sympathy-for-Cyclone-Evan-victims.html
 permalink: /archive/2012/12/19/sympathy-for-cyclone-evan-victims/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Sympathy for Cyclone Evan victims
 =================================

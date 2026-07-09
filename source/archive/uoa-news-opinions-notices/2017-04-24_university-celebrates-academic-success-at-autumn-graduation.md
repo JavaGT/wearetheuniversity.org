@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/04/24/university-celebrates-academic-success-at-autumn-graduation/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University celebrates academic success at Autumn Graduation
 ===========================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/05/14/aotearoa-nz-maori-business-leaders-awards-2016-winners-announced/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Aotearoa NZ Maori Business Leaders Awards 2016 winners announced
 ================================================================

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/new-surgical-device-among-velocity-100k-challenge-winners.html
 permalink: /archive/2017/10/25/a-new-surgical-device-among-velocity-/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 A new surgical device among Velocity $100k Challenge winners
 ============================================================

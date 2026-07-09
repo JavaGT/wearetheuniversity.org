@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2016/06/03/upcoming-symposium-highlights-the-creative-potentials-of-dance-and-performance-in-the-21st-century/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Upcoming symposium highlights the creative potentials of dance and performance in the 21st Century
 ==================================================================================================

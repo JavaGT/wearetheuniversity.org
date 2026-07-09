@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/07/05/sir-peter-gluckmans-leadership-recognised-by-blake-medal/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Sir Peter Gluckman’s leadership recognised by Blake Medal
 =========================================================

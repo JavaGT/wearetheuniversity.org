@@ -10,6 +10,10 @@ source-url: >-
 permalink: >-
   /archive/2016/08/22/better-planning-could-have-lessened-impact-of-havelock-north-water-contamination/index.html
 layout: layout.njk
+tags:
+  - governance
+  - teu
+  - uoa-news-opinions-notices
 ---
 Better planning could have lessened impact of Havelock North water contamination
 ================================================================================

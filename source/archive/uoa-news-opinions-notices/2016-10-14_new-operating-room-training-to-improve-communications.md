@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/10/14/new-operating-room-training-to-improve-communications/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New operating room training to improve communications
 =====================================================

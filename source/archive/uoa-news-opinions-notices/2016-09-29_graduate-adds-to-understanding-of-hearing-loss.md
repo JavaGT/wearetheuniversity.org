@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/Graduate-looks-at-hearing-loss.html
 permalink: /archive/2016/09/29/graduate-adds-to-understanding-of-hearing-loss/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Graduate adds to understanding of hearing loss
 ==============================================

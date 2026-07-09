@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2017/06/15/failed-fisheries-management-system-costing-nz-economy-and-environment-experts-say/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Failed fisheries management system costing NZ economy and environment, experts say
 ==================================================================================

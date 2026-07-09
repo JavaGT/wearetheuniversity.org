@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/06/14/telling-tales-of-gendered-bodies-public-lecture-at-the-university-of-auckland/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Telling tales of gendered bodies: public lecture at the University of Auckland
 ==============================================================================

@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/jenny-kruger-s-research-funding.html
 permalink: /archive/2017/04/11/measuring-pelvic-floor-muscles-via-smartphone/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Measuring pelvic floor muscles via smartphone
 =============================================

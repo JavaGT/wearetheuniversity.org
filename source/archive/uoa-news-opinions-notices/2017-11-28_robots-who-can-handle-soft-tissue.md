@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/robots-who-can-handle-soft-tissue.html
 permalink: /archive/2017/11/28/robots-who-can-handle-soft-tissue/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Robots who can handle soft tissue
 =================================

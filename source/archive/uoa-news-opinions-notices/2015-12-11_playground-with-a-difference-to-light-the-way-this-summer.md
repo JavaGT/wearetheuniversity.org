@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/12/11/playground-with-a-difference-to-light-the-way-this-summer/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

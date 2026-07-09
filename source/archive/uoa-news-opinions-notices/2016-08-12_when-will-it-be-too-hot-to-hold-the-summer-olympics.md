@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/08/12/when-will-it-be-too-hot-to-hold-the-summer-olympics/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 When will it be too hot to hold the Summer Olympics?
 ====================================================

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/more-support-needed-for-pacific-youth.html
 permalink: /archive/2016/09/22/more-support-needed-for-pacific-youth/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 More support needed for Pacific youth
 =====================================

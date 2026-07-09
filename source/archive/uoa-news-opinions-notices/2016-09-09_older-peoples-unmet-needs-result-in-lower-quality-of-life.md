@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/09/09/older-peoples-unmet-needs-result-in-lower-quality-of-life/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Older peoples’ unmet needs result in lower quality of life
 ==========================================================

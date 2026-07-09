@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/07/05/the-turbulent-relationship-between-whales-and-humans/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 The turbulent relationship between whales and humans
 ====================================================

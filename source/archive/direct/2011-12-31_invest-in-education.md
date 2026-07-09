@@ -8,6 +8,9 @@ author: NZUSA
 author-slug: nzusa
 permalink: /archive/2011/12/31/invest-in-education/index.html
 layout: layout.njk
+tags:
+  - direct
+  - teu
 ---
 Date refers to the date page was archived by the Wayback Machine.
 Wayback machine did not archive the separate pages, so only the first page is available.

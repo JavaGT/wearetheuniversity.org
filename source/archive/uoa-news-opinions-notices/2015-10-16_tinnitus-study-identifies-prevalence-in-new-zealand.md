@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/10/16/tinnitus-study-identifies-prevalence-in-new-zealand/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Tinnitus study identifies prevalence in New Zealand
 ===================================================

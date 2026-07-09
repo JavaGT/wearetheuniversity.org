@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/17/university-of-auckland-wins-global-ranking-for-employable-graduates/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland wins global ranking for employable graduates
 ===================================================================

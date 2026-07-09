@@ -8,6 +8,8 @@ author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
 permalink: /archive/2020/10/06/massey-cuts-a-third-of-science/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 6-October-2020

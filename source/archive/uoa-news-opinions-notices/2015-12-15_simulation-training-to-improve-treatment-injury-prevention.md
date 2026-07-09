@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/12/15/simulation-training-to-improve-treatment-injury-prevention/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Simulation training to improve treatment injury prevention
 ==========================================================

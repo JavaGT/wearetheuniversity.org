@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/08/18/university-of-auckland-academics-win-top-teaching-accolades/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 University of Auckland academics win top teaching accolades
 ===========================================================

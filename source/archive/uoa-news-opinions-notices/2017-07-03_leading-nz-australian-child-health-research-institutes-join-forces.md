@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/07/03/leading-nz-australian-child-health-research-institutes-join-forces/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Leading NZ-Australian child health research institutes join forces
 ==================================================================

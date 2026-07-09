@@ -11,6 +11,8 @@ excerpt: >-
 author: Frank Bloomfield <f.bloomfield@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2025/04/15/severe-weather-message/index.html
+tags:
+  - uoa-staff-communications
 ---
 Attachment: [smime.p7s](/attachments/smime.p7s)
 Kia ora koutou,

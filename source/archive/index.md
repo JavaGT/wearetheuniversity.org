@@ -11,6 +11,20 @@ This host holds documents and mirrored material for research and accountability 
 
 **Campaign writing, actions, and contact live on** [wearetheuniversity.org](https://wearetheuniversity.org/).
 
+## Search
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    if (window.PagefindUI) {
+      new PagefindUI({ element: '#search', showSubResults: true });
+    }
+  });
+</script>
+<p><small>Full-text search (Pagefind). Also: <a href="/feed.xml">RSS feed</a>.</small></p>
+
 ## Browse
 
 | Browse by | |

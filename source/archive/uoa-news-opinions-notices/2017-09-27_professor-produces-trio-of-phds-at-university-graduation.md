@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/09/27/professor-produces-trio-of-phds-at-university-graduation/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Professor produces trio of PhDs at University graduation
 ========================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/11/03/popular-book-has-guided-teachers-for-two-decades/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Popular book has guided teachers for two decades
 ================================================

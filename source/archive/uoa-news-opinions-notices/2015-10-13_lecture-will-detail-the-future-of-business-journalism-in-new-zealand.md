@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/10/13/lecture-will-detail-the-future-of-business-journalism-in-new-zealand/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Lecture will detail the future of business journalism in New Zealand
 ====================================================================

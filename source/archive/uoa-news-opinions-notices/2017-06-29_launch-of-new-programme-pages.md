@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/06/launch-of-new-programme-pages.html
 permalink: /archive/2017/06/29/launch-of-new-programme-pages/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Launch of new Programme pages
 =============================

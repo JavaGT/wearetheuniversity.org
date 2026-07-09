@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/11/23/legal-case-increases-understanding-of-mental-health/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

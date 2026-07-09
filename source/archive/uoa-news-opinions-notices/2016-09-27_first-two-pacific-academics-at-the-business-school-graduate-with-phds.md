@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/09/27/first-two-pacific-academics-at-the-business-school-graduate-with-phds/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

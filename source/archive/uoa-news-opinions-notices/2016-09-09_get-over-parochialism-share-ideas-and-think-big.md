@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/09/09/get-over-parochialism-share-ideas-and-think-big-2/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

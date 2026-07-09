@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/07/15/fast-forward-explores-vital-role-of-architecture-and-urban-planning/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/03/21/prestigious-international-award-for-liggins-scientist/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Prestigious International Award for Liggins Scientist
 =====================================================

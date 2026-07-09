@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/11/03/tireless-marine-campaigner-will-be-sorely-missed/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Tireless marine campaigner will be sorely missed
 ================================================

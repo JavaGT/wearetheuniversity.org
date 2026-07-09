@@ -9,6 +9,9 @@ author-slug: luke-oldfield
 permalink: >-
   /archive/2020/05/18/job-losses-threaten-the-quality-of-our-universities/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 
 **Luke Oldfield**

@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/kiwi-student-to-join-leg-of-tara-expedition.html
 permalink: /archive/2017/06/06/kiwi-student-to-join-leg-of-tara-expedition/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Kiwi student to join leg of Tara expedition
 ===========================================

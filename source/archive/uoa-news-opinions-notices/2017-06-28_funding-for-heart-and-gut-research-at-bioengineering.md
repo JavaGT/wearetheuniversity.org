@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/06/28/funding-for-heart-and-gut-research-at-bioengineering/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Funding for heart and gut research at Bioengineering
 ====================================================

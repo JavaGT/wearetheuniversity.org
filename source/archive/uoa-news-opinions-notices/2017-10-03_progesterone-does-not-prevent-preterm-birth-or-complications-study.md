@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/03/progesterone-does-not-prevent-preterm-birth-or-complications-study/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Progesterone does not prevent preterm birth or complications: study
 ===================================================================

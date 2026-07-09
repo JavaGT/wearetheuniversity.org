@@ -8,6 +8,8 @@ author: Auckland Action Against Poverty
 author-slug: auckland-action-against-poverty
 permalink: /archive/2012/03/30/aaap-post-budget-picket/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 [https://www.facebook.com/events/403971106309288/](https://web.archive.org/web/20130208031128/https://www.facebook.com/events/403971106309288/)

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/09/new-website-homepages-to-be-launched.html
 permalink: /archive/2017/10/24/new-website-homepages-launched/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New website homepages launched
 ==============================

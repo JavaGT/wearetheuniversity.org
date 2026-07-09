@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/taking-on-obesity-with-science-and-education.html
 permalink: /archive/2017/01/11/taking-on-obesity-with-science-and-education/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Taking on obesity with science and education
 ============================================

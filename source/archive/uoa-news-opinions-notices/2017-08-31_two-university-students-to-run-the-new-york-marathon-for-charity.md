@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/08/31/two-university-students-to-run-the-new-york-marathon-for-charity/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Two university students to run the New York Marathon for charity
 ================================================================

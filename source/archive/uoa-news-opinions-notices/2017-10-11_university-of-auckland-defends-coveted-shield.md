@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/university-of-auckland-defends-coveted-shield.html
 permalink: /archive/2017/10/11/university-of-auckland-defends-coveted-shield/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland defends coveted Shield
 =============================================

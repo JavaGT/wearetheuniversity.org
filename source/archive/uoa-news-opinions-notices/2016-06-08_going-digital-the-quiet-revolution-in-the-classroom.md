@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/06/08/going-digital-the-quiet-revolution-in-the-classroom/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Going digital: the quiet revolution in the classroom
 ====================================================

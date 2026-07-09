@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/05/17/evolution-of-the-ct-scan-colour-x-rays-the-next-big-development/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Evolution of the CT scan: colour x-rays the next big development
 ================================================================

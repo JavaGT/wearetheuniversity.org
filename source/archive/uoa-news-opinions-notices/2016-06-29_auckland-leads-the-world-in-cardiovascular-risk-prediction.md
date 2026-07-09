@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/06/29/auckland-leads-the-world-in-cardiovascular-risk-prediction/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/07/31/rise-in-e-cigarettes-linked-to-rise-in-smokers-quitting-say-researchers/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Rise in e-cigarettes linked to rise in smokers quitting, say researchers
 ========================================================================

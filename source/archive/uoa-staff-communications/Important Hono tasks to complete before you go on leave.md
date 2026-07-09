@@ -11,6 +11,8 @@ author: Staff Communications <staff-comms@auckland.ac.nz>
 to: all-staff@list.auckland.ac.nz
 permalink: >-
   /archive/2024/11/29/important-hono-tasks-to-complete-before-you-go-on-leave/index.html
+tags:
+  - uoa-staff-communications
 ---
 Kia ora koutou
 

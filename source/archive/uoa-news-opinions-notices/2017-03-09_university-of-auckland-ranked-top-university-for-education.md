@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/03/09/university-of-auckland-ranked-top-university-for-education/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

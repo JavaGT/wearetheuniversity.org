@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/09/14/jake-mahaffy-wins-the-orizzonti-award-for-best-film-at-venice-film-festival/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

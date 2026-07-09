@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/10/13/new-partnership-boosts-overseas-study-opportunities-for-students/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

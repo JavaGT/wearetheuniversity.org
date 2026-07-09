@@ -8,6 +8,9 @@ author: Johnny Truant
 author-slug: johnny-truant
 permalink: /archive/2012/03/18/reclamation-theory-into-practice/index.html
 layout: layout.njk
+tags:
+  - direct
+  - teu
 ---
 
 **Plan a Campaign:**

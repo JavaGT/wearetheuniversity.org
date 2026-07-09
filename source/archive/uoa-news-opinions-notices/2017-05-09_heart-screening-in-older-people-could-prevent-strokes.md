@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/05/09/heart-screening-in-older-people-could-prevent-strokes/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

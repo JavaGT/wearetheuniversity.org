@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/11/28/trial-finds-aspirin-does-not-speed-leg-ulcer-healing/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Trial finds aspirin does not speed leg ulcer healing
 ====================================================

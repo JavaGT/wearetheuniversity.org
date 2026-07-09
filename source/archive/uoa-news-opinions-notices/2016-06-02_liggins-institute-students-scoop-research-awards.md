@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/06/02/liggins-institute-students-scoop-research-awards/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Liggins Institute students scoop research awards
 ================================================

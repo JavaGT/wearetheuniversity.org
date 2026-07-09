@@ -9,6 +9,9 @@ author: University of Auckland
 author-slug: university-of-auckland
 permalink: /archive/2025/01/01/leadership-team/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 # Leadership team

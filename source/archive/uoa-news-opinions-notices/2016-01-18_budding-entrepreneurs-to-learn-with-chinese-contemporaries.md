@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/01/18/budding-entrepreneurs-to-learn-with-chinese-contemporaries/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

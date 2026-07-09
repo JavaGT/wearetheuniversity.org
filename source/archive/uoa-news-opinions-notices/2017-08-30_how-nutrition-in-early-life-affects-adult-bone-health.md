@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/08/30/how-nutrition-in-early-life-affects-adult-bone-health/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

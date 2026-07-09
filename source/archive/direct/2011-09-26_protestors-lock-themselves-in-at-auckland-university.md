@@ -10,6 +10,8 @@ author-slug: unknown
 permalink: >-
   /archive/2011/09/26/protestors-lock-themselves-in-at-auckland-university/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 <audio src="https://podcast.radionz.co.nz/ckpt/ckpt-20110926-1727-protestors_lock_themselves_in_at_auckland_university-048.mp3" controls>

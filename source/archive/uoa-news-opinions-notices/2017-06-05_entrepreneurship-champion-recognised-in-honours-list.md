@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/06/05/entrepreneurship-champion-recognised-in-honours-list/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Entrepreneurship champion recognised in honours list
 ====================================================

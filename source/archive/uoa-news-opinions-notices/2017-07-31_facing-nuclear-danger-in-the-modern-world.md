@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/facing-nuclear-danger-in-the-moder-nworld.html
 permalink: /archive/2017/07/31/facing-nuclear-danger-in-the-modern-world/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Facing nuclear danger in the modern world
 =========================================

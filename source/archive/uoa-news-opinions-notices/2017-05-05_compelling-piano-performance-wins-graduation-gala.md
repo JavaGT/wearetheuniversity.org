@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/05/compelling-piano-performance-wins-graduation-gala/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Compelling piano performance wins Graduation Gala
 =================================================

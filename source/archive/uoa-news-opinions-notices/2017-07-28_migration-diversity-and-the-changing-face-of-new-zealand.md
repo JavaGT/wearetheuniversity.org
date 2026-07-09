@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/07/28/migration-diversity-and-the-changing-face-of-new-zealand/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Migration, diversity and the changing face of New Zealand
 =========================================================

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/05/03/using-computers-to-better-understand-human-physiology/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

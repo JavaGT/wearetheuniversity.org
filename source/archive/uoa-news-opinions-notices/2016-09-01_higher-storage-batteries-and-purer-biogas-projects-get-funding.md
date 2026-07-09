@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/09/01/higher-storage-batteries-and-purer-biogas-projects-get-funding/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Higher-storage batteries and purer biogas projects get funding
 ==============================================================

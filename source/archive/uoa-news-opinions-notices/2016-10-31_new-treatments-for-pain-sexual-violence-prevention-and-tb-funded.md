@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2016/10/31/new-treatments-for-pain-sexual-violence-prevention-and-tb-funded/index.html
 layout: layout.njk
+tags:
+  - governance
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 New treatments for pain, sexual violence prevention and TB funded
 =================================================================

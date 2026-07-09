@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/public-lecture-on-the-visual-culture-of-war.html
 permalink: /archive/2015/09/25/public-lecture-on-the-visual-culture-of-war/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Public lecture on the visual culture of war
 ===========================================

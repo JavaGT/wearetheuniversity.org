@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/ocean-between-nz-and-australia-a-hotspot.html
 permalink: /archive/2016/08/29/ocean-between-nz-and-australia-a-hotspot/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Ocean between NZ and Australia a “hotspot”
 ==========================================

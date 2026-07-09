@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/11/21/korimako-trio-win-prestigious-chamber-music-scholarship/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Korimako Trio win prestigious chamber music scholarship
 =======================================================

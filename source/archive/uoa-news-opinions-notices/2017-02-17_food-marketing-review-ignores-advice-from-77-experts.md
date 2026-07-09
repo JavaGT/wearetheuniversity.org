@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/02/17/food-marketing-review-ignores-advice-from-77-experts/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Food marketing review ignores advice from 77 experts
 ====================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/02/23/auckland-brain-researchers-show-how-parkinsons-spreads/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Auckland brain researchers show how Parkinson’s spreads
 =======================================================

@@ -9,6 +9,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/university-of-auckland-launches-300m-fundraising-campaign.html
 permalink: /archive/2016/09/23/university-of-auckland-launches-/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland launches $300m fundraising campaign to address national issues
 =====================================================================================

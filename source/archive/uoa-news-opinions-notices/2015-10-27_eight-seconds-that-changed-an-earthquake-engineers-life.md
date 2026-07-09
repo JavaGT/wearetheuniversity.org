@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/10/27/eight-seconds-that-changed-an-earthquake-engineers-life/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Eight seconds that changed an earthquake engineer’s life
 ========================================================

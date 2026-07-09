@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/05/11/university-of-auckland-recognises-best-phd-research/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland recognises best PhD research
 ===================================================

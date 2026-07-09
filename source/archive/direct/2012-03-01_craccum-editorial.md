@@ -8,6 +8,8 @@ author: Thomas Dykes
 author-slug: thomas-dykes
 permalink: /archive/2012/03/01/craccum-editorial/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 You asked for it and now you’ve got it. Welcome to the new Craccum.

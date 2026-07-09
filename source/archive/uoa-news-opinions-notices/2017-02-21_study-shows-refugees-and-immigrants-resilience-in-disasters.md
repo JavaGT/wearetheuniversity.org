@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2017/02/21/study-shows-refugees-and-immigrants-resilience-in-disasters/index.html
 layout: layout.njk
+tags:
+  - governance
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Study shows refugees’ and immigrants’ resilience in disasters
 =============================================================

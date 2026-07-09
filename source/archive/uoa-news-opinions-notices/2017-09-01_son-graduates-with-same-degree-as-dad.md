@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/son-graduates-with-same-degree-as-dad.html
 permalink: /archive/2017/09/01/son-graduates-with-same-degree-as-dad/index.html
 layout: layout.njk
+tags:
+  - merger
+  - uoa-news-opinions-notices
 ---
 Son graduates with same degree as Dad
 =====================================

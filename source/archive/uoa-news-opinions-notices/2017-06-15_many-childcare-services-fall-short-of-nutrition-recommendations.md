@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/06/15/many-childcare-services-fall-short-of-nutrition-recommendations/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Many childcare services fall short of nutrition recommendations
 ===============================================================

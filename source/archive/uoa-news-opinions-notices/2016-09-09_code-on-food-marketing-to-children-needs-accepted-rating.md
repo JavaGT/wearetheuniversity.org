@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/09/09/code-on-food-marketing-to-children-needs-accepted-rating/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

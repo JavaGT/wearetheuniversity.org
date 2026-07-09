@@ -11,6 +11,8 @@ excerpt: >-
 author: Staff Communications <staff-comms@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2025/03/24/incident-on-symonds-street-monday-24-march-2025/index.html
+tags:
+  - uoa-staff-communications
 ---
 Kia ora koutou
 Earlier today there was a serious incident involving a car and pedestrians on Symonds Street outside the Engineering Building and Hiwa Recreation Centre. The University is working closely with Auckland emergency services. Symonds Street is closed between Wellesley Street and Grafton Road. Please follow police instructions in the area.

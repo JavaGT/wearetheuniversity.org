@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/02/update-on-the-auckland-university-european-students-association/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Update on the Auckland University European Students Association
 ===============================================================

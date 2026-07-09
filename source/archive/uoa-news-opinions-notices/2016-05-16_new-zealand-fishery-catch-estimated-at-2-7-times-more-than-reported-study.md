@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/05/16/new-zealand-fishery-catch-estimated-at-2-7-times-more-than-reported-study/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New Zealand fishery catch estimated at 2.7 times more than reported: study
 ==========================================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/09/13/major-new-investment-in-university-of-auckland-science/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Major new investment in University of Auckland Science
 ======================================================

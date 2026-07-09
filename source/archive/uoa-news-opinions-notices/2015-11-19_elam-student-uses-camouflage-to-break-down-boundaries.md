@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/11/19/elam-student-uses-camouflage-to-break-down-boundaries/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Elam student uses camouflage to break down boundaries
 =====================================================

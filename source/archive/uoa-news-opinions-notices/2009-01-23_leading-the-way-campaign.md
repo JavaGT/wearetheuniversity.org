@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/01/23/Leading-the-Way-Campaign..html
 permalink: /archive/2009/01/23/leading-the-way-campaign/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Leading the Way Campaign.
 =========================

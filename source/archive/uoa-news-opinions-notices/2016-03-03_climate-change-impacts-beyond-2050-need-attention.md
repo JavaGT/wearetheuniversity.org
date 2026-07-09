@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/03/03/climate-change-impacts-beyond-2050-need-attention/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Climate change impacts beyond 2050 need attention
 =================================================

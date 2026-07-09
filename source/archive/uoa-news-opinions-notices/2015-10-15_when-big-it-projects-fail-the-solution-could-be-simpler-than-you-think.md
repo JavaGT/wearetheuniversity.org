@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/10/15/when-big-it-projects-fail-the-solution-could-be-simpler-than-you-think/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 When big IT projects fail: the solution could be simpler than you think
 =======================================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/03/01/rising-star-honoured-as-young-alumna-of-the-year/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Rising star honoured as Young Alumna of the Year
 ================================================

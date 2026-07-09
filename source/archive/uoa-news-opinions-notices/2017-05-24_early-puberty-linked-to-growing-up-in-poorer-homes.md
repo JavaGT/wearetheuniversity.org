@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/24/early-puberty-linked-to-growing-up-in-poorer-homes/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Early puberty linked to growing up in poorer homes
 ==================================================

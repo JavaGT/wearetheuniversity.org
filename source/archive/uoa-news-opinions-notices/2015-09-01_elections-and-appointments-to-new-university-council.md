@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/09/01/elections-and-appointments-to-new-university-council/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Elections and appointments to new University Council
 ====================================================

@@ -8,6 +8,9 @@ author: Hala Nasr
 author-slug: hala-nasr
 permalink: /archive/2012/03/30/health-is-not-a-priority-profit-is/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 Have to say, the middle management at the university certainly are consistent – never failing to drive home one inexhaustible message to students: ‘Show us the money!’

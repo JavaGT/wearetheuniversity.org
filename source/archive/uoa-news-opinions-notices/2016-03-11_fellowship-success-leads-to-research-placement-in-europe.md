@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/03/11/fellowship-success-leads-to-research-placement-in-europe/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Fellowship success leads to research placement in Europe
 ========================================================

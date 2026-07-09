@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/07/15/action-needed-now-on-unhealthy-marketing-to-kids/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Action needed now on unhealthy marketing to kids
 ================================================

@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/24/jon-stephensons-back-story-in-hit-and-run-revealed-in-academics-book-reporting-from-the-danger-zone/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Jon Stephenson’s back story in Hit and Run revealed in academic’s book, Reporting from the Danger Zone.
 =======================================================================================================

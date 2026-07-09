@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/new-justice-advisory-role-for-dr-ian-lambie.html
 permalink: /archive/2015/12/11/new-justice-advisory-role-for-dr-ian-lambie/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New Justice advisory role for Dr Ian Lambie
 ===========================================

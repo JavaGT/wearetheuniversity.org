@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/auckland-doctor-training-expands-in-the-regions.html
 permalink: /archive/2017/01/26/auckland-doctor-training-expands-in-the-regions/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Auckland doctor training expands in the regions
 ===============================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/02/09/university-of-auckland-engineering-leader-appointed-to-mbie-role/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 University of Auckland Engineering leader appointed to MBIE role
 ================================================================

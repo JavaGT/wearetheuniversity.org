@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2016/08/26/police-authorities-and-chinese-community-need-to-work-together-for-a-safer-new-zealand/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Police, authorities and Chinese community need to work together for a safer New Zealand
 =======================================================================================

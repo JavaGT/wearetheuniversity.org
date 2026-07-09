@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/03/university-of-auckland-engineering-gets-marsden-funding-of-/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 University of Auckland Engineering gets Marsden funding of $1.7 million
 =======================================================================

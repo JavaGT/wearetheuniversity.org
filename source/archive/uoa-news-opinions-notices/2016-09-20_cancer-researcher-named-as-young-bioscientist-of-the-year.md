@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2016/09/20/cancer-researcher-named-as-young-bioscientist-of-the-year/index.html
 layout: layout.njk
+tags:
+  - governance
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Cancer researcher named as Young Bioscientist of the Year
 =========================================================

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/05/23/hundreds-of-new-scholarships-to-support-more-students/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Hundreds of new scholarships to support more students
 =====================================================

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/03/22/new-zealands-first-dementia-prevention-research-clinic/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 New Zealand's first dementia prevention research clinic
 =======================================================

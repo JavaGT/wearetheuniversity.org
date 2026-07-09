@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/05/17/elegant-flute-performance-wins-graduation-gala-concerto-competition/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Elegant flute performance wins Graduation Gala Concerto Competition
 ===================================================================

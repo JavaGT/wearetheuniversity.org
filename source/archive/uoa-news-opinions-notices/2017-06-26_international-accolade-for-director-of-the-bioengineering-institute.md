@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/06/26/international-accolade-for-director-of-the-bioengineering-institute/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 International accolade for director of the Bioengineering Institute
 ===================================================================

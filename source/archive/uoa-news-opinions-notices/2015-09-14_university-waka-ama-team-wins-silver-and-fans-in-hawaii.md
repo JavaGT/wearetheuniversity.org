@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/09/14/university-waka-ama-team-wins-silver-and-fans-in-hawaii/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

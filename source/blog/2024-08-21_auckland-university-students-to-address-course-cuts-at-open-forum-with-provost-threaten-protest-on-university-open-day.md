@@ -9,7 +9,6 @@ date: 2024-08-21T00:00:00.000Z
 source: >-
   https://www.scoop.co.nz/stories/ED2408/S00045/auckland-university-students-to-address-course-cuts-at-open-forum-with-provost-threaten-protest-on-university-open-day.htm
 author: We Are The University
-author-slug: we-are-the-university
 permalink: >-
   /blog/2024/08/21/auckland-university-students-to-address-course-cuts-at-open-forum-with-provost-threaten-protest-on-university-open-day/index.html
 excerpt: >-
@@ -18,6 +17,10 @@ excerpt: >-
   6:18 pm Press Release: We are the University Date: Thursday, 22 August Time:
   2:30 PM–3:30 PM Location: UoA Student Quad, City Campus Concerned Waipapa
   Taumata Rau – The...
+tags:
+  - course-cuts
+  - governance
+  - student-politics
 ---
 Auckland University Students To Address Course Cuts At Open Forum With Provost, Threaten Protest On University Open Day
 Wednesday, 21 August 2024, 6:18 pm

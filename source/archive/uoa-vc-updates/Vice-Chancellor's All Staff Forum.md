@@ -14,6 +14,9 @@ excerpt: >-
 author: all-staff-request@list.auckland.ac.nz
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2025/05/25/vice-chancellor-s-all-staff-forum/index.html
+tags:
+  - governance
+  - uoa-vc-updates
 ---
 Attachment: [undefined](/attachments/attachment_1783636964690)
 Topic: AI

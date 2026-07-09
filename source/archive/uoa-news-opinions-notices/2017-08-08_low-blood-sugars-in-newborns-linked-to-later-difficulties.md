@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/08/08/low-blood-sugars-in-newborns-linked-to-later-difficulties/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

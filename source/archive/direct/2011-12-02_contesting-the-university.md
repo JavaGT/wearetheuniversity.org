@@ -8,6 +8,8 @@ author: Campbell Jones
 author-slug: campbell-jones
 permalink: /archive/2011/12/02/contesting-the-university/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 'Contesting the University' stream tomorrow, 1.30-3.00, Friday 2 December, at the Graduate Centre, University of Auckland. We are the University.

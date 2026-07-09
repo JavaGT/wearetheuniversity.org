@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/08/11/nutrition-and-health-claims-could-mislead-consumers/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Nutrition and health claims could mislead consumers
 ===================================================

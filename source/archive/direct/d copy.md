@@ -7,6 +7,10 @@ source-url: >-
 title: University guidance on new U.S. regulations
 permalink: /archive/2025/01/01/university-guidance-on-new-us-regulations/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - student-politics
 ---
 University guidance on new U.S. regulations
 

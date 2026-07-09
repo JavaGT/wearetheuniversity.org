@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/dome-brings-to-life-rich-world-of-sound--.html
 permalink: /archive/2016/07/08/dome-brings-to-life-rich-world-of-sound/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Dome brings to life rich world of sound
 =======================================

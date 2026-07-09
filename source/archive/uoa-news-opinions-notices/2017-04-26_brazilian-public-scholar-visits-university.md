@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/brazilian-scholar-visits-university.html
 permalink: /archive/2017/04/26/brazilian-public-scholar-visits-university/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Brazilian public scholar visits University
 ==========================================

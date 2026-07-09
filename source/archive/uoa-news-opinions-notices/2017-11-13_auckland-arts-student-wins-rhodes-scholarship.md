@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/auckland-arts-student-wins-rhodes-scholarship.html
 permalink: /archive/2017/11/13/auckland-arts-student-wins-rhodes-scholarship/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Auckland Arts student wins Rhodes scholarship
 =============================================

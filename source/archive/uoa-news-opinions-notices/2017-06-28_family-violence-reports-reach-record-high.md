@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/family-violence-reports-reach-record-high.html
 permalink: /archive/2017/06/28/family-violence-reports-reach-record-high/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Family violence reports reach record high
 =========================================

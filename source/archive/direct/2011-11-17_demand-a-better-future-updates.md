@@ -8,6 +8,8 @@ author: NZUSA
 author-slug: nzusa
 permalink: /archive/2011/11/17/demand-a-better-future-updates/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 Date refers to the date page was archived by the Wayback Machine. Only one page is available.
 ## Updates

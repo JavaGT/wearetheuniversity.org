@@ -10,6 +10,10 @@ author-slug: university-of-auckland
 permalink: >-
   /archive/2024/11/19/staff-focused-q-and-a-on-proposed-new-faculty-arrangements-business-and-economics-law/index.html
 layout: layout.njk
+tags:
+  - governance
+  - merger
+  - uoa-staff-communications
 ---
 
 # Staff-focused Q&A on proposed new faculty arrangements: Business and Economics, Law

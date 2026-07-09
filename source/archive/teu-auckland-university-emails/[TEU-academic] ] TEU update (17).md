@@ -11,6 +11,9 @@ excerpt: >-
 author: Barry Hughes <b.hughes@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 permalink: /archive/2023/12/08/teu-academic-teu-update/index.html
+tags:
+  - teu
+  - teu-auckland-university-emails
 ---
 [Māori Language Week_IntranetBanner-1]![](/attachments/image001.png)
 

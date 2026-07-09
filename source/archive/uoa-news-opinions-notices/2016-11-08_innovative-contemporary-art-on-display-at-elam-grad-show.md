@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/11/08/innovative-contemporary-art-on-display-at-elam-grad-show/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Innovative contemporary art on display at Elam Grad Show
 ========================================================

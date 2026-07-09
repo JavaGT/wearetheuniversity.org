@@ -8,6 +8,9 @@ author-slug: jai-bentley-payne
 permalink: >-
   /archive/2012/04/01/teach-in-ports-of-auckland-dispute-and-the-assault-against-workers/index.html
 layout: layout.njk
+tags:
+  - direct
+  - teu
 ---
 
 # Teach-in: Ports of Auckland Dispute and the Assault Against Workers

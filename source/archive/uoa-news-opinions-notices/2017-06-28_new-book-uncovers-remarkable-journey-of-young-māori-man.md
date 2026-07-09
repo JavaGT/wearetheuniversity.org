@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/new-book-uncovers-remarkable-journey-of-young-mori-man.html
 permalink: /archive/2017/06/28/new-book-uncovers-remarkable-journey-of-young-m/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 New book uncovers remarkable journey of young Māori man
 =======================================================

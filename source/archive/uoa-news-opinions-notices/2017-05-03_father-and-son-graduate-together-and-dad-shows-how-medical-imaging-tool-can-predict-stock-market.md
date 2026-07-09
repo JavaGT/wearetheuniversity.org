@@ -10,5 +10,7 @@ source-url: >-
 permalink: >-
   /archive/2017/05/03/father-and-son-graduate-together-and-dad-shows-how-medical-imaging-tool-can-predict-stock-market/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

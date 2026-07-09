@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2009/01/15/accessing-cecil-and-webmail-from-our-new-website/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Accessing CECIL and Webmail from our new website
 ================================================

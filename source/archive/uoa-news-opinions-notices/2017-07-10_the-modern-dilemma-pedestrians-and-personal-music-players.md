@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/07/10/the-modern-dilemma-pedestrians-and-personal-music-players/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 The modern dilemma: pedestrians and personal music players
 ==========================================================

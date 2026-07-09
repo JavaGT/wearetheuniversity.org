@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/02/29/university-of-auckland-acknowledges-dr-ranginui-walker/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland acknowledges Dr Ranginui Walker
 ======================================================

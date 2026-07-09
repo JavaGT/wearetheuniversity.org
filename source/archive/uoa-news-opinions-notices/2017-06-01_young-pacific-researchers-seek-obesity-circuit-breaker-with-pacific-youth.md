@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/06/01/young-pacific-researchers-seek-obesity-circuit-breaker-with-pacific-youth/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Young Pacific researchers seek obesity circuit-breaker with Pacific youth
 =========================================================================

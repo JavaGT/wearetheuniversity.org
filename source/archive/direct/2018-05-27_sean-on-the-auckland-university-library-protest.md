@@ -8,6 +8,8 @@ author: Charlotte Mason
 author-slug: charlotte-mason
 permalink: /archive/2018/05/27/sean-on-the-auckland-university-library-protest/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 https://www.youtube.com/shorts/nVJvuB4vPso

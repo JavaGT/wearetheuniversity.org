@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/09/19/china-university-delegation-hosted-by-university-of-auckland/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 China university delegation hosted by University of Auckland
 ============================================================

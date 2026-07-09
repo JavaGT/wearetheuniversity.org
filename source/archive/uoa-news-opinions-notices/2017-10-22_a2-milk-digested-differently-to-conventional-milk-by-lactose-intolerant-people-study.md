@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2017/10/22/a2-milk-digested-differently-to-conventional-milk-by-lactose-intolerant-people-study/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 a2 Milk™ digested differently to conventional milk by lactose intolerant people – study
 =======================================================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/08/01/sniffing-out-the-enemy-scent-may-be-stoats-achilles-heel/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Sniffing out the enemy: scent may be stoats’ Achilles heel
 ==========================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/06/07/aeronautics-engineer-named-in-queens-birthday-honours/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Aeronautics engineer named in Queen’s Birthday Honours
 ======================================================

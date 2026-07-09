@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/10/05/major-donation-boosts-new-zealand-medtech-and-neuroscience-research/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Major donation boosts New Zealand medtech and neuroscience research
 ===================================================================

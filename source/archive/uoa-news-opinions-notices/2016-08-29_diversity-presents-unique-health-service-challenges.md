@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/08/29/diversity-presents-unique-health-service-challenges/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Diversity presents unique health service challenges
 ===================================================

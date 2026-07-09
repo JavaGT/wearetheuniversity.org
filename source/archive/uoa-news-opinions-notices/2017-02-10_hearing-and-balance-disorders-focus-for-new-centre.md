@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/02/10/hearing-and-balance-disorders-focus-for-new-centre/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Hearing and balance disorders focus for new centre
 ==================================================

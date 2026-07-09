@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/12/09/major-medical-science-collaboration-in-china-first-of-its-kind-for-new-zealand/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Major medical science collaboration in China first of its kind for New Zealand
 ==============================================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/09/14/new-earthquake-resilient-technology-for-buildings-receives-mbie-funding/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New earthquake resilient technology for buildings receives MBIE funding
 =======================================================================

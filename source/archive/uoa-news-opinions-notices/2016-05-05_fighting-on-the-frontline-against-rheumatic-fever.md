@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/05/05/fighting-on-the-frontline-against-rheumatic-fever/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Fighting on the frontline against rheumatic fever
 =================================================

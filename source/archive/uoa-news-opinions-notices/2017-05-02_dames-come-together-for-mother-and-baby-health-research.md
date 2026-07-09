@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/02/dames-come-together-for-mother-and-baby-health-research/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Dames come together for mother and baby health research
 =======================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/10/13/gps-and-pharmacists-most-popular-for-elderly-healthcare/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 GPs and pharmacists most popular for elderly healthcare
 =======================================================

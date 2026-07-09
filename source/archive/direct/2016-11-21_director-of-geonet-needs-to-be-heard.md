@@ -8,6 +8,8 @@ author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
 permalink: /archive/2016/11/21/director-of-geonet-needs-to-be-heard/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 The New Zealand Association of Scientists (Inc.)

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/04/22/the-shorter-the-mother-the-higher-the-odds-of-having-a-premature-baby-study/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 The shorter the mother, the higher the odds of having a premature baby: study
 =============================================================================

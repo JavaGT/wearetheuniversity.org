@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/03/concerns-over-posters-on-campus.html
 permalink: /archive/2017/03/20/concerns-over-posters-on-campus/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Concerns over posters on campus
 ===============================

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/15/university-awards-honorary-degrees-to-prominent-supporters/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University awards honorary degrees to prominent supporters
 ==========================================================

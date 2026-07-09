@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/11/28/black-holes-and-death-stars-free-public-symposium/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Black holes and death stars: free public symposium
 ==================================================

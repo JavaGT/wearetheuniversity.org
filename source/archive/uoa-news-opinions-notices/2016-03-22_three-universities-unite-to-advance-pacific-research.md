@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/03/22/three-universities-unite-to-advance-pacific-research/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/04/07/te-arawa-high-achiever-wins-academic-scholarship/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Te Arawa high achiever wins academic scholarship
 ================================================

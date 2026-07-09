@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/02/01/tobacco-smokers-invited-to-participate-in-quit-trial/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

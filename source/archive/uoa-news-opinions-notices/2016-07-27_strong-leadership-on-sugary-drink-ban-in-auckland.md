@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/07/27/strong-leadership-on-sugary-drink-ban-in-auckland/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Strong leadership on sugary drink ban in Auckland
 =================================================

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/02/20/Resurfacing-on-Symonds-Street.html
 permalink: /archive/2009/02/20/resurfacing-on-symonds-street/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Resurfacing on Symonds Street
 =============================

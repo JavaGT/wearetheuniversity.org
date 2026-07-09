@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/bioengineering-graduate-tackles-sunburn.html
 permalink: /archive/2017/09/26/bioengineering-graduate-tackles-sunburn/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Bioengineering graduate tackles sunburn
 =======================================

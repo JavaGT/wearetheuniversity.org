@@ -7,7 +7,6 @@ source: >-
   https://web.archive.org/web/20130208030939/http://wearetheuniversity.org.nz/ethos/
 source-name: wearetheuniversity.org.nz (archived)
 author: We Are The University
-author-slug: we-are-the-university
 permalink: /blog/2024/09/01/original-ethos/index.html
 excerpt: >-
   We are a community of students and staff who are committed to the University

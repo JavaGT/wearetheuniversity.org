@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/10/17/whimsical-playhouse-gifted-to-local-enviroschool/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Whimsical playhouse gifted to local Enviroschool
 ================================================

@@ -12,6 +12,9 @@ author: Chancellor, University of Auckland <chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: >-
   /archive/2025/06/12/statement-from-university-of-auckland-chancellor-cecilia-tarrant/index.html
+tags:
+  - governance
+  - uoa-staff-communications
 ---
 Kia ora koutou
 

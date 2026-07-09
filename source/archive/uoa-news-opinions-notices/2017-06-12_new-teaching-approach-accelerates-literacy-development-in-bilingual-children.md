@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/06/12/new-teaching-approach-accelerates-literacy-development-in-bilingual-children/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New teaching approach accelerates literacy development in bilingual children
 ============================================================================

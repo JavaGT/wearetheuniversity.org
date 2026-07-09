@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/09/28/new-technologies-a-challenge-even-for-mathematicians/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New technologies a challenge even for mathematicians
 ====================================================

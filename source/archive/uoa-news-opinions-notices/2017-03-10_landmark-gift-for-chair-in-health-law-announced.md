@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/landmark-gift-for-chair-in-health-law-announced.html
 permalink: /archive/2017/03/10/landmark-gift-for-chair-in-health-law-announced/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Landmark gift for Chair in Health Law announced
 ===============================================

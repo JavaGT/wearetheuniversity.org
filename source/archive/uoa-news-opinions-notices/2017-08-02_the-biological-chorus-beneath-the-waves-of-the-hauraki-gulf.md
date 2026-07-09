@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/08/02/the-biological-chorus-beneath-the-waves-of-the-hauraki-gulf/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 The biological chorus beneath the waves of the Hauraki Gulf
 ===========================================================

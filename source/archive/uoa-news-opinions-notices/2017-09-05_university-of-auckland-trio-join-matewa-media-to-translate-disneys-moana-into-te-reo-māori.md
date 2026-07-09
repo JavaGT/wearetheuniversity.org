@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2017/09/05/university-of-auckland-trio-join-matewa-media-to-translate-disneys-moana-into-te-reo-m/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 University of Auckland trio join Matewa Media to translate Disney's Moana into te reo Māori
 ===========================================================================================

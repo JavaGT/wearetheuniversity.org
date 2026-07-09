@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/09/16/beca-scholarships-for-outstanding-young-engineers/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

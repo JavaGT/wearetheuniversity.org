@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/11/migraine-researcher-awarded-james-cook-fellowship/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Migraine researcher awarded James Cook Fellowship
 =================================================

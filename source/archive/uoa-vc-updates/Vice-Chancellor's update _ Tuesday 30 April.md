@@ -12,6 +12,10 @@ excerpt: >-
 author: University of Auckland <studentinfo@auckland.ac.nz>
 to: ''
 permalink: /archive/2024/04/30/vice-chancellor-s-update-tuesday-30-april/index.html
+tags:
+  - governance
+  - palestine
+  - uoa-vc-updates
 ---
  
 

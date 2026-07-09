@@ -11,6 +11,9 @@ excerpt: >-
 author: Noel Zeng <noel.zeng@auckland.ac.nz>
 to: teu-professional-staff@list.auckland.ac.nz, teu-academic@list.auckland.ac.nz
 permalink: /archive/2024/03/11/teu-academic-bargaining-claims-member-survey/index.html
+tags:
+  - teu
+  - teu-auckland-university-emails
 ---
 Tēnā tātou katoa,
 

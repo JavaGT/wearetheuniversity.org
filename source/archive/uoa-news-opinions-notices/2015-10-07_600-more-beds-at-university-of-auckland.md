@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/600-more-beds-at-university-of-auckland-.html
 permalink: /archive/2015/10/07/600-more-beds-at-university-of-auckland/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 600 more beds at University of Auckland
 =======================================

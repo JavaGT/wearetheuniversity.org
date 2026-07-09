@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/01/13/Update-Applications-for-Semester-One-2011.html
 permalink: /archive/2010/12/31/update-applications-for-semester-one-2011/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Update: Applications for Semester One, 2011
 ===========================================

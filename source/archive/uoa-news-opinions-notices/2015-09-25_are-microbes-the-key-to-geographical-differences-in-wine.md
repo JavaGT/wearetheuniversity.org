@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/09/25/are-microbes-the-key-to-geographical-differences-in-wine/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Are microbes the key to geographical differences in wine?
 =========================================================

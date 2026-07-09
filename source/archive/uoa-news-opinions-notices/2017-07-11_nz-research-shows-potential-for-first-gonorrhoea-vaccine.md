@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/07/11/nz-research-shows-potential-for-first-gonorrhoea-vaccine-2/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

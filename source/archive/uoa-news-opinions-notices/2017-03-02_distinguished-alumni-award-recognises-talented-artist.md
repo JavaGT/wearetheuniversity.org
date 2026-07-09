@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/03/02/distinguished-alumni-award-recognises-talented-artist/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Distinguished Alumni Award recognises talented artist
 =====================================================

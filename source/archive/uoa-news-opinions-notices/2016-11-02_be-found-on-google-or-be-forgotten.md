@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/Google-AdWords-winners.html
 permalink: /archive/2016/11/02/be-found-on-google-or-be-forgotten/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Be found on Google or be forgotten
 ==================================

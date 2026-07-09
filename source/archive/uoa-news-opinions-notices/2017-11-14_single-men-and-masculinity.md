@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/single-men-and-masculinity.html
 permalink: /archive/2017/11/14/single-men-and-masculinity/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Single men and masculinity
 ==========================

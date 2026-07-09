@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2017/06/02/study-reveals-relationship-between-how-kids-spend-their-time-and-their-quality-of-life/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Study reveals relationship between how kids spend their time and their quality of life
 ======================================================================================

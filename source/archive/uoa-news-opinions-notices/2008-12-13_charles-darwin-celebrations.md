@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/2008/12/13/Charles-Darwin-celebrations.html
 permalink: /archive/2008/12/13/charles-darwin-celebrations/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Charles Darwin celebrations
 ===========================

@@ -12,6 +12,9 @@ excerpt: >-
 author: Chancellor, University of Auckland <chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2025/08/20/appointment-of-vice-chancellor/index.html
+tags:
+  - governance
+  - uoa-staff-communications
 ---
 Kia ora koutou
 

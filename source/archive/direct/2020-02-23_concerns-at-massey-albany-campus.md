@@ -8,6 +8,8 @@ author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
 permalink: /archive/2020/02/23/concerns-at-massey-albany-campus/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 23-Feb-2020

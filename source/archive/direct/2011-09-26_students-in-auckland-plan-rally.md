@@ -9,6 +9,9 @@ author: We Are The University
 author-slug: we-are-the-university
 permalink: /archive/2011/09/26/students-in-auckland-plan-rally/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 **26th<sup>nd</sup> September 2011**

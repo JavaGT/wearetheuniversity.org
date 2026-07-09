@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/10/20/whitewater-and-food-among-top-clubs-for-students/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Whitewater and food among top clubs for students
 ================================================

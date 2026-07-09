@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2012/07/17/nominations-open-for-sports-arts-and-cultural-blues-awards/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Nominations open for sports, arts and cultural blues awards
 ===========================================================

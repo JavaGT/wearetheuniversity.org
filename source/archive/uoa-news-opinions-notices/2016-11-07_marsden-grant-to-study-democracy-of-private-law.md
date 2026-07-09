@@ -6,6 +6,10 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/marsden-grant-to-study-democracy-of-private-law-.html
 permalink: /archive/2016/11/07/marsden-grant-to-study-democracy-of-private-law/index.html
 layout: layout.njk
+tags:
+  - governance
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Marsden Grant to study democracy of private law
 ===============================================

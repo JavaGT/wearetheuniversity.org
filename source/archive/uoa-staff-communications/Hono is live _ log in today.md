@@ -11,6 +11,8 @@ excerpt: >-
 author: Staff Communications <staff-comms@auckland.ac.nz>
 to: all-staff@list.auckland.ac.nz
 permalink: /archive/2025/02/23/hono-is-live-log-in-today/index.html
+tags:
+  - uoa-staff-communications
 ---
 Kia ora koutou
 

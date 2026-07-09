@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2017/11/15/mother-and-baby-clinical-trials-could-save-the-health-system-/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Mother and baby clinical trials could save the health system $290 million over five years
 =========================================================================================

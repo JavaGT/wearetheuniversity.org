@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/09/17/new-rutherford-fellows-represent-outstanding-result-for-university-of-auckland/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

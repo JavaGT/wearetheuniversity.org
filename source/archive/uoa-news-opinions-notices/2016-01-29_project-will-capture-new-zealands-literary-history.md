@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/01/29/project-will-capture-new-zealands-literary-history/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Project will capture New Zealand’s literary history
 ===================================================

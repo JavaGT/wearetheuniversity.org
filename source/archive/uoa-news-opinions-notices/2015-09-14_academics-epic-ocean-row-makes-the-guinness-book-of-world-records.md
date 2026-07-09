@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/09/14/academics-epic-ocean-row-makes-the-guinness-book-of-world-records/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Academic’s epic ocean row makes the Guinness Book of World Records
 ==================================================================

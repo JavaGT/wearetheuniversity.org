@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/11/17/celebrating-success-faculty-of-medical-and-health-sciences-graduation/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

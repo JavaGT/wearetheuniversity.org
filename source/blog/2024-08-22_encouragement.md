@@ -5,7 +5,6 @@ slug: encouragement
 date: 2024-08-22T00:00:00.000Z
 source: private communications
 author: anonymous
-author-slug: anonymous
 permalink: /blog/2024/08/22/encouragement/index.html
 excerpt: >-
   Please pass on my thanks and congratulations to the organizing group today.

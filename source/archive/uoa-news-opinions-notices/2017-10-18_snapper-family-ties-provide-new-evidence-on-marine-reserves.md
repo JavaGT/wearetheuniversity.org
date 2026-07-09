@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/18/snapper-family-ties-provide-new-evidence-on-marine-reserves/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Snapper family ties provide new evidence on marine reserves
 ===========================================================

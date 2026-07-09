@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/03/marsden-fund-grants-go-to-business-school-economists/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Marsden Fund grants go to Business School economists
 ====================================================

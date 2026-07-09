@@ -4,7 +4,6 @@ title: Cuts to Marsden Funding for Humanities and Social Sciences
 slug: marsden-open-letter
 date: 2024-12-11T00:00:00.000Z
 author: We Are The University
-author-slug: we-are-the-university
 permalink: /blog/2024/12/11/marsden-open-letter/index.html
 excerpt: >-
   Updates The Royal Society, who administers the Marsden Fund, has released a
@@ -15,6 +14,8 @@ excerpt: >-
   cutshttps://www.nzherald.co.nz/nz/marsdenfundcontroversypeaksciencebodyurgespmtoreconsiderresearchfundingcuts/MM2XODIB6VGIRO3MFVTLD3YJLI/
   Science can tell you how to clone a trex, humanities can tell you why this
   might be...
+tags:
+  - marsden
 ---
 
 #### Updates

@@ -10,6 +10,9 @@ author-slug: unknown
 permalink: >-
   /archive/2011/09/27/student-protest-misdirected-says-vice-chancellor/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 
 <audio src="https://podcast.radionz.co.nz/ckpt/ckpt-20110926-1727-protestors_lock_themselves_in_at_auckland_university-048.mp3" controls>

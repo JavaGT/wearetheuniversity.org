@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2017/10/06/health-workers-urged-to-spot-and-help-victims-of-slavery/index.html
 layout: layout.njk
+tags:
+  - governance
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Health workers urged to spot and help victims of slavery
 ========================================================

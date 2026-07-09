@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/cie-students-important-message.html
 permalink: /archive/2015/01/22/cie-/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 CIE (taken in NZ) students – important message
 ==============================================

@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/professor-dixon-at-great-hall-of-the-people.html
 permalink: /archive/2016/04/19/professor-dixon-at-great-hall-of-the-people/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Professor Dixon at Great Hall of the People
 ===========================================

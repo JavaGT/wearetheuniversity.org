@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/08/21/university-of-auckland-and-primary-principals-to-host-job-expo/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 University of Auckland and primary principals to host job expo
 ==============================================================

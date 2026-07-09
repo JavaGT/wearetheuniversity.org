@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/11/26/study-of-artists-toilet-tissues-sheds-light-on-gut-bugs/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Study of artist’s toilet tissues sheds light on gut bugs
 ========================================================

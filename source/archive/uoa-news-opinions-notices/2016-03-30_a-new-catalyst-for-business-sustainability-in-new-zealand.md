@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/03/30/a-new-catalyst-for-business-sustainability-in-new-zealand/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 A new catalyst for business sustainability in New Zealand
 =========================================================

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2012/05/14/vice-chancellors-message-to-boston-university-students/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Vice-Chancellor’s message to Boston University Students
 =======================================================

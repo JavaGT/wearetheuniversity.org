@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/10/27/study-into-loneliness-looking-for-older-participants/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Study into loneliness looking for older participants
 ====================================================

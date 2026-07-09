@@ -12,6 +12,9 @@ excerpt: >-
 author: University of Auckland <studentinfo@auckland.ac.nz>
 to: ''
 permalink: /archive/2024/09/17/vice-chancellor-s-update-tuesday-17-september/index.html
+tags:
+  - governance
+  - uoa-vc-updates
 ---
  
 

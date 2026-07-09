@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/09/15/in-a-changing-world-will-some-ecosystems-be-lost-forever/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 In a changing world, will some ecosystems be lost forever?
 ==========================================================

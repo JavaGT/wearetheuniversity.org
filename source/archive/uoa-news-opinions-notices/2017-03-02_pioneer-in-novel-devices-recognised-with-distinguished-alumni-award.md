@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/03/02/pioneer-in-novel-devices-recognised-with-distinguished-alumni-award/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

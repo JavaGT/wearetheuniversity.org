@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/04/19/comic-superheroes-can-explain-modern-sovereignty/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Comic superheroes can explain modern sovereignty?
 =================================================

@@ -11,6 +11,11 @@ excerpt: >-
 author: Barry Hughes <b.hughes@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 permalink: /archive/2023/11/03/teu-academic-teu-update/index.html
+tags:
+  - governance
+  - palestine
+  - teu
+  - teu-auckland-university-emails
 ---
 ![](/attachments/image.png)
 

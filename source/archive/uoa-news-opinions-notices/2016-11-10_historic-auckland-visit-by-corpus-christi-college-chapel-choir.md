@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/10/historic-auckland-visit-by-corpus-christi-college-chapel-choir/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Historic Auckland visit by Corpus Christi College Chapel Choir
 ==============================================================

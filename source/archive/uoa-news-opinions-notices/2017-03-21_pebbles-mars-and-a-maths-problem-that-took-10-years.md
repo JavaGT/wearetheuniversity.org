@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/21/pebbles-mars-and-a-maths-problem-that-took-10-years/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Pebbles, Mars and a maths problem that took 10 years
 ====================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/01/12/young-peoples-use-of-health-apps-put-to-the-test/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Young people’s use of health apps put to the test
 =================================================

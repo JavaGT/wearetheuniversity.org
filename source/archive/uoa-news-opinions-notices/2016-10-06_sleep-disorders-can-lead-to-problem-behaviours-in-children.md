@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/10/06/sleep-disorders-can-lead-to-problem-behaviours-in-children/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Sleep disorders can lead to problem behaviours in children
 ==========================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/06/09/kiwi-connection-to-a-significant-discovery-into-our-human-origins/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Kiwi connection to a significant discovery into our human origins
 =================================================================

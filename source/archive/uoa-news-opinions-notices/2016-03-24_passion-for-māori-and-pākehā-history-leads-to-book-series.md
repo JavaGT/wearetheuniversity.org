@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/passion-for-new-zealand-history-leads-to-book-series.html
 permalink: /archive/2016/03/24/passion-for-m/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Passion for Māori and Pākehā history leads to book series
 =========================================================

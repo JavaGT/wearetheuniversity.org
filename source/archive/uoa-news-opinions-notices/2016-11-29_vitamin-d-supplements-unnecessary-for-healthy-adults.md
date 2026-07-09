@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/11/29/vitamin-d-supplements-unnecessary-for-healthy-adults/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Vitamin D supplements unnecessary for healthy adults
 ====================================================

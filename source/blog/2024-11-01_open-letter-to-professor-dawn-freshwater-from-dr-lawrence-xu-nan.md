@@ -8,7 +8,6 @@ date: 2024-11-01T00:00:00.000Z
 source: https://www.instagram.com/p/DB0MYdFy33g/
 source-name: Lawrence Xu-Nan (Instagram)
 author: Lawrence Xu-Nan
-author-slug: lawrence-xu-nan
 permalink: >-
   /blog/2024/11/01/open-letter-to-professor-dawn-freshwater-from-dr-lawrence-xu-nan/index.html
 excerpt: >-
@@ -17,6 +16,10 @@ excerpt: >-
   Education and Social Work, and Creative Arts and Industries, and course cuts E
   te Tumu Whakarae, tēnā koe Professor Dawn Freshwater, I am writing to echo the
   recent concerns that...
+tags:
+  - course-cuts
+  - governance
+  - merger
 ---
 
 Professor Dawn Freshwater, Waipapa Taumata Rau | University of Auckland Vice-Chancellor

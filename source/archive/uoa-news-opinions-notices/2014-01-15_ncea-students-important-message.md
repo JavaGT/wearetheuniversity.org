@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2014/ncea-students-_-important-message-.html
 permalink: /archive/2014/01/15/ncea-students-important-message/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 NCEA students – important message
 =================================

@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/rural-health-issues-demand-a-rational-response.html
 permalink: /archive/2017/08/09/rural-health-issues-demand-a-rational-response/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Rural health issues demand a rational response
 ==============================================

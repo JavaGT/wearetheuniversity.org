@@ -9,6 +9,10 @@ author: University of Auckland
 author-slug: university-of-auckland
 permalink: /archive/2025/04/03/proposed-new-faculty-business-economics-law/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - merger
 ---
 
 # Update on proposed new faculty arrangements: Business and Economics, Law

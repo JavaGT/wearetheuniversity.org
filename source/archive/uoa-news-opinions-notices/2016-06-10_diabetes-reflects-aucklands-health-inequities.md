@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/diabetes-reflects-aucklands-health-inequities.html
 permalink: /archive/2016/06/10/diabetes-reflects-aucklands-health-inequities/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Diabetes reflects Auckland’s health inequities
 ==============================================

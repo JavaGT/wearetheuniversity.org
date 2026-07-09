@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/04/11/could-mothers-bacteria-protect-c-section-babies-from-obesity-risk/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Could mothers’ bacteria protect c-section babies from obesity risk?
 ===================================================================

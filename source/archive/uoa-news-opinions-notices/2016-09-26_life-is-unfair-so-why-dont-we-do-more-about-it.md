@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/vc-lecture-life-is-unfair-so-why-dont-we-do-more-about-it.html
 permalink: /archive/2016/09/26/life-is-unfair-so-why-dont-we-do-more-about-it/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Life is unfair, so why don’t we do more about it?
 =================================================

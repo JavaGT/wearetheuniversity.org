@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/08/02/forgotten-genius-whose-discoveries-gave-us-mobile-phones-and-internet/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Forgotten genius whose discoveries gave us mobile phones and internet
 =====================================================================

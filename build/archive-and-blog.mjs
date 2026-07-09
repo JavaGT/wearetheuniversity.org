@@ -1,9 +1,11 @@
 #!/usr/bin/env node
 import { promises as fsp } from 'fs';
 import fs from 'fs';
+import { createHash } from 'crypto';
 import { join, dirname, basename, extname } from 'path';
 import { simpleParser } from 'mailparser';
 import yaml from 'js-yaml';
+import { getRedactionConfig, redactText, hasIdentifiersConfigured } from '../lib/redaction.mjs';
 
 // Enhanced logger utility
 const logger = {
@@ -76,58 +78,77 @@ async function needsProcessing(filePath, cache, forceRebuild = false) {
   return { needsUpdate: false, content: null };
 }
 
-// Load settings
+// Load identifiers from .env (preferred) + optional legacy settings.json
 async function loadSettings() {
+  const cfg = getRedactionConfig(process.cwd());
+  let fromSettings = [];
   try {
     const settingsPath = join(process.cwd(), 'settings.json');
     const settingsContent = await fsp.readFile(settingsPath, 'utf8');
     const settings = JSON.parse(settingsContent);
-    
-    // Ensure personalIdentifiers is always an array
-    if (!settings.personalIdentifiers) {
-      settings.personalIdentifiers = [];
-    } else if (typeof settings.personalIdentifiers === 'object' && !Array.isArray(settings.personalIdentifiers)) {
-      // Convert object format to array
-      settings.personalIdentifiers = Object.keys(settings.personalIdentifiers);
+    if (Array.isArray(settings.personalIdentifiers)) {
+      fromSettings = settings.personalIdentifiers;
+    } else if (settings.personalIdentifiers && typeof settings.personalIdentifiers === 'object') {
+      fromSettings = Object.keys(settings.personalIdentifiers);
     }
-    
-    return settings;
-  } catch (error) {
-    logger.warn('No settings.json found, using defaults');
-    return { personalIdentifiers: [] };
+  } catch {
+    // settings.json optional / gitignored
   }
+  // Merge (env first / longest handled in redactText via sort)
+  const personalIdentifiers = [...cfg.identifiers, ...fromSettings.filter(Boolean)];
+  if (!personalIdentifiers.length) {
+    logger.warn('No REDACT_IDENTIFIERS in .env and no settings.json identifiers — content will not be redacted');
+  } else {
+    logger.info(`Redaction active: ${personalIdentifiers.length} pattern(s) from env/settings`);
+  }
+  return { personalIdentifiers, replacement: cfg.replacement };
 }
 
-// Save attachment helper
-async function saveAttachment(attachment) {
+// Stable, non-empty attachment filenames
+async function saveAttachment(attachment, dateHint = '') {
   const attachmentDir = join(process.cwd(), EMAIL_ATTACHMENT_HOSTED_DIRECTORY);
   await fsp.mkdir(attachmentDir, { recursive: true });
-  
-  const filename = attachment.filename || `attachment_${Date.now()}`;
+
+  const content = attachment.content || Buffer.alloc(0);
+  const hash = createHash('sha256').update(content).digest('hex').slice(0, 12);
+  const original = (attachment.filename || 'file').replace(/[^\w.\-()+ ]+/g, '_');
+  let ext = extname(original);
+  if (!ext && attachment.contentType) {
+    const map = {
+      'application/pdf': '.pdf',
+      'image/png': '.png',
+      'image/jpeg': '.jpg',
+      'image/gif': '.gif',
+      'text/plain': '.txt',
+    };
+    ext = map[attachment.contentType] || '';
+  }
+  const base = basename(original, extname(original)) || 'attachment';
+  const day = (dateHint || new Date().toISOString()).slice(0, 10);
+  const filename = `${day}-${base}-${hash}${ext || ''}`.replace(/\s+/g, '-');
   const filePath = join(attachmentDir, filename);
-  
-  await fsp.writeFile(filePath, attachment.content);
+
+  await fsp.writeFile(filePath, content);
   return { filename, filePath };
 }
 
-// Filter out personal identifiers
-function filterIdentifiers(text, identifiers) {
-  if (!identifiers || !Array.isArray(identifiers)) {
-    return text;
+function filterIdentifiers(text, identifiers, replacement = '[REDACTED]') {
+  // Prefer shared redaction module (word boundaries, longest-first)
+  if (hasIdentifiersConfigured()) {
+    return redactText(text);
   }
-  
-  let filtered = text;
-  for (const id of identifiers) {
-    if (id && typeof id === 'string') {
-      const re = new RegExp(id, 'gi');
-      filtered = filtered.replace(re, '[REDACTED]');
-    }
+  if (!identifiers || !Array.isArray(identifiers)) return text;
+  let filtered = String(text ?? '');
+  const sorted = [...identifiers].filter(Boolean).sort((a, b) => b.length - a.length);
+  for (const id of sorted) {
+    const re = new RegExp(id.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+    filtered = filtered.replace(re, replacement);
   }
   return filtered;
 }
 
 // Process a single EML file
-async function processEMLFile(emlFilePath, identifiers, permalinkTracker, cache, forceRebuild = false) {
+async function processEMLFile(emlFilePath, identifiers, permalinkTracker, cache, forceRebuild = false, replacement = '[REDACTED]') {
   const checkResult = await needsProcessing(emlFilePath, cache, forceRebuild);
   
   if (!checkResult.needsUpdate) {
@@ -145,10 +166,7 @@ async function processEMLFile(emlFilePath, identifiers, permalinkTracker, cache,
   try {
     const parsed = await simpleParser(checkResult.content);
     
-    // Title
-    const title = parsed.subject ? String(parsed.subject).replace(/"/g, '\\"') : 'Untitled';
-    
-    // Date (ISO)
+    // Date (ISO) first — used for attachment names
     let date = '';
     if (parsed.date) {
       try {
@@ -162,21 +180,28 @@ async function processEMLFile(emlFilePath, identifiers, permalinkTracker, cache,
         date = String(parsed.date).replace(/"/g, '\\"');
       }
     }
+
+    // Title (redacted)
+    let title = parsed.subject ? String(parsed.subject) : 'Untitled';
+    title = filterIdentifiers(title, identifiers, replacement);
     
     // Build body
     let body = '';
-    const attachments = (parsed.attachments || []).filter(a => !a.contentType.includes('image'));
+    const attachments = (parsed.attachments || []).filter(a => a.contentType && !a.contentType.includes('image'));
     for (const attachment of attachments) {
-      const { filename } = await saveAttachment(attachment);
-      body += `Attachment: [${attachment.filename}](/${EMAIL_ATTACHMENT_HOSTED_DIRECTORY}/${filename})\n`;
+      const { filename } = await saveAttachment(attachment, date);
+      const label = filterIdentifiers(attachment.filename || filename, identifiers, replacement);
+      body += `Attachment: [${label}](/${EMAIL_ATTACHMENT_HOSTED_DIRECTORY}/${filename})\n`;
     }
     
     body += parsed.text || '';
     
-    const images = (parsed.attachments || []).filter(a => a.contentType.includes('image'));
+    const images = (parsed.attachments || []).filter(a => a.contentType && a.contentType.includes('image'));
     for (const image of images) {
-      const { filename } = await saveAttachment(image);
-      body = body.replace(`[cid:${image.cid}]`, `![](/${EMAIL_ATTACHMENT_HOSTED_DIRECTORY}/${filename})`);
+      const { filename } = await saveAttachment(image, date);
+      if (image.cid) {
+        body = body.replace(`[cid:${image.cid}]`, `![](/${EMAIL_ATTACHMENT_HOSTED_DIRECTORY}/${filename})`);
+      }
     }
     
     // Regexes for link, image, email
@@ -190,7 +215,7 @@ async function processEMLFile(emlFilePath, identifiers, permalinkTracker, cache,
       .replace(emailRegex, '[$1](mailto:$1)')
       .replace(/\n{4,}/g, '\n\n\n');
     
-    body = filterIdentifiers(body, identifiers);
+    body = filterIdentifiers(body, identifiers, replacement);
     
     // Excerpt: first 50 words of the processed body
     let excerpt = '';
@@ -206,22 +231,25 @@ async function processEMLFile(emlFilePath, identifiers, permalinkTracker, cache,
       excerpt = escapeYAML(excerptWords);
     }
     
-    // Author details
+    // Author / to — always redacted (recipient headers often contain the archivist)
     let author = '';
     if (parsed.from && parsed.from.value && parsed.from.value.length > 0) {
       author = parsed.from.value.map(a => a.name ? `${a.name} <${a.address}>` : a.address).join(', ');
     }
+    author = filterIdentifiers(author, identifiers, replacement);
     
     let to = '';
     if (parsed.to && parsed.to.value && parsed.to.value.length > 0) {
       to = parsed.to.value.map(a => a.name ? `${a.name} <${a.address}>` : a.address).join(', ');
     }
+    // Prefer list addresses; redact personal recipients
+    to = filterIdentifiers(to, identifiers, replacement);
     
-    // Generate slug
+    // Generate slug from redacted title
     let slug = title
       .toLowerCase()
       .replace(/[^a-z0-9]+/g, '-')
-      .replace(/^-+|-+$/g, '');
+      .replace(/^-+|-+$/g, '') || 'item';
     
     // Parse date for permalink
     let y = '', m = '', d = '';
@@ -355,7 +383,6 @@ async function main() {
   try {
     const cache = forceRebuild ? { fileHashes: {}, lastBuild: null } : await loadCache();
     const settings = await loadSettings();
-    logger.info(`Loaded settings with ${settings.personalIdentifiers.length} personal identifiers`);
     
     let emlProcessedCount = 0;
     let emlSkippedCount = 0;
@@ -377,7 +404,14 @@ async function main() {
     const permalinkTracker = new Map();
     
     for (const emlFile of emlFiles) {
-      const result = await processEMLFile(emlFile, settings.personalIdentifiers || [], permalinkTracker, cache, forceRebuild);
+      const result = await processEMLFile(
+        emlFile,
+        settings.personalIdentifiers || [],
+        permalinkTracker,
+        cache,
+        forceRebuild,
+        settings.replacement
+      );
       if (result) {
         await saveMarkdown(emlFile, result.markdown_body);
         emlProcessedCount++;

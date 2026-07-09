@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/03/doctorate-reveals-affordable-housing-thwarted-by-neoliberalism/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Doctorate reveals affordable housing thwarted by neoliberalism
 ==============================================================

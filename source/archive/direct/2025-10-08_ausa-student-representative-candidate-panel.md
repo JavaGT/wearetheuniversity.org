@@ -2,10 +2,14 @@
 slug: ausa-student-representative-candidate-panel
 date: 2025-10-08T00:00:00.000Z
 source: AUSA
-source-url:
+source-url: null
 title: AUSA Student Representative Candidate Panel
 permalink: /archive/2025/10/08/ausa-student-representative-candidate-panel/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - student-politics
 ---
 
 ```

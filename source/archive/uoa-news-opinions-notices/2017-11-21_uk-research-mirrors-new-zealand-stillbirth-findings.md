@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/11/21/uk-research-mirrors-new-zealand-stillbirth-findings/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 UK research mirrors New Zealand stillbirth findings
 ===================================================

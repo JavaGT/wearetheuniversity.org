@@ -11,6 +11,8 @@ author-slug: the-new-zealand-association-of-scientists
 permalink: >-
   /archive/2020/10/28/open-letter-from-scientific-society-presidents-on-massey-cuts/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 28 October 2020

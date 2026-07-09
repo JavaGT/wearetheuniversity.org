@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/04/21/report-finds-our-aging-population-will-need-increased-levels-of-care/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Report finds our aging population will need increased levels of care
 ====================================================================

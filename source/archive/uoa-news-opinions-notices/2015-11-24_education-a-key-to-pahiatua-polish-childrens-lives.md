@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/11/24/education-a-key-to-pahiatua-polish-childrens-lives/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

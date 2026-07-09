@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/04/18/lecture-on-monty-pythons-life-of-brian-and-jesus/index.html
 layout: layout.njk
+tags:
+  - palestine
+  - uoa-news-opinions-notices
 ---
 Lecture on Monty Python’s Life of Brian and Jesus
 =================================================

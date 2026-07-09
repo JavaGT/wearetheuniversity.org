@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/03/01/elam-student-finalist-in-sony-world-photography-awards/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

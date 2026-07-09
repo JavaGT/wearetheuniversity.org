@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/04/interactive-display-picks-library-books-based-on-your-mood-and-the-weather/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Interactive display picks library books based on your mood and the weather
 ==========================================================================

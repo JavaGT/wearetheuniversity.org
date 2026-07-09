@@ -5,7 +5,6 @@ subtitle: A global conspiracy to influence our student politics
 slug: atlas-on-campus
 date: 2024-09-20T00:00:00.000Z
 author: We Are The University
-author-slug: we-are-the-university
 permalink: /blog/2024/09/20/atlas-on-campus/index.html
 excerpt: >-
   <script src="/tableofcontents.js"</script The NZSIS threat report names

@@ -8,6 +8,9 @@ author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
 permalink: /archive/2017/02/02/science-is-sometimes-political/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 The New Zealand Association of Scientists (Inc.)

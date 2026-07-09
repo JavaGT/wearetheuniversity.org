@@ -10,6 +10,8 @@ author-slug: unknown
 permalink: >-
   /archive/2011/09/26/auckland-university-protest-moves-to-the-police-station/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 <audio src="https://podcast.radionz.co.nz/ckpt/ckpt-20110926-1846-auckland_univesrity_protest_moves_to_the_police_station-048.mp3" controls>

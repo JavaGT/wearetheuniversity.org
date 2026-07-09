@@ -8,6 +8,8 @@ author: Nathalie Jaques
 author-slug: nathalie-jaques
 permalink: /archive/2012/03/02/response-to-paul-holmes/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 Nathalie Jaques

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/05/13/teen-mum-off-to-geneva-to-speak-on-ending-obesity/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Teen mum off to Geneva to speak on ending obesity
 =================================================

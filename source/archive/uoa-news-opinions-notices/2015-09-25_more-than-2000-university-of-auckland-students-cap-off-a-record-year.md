@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/09/25/more-than-2000-university-of-auckland-students-cap-off-a-record-year/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 More than 2000 University of Auckland students cap off a record year
 ====================================================================

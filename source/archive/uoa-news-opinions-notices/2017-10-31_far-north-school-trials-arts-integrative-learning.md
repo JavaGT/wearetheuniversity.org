@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/31/far-north-school-trials-arts-integrative-learning/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Far North school trials arts-integrative learning
 =================================================

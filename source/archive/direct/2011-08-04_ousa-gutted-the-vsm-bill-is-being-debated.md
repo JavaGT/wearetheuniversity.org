@@ -8,6 +8,9 @@ author: Otago University Students Association
 author-slug: ousa
 permalink: /archive/2011/08/04/ousa-gutted-the-vsm-bill-is-being-debated/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 Logan Edgar, OUSA President, and the student Executive of the Otago University Student’s Association, is today gutted by the news that the VSM aka Education (Freedom of Association) Amendment Bill is now being debated in the Committee Stage in Parliament after Labours filibustering has now broken down.

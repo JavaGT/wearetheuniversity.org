@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/12/15/improved-care-aim-for-older-pacific-people-study/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Improved care aim for older Pacific people study
 ================================================

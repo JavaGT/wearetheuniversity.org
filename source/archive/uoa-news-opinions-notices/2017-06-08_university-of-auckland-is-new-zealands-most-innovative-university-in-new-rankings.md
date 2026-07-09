@@ -10,5 +10,7 @@ source-url: >-
 permalink: >-
   /archive/2017/06/08/university-of-auckland-is-new-zealands-most-innovative-university-in-new-rankings/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/06/12/auckland-medical-researcher-first-outside-us-to-win-prestigious-prize/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Auckland medical researcher first outside US to win prestigious prize
 =====================================================================

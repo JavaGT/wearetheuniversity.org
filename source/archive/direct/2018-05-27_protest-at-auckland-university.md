@@ -8,6 +8,8 @@ author: Charlotte Mason
 author-slug: charlotte-mason
 permalink: /archive/2018/05/27/protest-at-auckland-university/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 https://youtube.com/shorts/Y86kO8hBN0E

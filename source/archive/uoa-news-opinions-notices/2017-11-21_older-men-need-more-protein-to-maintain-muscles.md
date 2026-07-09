@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/older-men-need-more-protein-to-maintain-muscles.html
 permalink: /archive/2017/11/21/older-men-need-more-protein-to-maintain-muscles/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Older men need more protein to maintain muscles
 ===============================================

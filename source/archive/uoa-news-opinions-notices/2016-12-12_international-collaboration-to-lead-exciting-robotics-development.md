@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/12/12/international-collaboration-to-lead-exciting-robotics-development/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 International collaboration to lead exciting robotics development
 =================================================================

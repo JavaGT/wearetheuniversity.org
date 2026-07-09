@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/new-ways-to-diagnose-and-treat-heart-disease.html
 permalink: /archive/2016/03/16/new-ways-to-diagnose-and-treat-heart-disease/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New ways to diagnose and treat heart disease
 ============================================

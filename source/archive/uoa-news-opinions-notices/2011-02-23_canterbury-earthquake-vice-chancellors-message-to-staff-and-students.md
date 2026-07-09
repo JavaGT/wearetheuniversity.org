@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2011/02/23/canterbury-earthquake-vice-chancellors-message-to-staff-and-students/index.html
 layout: layout.njk
+tags:
+  - governance
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Canterbury earthquake - Vice-Chancellor’s message to staff and students
 =======================================================================

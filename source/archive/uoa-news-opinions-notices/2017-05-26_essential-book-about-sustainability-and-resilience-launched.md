@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/26/essential-book-about-sustainability-and-resilience-launched/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Essential book about sustainability and resilience launched
 ===========================================================

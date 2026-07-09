@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/08/24/university-hosts-flagship-debate-for-young-voters/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University hosts flagship debate for young voters
 =================================================

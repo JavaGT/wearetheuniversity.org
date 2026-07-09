@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/02/23/professor-on-first-international-panel-on-chronic-respiratory-diseases/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Professor on first international panel on chronic respiratory diseases
 ======================================================================

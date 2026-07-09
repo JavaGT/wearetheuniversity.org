@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/04/06/participants-wanted-for-virtual-supermarket-study/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Participants wanted for virtual supermarket study
 =================================================

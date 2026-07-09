@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/12/16/microlensing-study-suggests-most-common-outer-planets-likely-neptune-mass/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Microlensing study suggests most common outer planets likely Neptune-mass
 =========================================================================

@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2016/03/31/student-safety-university-of-auckland-commitment/index.html
 layout: layout.njk
+tags:
+  - governance
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Student safety – University of Auckland commitment
 ==================================================

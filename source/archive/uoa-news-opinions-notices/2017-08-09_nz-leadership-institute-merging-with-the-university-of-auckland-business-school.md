@@ -10,5 +10,7 @@ source-url: >-
 permalink: >-
   /archive/2017/08/09/nz-leadership-institute-merging-with-the-university-of-auckland-business-school/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

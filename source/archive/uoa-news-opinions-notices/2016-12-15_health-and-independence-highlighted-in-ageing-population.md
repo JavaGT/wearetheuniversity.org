@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/12/15/health-and-independence-highlighted-in-ageing-population/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Health and independence highlighted in ageing population
 ========================================================

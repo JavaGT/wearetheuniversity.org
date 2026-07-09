@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/11/18/industrial-waste-tech-company-and-data-extractor-win-entrepreneurs-challenge/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Industrial waste tech company and data extractor win Entrepreneurs’ Challenge
 =============================================================================

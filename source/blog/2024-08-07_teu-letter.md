@@ -5,8 +5,6 @@ slug: teu-letter
 date: 2024-08-07T00:00:00.000Z
 source: TEU Auckland Mailing List
 author: Nicole Wallace (TEU Organiser)
-author-url: https://teu.ac.nz/
-author-slug: nicole-wallace
 permalink: /blog/2024/08/07/teu-letter/index.html
 excerpt: >-
   7 August 2024 Professor Dawn Freshwater Vice Chancellor Waipapa Taumata Rau
@@ -14,6 +12,9 @@ excerpt: >-
   who belong to Te Hautü Kahurangi Tertiary Education Union at Waipapa Taumata
   Rau University of Auckland. In the last week, the TEU has fielded innumerable
   alarmed...
+tags:
+  - governance
+  - teu
 ---
 7 August 2024
 Professor Dawn Freshwater

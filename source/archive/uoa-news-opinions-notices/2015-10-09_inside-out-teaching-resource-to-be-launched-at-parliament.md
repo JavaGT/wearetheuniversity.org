@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/10/09/inside-out-teaching-resource-to-be-launched-at-parliament/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Inside Out teaching resource to be launched at Parliament
 =========================================================

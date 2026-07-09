@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/05/11/university-of-auckland-pioneers-online-credentials-to-support-student-mobility/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland pioneers online credentials to support student mobility
 ==============================================================================

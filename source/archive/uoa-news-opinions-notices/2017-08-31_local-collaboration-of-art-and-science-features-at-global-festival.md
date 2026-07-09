@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/08/31/local-collaboration-of-art-and-science-features-at-global-festival/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Local collaboration of art and science features at global festival
 ==================================================================

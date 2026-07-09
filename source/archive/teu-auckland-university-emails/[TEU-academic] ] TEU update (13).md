@@ -13,6 +13,10 @@ excerpt: >-
 author: Barry Hughes <b.hughes@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 permalink: /archive/2024/02/23/teu-academic-teu-update/index.html
+tags:
+  - governance
+  - teu
+  - teu-auckland-university-emails
 ---
 Attachment: [UoA International Womens Day Invite 2024-1.pdf](/attachments/UoA International Womens Day Invite 2024-1.pdf)
 ![](/attachments/image001.png);

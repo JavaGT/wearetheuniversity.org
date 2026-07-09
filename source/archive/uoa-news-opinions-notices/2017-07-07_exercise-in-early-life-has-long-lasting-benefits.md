@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/07/07/exercise-in-early-life-has-long-lasting-benefits/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Exercise in early life has long-lasting benefits
 ================================================

@@ -10,6 +10,10 @@ author-slug: lafe-harter
 permalink: >-
   /archive/1973/12/01/salvaging-what-we-can-through-collective-bargaining/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - teu
 ---
 
 While many of our colleagues are eager to embrace collective bargaining, a number hold back. They ask, \"We, bargain with the University? Preposterous! We are the University!"

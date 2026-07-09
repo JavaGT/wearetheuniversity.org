@@ -12,6 +12,8 @@ author: Staff Communications <staff-comms@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: >-
   /archive/2024/08/27/important-system-transition-and-go-live-dates-for-hono-human-connections/index.html
+tags:
+  - uoa-staff-communications
 ---
 Sent on behalf of Andrew Phipps, Human Resources Director
 

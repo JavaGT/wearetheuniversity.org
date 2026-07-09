@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/08/university-of-auckland-reinforces-lead-in-university-subject-rankings/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland reinforces lead in university subject rankings
 =====================================================================

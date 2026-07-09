@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/11/24/macdiarmid-medal-virtual-window-into-our-airways/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

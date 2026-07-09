@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/10/13/report-evaluates-urban-challenges-facing-aotearoa-new-zealand/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Report evaluates urban challenges facing Aotearoa New Zealand
 =============================================================

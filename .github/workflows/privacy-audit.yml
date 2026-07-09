@@ -1,0 +1,41 @@
+name: Privacy audit
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Write .env from secrets
+        env:
+          REDACT_IDENTIFIERS: ${{ secrets.REDACT_IDENTIFIERS }}
+          REDACT_REPLACEMENT: ${{ secrets.REDACT_REPLACEMENT }}
+        run: |
+          if [ -z "$REDACT_IDENTIFIERS" ]; then
+            echo "REDACT_IDENTIFIERS secret not set — skipping strict audit (configure secret to enforce)"
+            exit 0
+          fi
+          echo "REDACT_IDENTIFIERS=$REDACT_IDENTIFIERS" > .env
+          echo "REDACT_REPLACEMENT=${REDACT_REPLACEMENT:-[REDACTED]}" >> .env
+
+      - name: Audit published content for identifier leaks
+        run: |
+          if [ ! -f .env ]; then
+            echo "No .env — skip"
+            exit 0
+          fi
+          npm run privacy:audit

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/12/22/students-self-belief-and-goal-setting-study-has-surprising-results/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

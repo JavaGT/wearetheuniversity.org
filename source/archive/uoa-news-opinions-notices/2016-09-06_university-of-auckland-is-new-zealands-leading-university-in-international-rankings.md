@@ -10,5 +10,7 @@ source-url: >-
 permalink: >-
   /archive/2016/09/06/university-of-auckland-is-new-zealands-leading-university-in-international-rankings/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

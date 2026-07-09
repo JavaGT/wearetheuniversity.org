@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/08/16/sir-kenneth-keith-to-deliver-inaugural-sir-owen-woodhouse-memorial-lecture/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Sir Kenneth Keith to deliver inaugural Sir Owen Woodhouse Memorial Lecture
 ==========================================================================

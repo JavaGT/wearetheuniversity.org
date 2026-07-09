@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/21/international-neuroscientists-reveal-next-frontier/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 International neuroscientists reveal next frontier
 ==================================================

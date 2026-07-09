@@ -5,7 +5,6 @@ slug: student-opinions-cuts
 date: 2024-08-31T00:00:00.000Z
 source: https://burn-it.github.io/Disorientation/small-classes/all/
 author: Anonymous
-author-slug: anonymous
 permalink: /blog/2024/08/31/student-opinions-cuts/index.html
 excerpt: >-
   It is clear students don't feel heard and are frustrated with the lack of
@@ -13,6 +12,10 @@ excerpt: >-
   comments students have made on the course cuts: How is your experience with
   small courses?howisyourexperiencewithsmallcourses How would the proposed
   course cuts affect you \& your...
+tags:
+  - course-cuts
+  - merger
+  - student-politics
 ---
 It is clear students don't feel heard and are frustrated with the lack of transparency and communication from the university. Here are some of the comments students have made on the course cuts:
 

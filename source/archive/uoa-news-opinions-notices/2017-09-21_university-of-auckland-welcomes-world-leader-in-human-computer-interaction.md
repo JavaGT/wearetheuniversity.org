@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/09/21/university-of-auckland-welcomes-world-leader-in-human-computer-interaction/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

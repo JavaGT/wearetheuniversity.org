@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/07/11/massive-open-access-database-on-human-cultures-created/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Massive open-access database on human cultures created
 ======================================================

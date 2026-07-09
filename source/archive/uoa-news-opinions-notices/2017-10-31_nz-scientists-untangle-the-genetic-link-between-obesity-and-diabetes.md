@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/31/nz-scientists-untangle-the-genetic-link-between-obesity-and-diabetes/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 NZ scientists untangle the genetic link between obesity and diabetes
 ====================================================================

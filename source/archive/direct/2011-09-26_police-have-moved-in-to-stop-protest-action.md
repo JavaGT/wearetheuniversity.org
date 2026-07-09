@@ -9,6 +9,8 @@ author: Unknown
 author-slug: unknown
 permalink: /archive/2011/09/26/police-have-moved-in-to-stop-protest-action/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 <audio src="https://podcast.radionz.co.nz/ckpt/ckpt-20110926-1826-police_have_moved_in_to_stop_protest_action-048.mp3" controls>

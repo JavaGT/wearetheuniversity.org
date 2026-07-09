@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/02/23/university-student-follows-her-dreams-to-new-york/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

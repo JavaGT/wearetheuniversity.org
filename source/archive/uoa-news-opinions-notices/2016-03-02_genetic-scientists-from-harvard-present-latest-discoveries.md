@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/03/02/genetic-scientists-from-harvard-present-latest-discoveries/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Genetic scientists from Harvard present latest discoveries
 ==========================================================

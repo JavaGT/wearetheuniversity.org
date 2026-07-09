@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/11/23/lack-of-food-contributing-to-students-poor-health-and-absenteeism/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Lack of food contributing to students’ poor health and absenteeism
 ==================================================================

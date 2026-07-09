@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/fish-eyes-could-help-solve-cornea-shortage.html
 permalink: /archive/2016/05/16/fish-eyes-could-help-solve-cornea-shortage/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Fish eyes could help solve cornea shortage
 ==========================================

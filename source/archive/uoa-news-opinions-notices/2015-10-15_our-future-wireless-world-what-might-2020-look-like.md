@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/10/15/our-future-wireless-world-what-might-2020-look-like/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Our future wireless world: what might 2020 look like?
 =====================================================

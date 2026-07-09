@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/young-doctor-keen-to-contribute-to-maori-health.html
 permalink: /archive/2017/11/28/young-doctor-keen-to-contribute-to-m/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Young doctor keen to contribute to Māori health
 ===============================================

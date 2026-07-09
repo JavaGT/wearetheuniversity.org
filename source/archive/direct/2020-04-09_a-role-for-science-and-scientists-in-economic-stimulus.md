@@ -9,6 +9,9 @@ author-slug: the-new-zealand-association-of-scientists
 permalink: >-
   /archive/2020/04/09/a-role-for-science-and-scientists-in-economic-stimulus/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 
 9-April-2020

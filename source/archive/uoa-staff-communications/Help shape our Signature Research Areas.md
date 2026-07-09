@@ -11,6 +11,8 @@ excerpt: >-
 author: Frank Bloomfield <f.bloomfield@auckland.ac.nz>
 to: all-staff@list.auckland.ac.nz
 permalink: /archive/2025/07/30/help-shape-our-signature-research-areas/index.html
+tags:
+  - uoa-staff-communications
 ---
 Kia ora koutou,
 As we begin to shape the University Signature Research Areas, I invite you to contribute via a short survey designed to gather high-level, early input from across our University community. We are seeking broad perspectives on where our distinctive strengths lie, current and future opportunities and what we need in place to support future success.

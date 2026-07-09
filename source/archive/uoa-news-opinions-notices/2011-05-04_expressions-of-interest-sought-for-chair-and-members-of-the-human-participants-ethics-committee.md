@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2011/05/04/expressions-of-interest-sought-for-chair-and-members-of-the-human-participants-ethics-committee/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Expressions of interest sought for Chair and members of the Human Participants Ethics Committee
 ===============================================================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/11/08/southern-seas-warming-faster-than-northern-new-zealand/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Southern seas warming faster than northern New Zealand
 ======================================================

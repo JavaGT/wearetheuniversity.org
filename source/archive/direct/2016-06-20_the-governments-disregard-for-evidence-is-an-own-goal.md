@@ -9,6 +9,8 @@ author-slug: the-new-zealand-association-of-scientists
 permalink: >-
   /archive/2016/06/20/the-governments-disregard-for-evidence-is-an-own-goal/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 The New Zealand Association of Scientists (Inc.)

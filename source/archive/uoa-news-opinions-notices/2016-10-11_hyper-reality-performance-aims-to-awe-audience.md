@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/hyper-reality-performance-aims-to-awe-audience.html
 permalink: /archive/2016/10/11/hyper-reality-performance-aims-to-awe-audience/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Hyper Reality performance aims to awe audience
 ==============================================

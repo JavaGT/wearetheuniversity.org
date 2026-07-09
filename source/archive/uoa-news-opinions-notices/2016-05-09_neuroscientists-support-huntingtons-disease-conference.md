@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/05/09/neuroscientists-support-huntingtons-disease-conference/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Neuroscientists support Huntington’s disease conference
 =======================================================

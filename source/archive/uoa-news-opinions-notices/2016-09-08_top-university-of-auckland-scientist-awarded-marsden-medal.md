@@ -7,6 +7,11 @@ source-url: >-
 permalink: >-
   /archive/2016/09/08/top-university-of-auckland-scientist-awarded-marsden-medal/index.html
 layout: layout.njk
+tags:
+  - governance
+  - marsden
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Top University of Auckland scientist awarded Marsden Medal
 ==========================================================

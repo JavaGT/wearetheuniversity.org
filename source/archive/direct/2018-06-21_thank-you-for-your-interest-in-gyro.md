@@ -9,6 +9,9 @@ author: Gyro
 author-slug: gyro
 permalink: /archive/2018/06/21/thank-you-for-your-interest-in-gyro/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 Isabella Lenihan-Ikin, a student member on the Victoria University of Wellington Council, who joined NZUSA’s oral submission, said that ‘with Victoria having two student places on its council, it’s great to have someone who brings a similar lived experience to me. One student is not able to represent the views of all students, so having two students doubles the number of student voices coming through.’
 

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/09/archaeology-top-in-long-line-of-firsts-for-university-of-auckland/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Archaeology top in long line of firsts for University of Auckland
 =================================================================

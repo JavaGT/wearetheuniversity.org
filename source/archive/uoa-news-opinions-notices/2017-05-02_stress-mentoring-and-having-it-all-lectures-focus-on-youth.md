@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/02/stress-mentoring-and-having-it-all-lectures-focus-on-youth/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Stress, mentoring and having it all: lectures focus on youth
 ============================================================

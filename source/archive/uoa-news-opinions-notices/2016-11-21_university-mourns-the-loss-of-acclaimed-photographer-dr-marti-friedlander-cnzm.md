@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/11/21/university-mourns-the-loss-of-acclaimed-photographer-dr-marti-friedlander-cnzm/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 University mourns the loss of acclaimed photographer Dr Marti Friedlander CNZM
 ==============================================================================

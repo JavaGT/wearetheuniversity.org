@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/most-elderly-people-satisfied-with-support-.html
 permalink: /archive/2015/09/22/most-elderly-people-satisfied-with-support/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Most elderly people satisfied with support
 ==========================================

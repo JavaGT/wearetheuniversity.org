@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/03/14/Sendai-earthquake-and-tsunami-Vice-Chancellors-message-to-students.html
 permalink: /archive/2011/03/14/sendai-earthquake-and-tsunami-vice-chancellor/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Sendai earthquake and tsunami – Vice-Chancellor‘s message to students
 =====================================================================

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/03/22/university-of-auckland-dominates-in-latest-university-subject-rankings/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

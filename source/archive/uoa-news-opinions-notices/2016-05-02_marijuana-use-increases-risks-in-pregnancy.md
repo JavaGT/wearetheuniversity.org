@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/marijuana-use-increases-risks-in-pregnancy.html
 permalink: /archive/2016/05/02/marijuana-use-increases-risks-in-pregnancy/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Marijuana use increases risks in pregnancy
 ==========================================

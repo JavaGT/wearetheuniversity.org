@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2017/02/14/glitzy-chinese-new-year-ball-to-benefit-research-into-promising-new-blood-test-for-preterm-birth-risk/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Glitzy Chinese New Year ball to benefit research into promising new blood-test for preterm birth risk
 =====================================================================================================

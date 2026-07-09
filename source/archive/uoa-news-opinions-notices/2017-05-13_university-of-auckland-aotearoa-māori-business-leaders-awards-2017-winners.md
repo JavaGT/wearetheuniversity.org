@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/maori-business-leaders-awards-2017-winners.html
 permalink: /archive/2017/05/13/university-of-auckland-aotearoa-m/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 University of Auckland Aotearoa Māori Business Leaders Awards 2017 winners
 ==========================================================================

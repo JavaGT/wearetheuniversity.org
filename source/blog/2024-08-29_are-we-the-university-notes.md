@@ -6,8 +6,7 @@ title: >-
 slug: are-we-the-university-notes
 date: 2024-08-29T00:00:00.000Z
 source: Adam Cragie (We Are The University)
-author: Java Grant
-author-slug: java-grant
+author: WATU
 hidden: true
 permalink: /blog/2024/08/29/are-we-the-university-notes/index.html
 excerpt: >-

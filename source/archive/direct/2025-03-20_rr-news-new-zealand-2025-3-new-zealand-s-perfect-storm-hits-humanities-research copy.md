@@ -11,6 +11,10 @@ author-slug: jenny-sinclair
 permalink: >-
   /archive/2025/03/20/rr-news-new-zealand-2025-3-new-zealand-s-perfect-storm-hits-humanities-research/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - marsden
 ---
 
 Uncertainty reigns as NZ and Australian governments prioritise research areas with “real economic impact”

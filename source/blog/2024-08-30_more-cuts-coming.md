@@ -3,8 +3,7 @@ layout: layout.njk
 title: More cuts are coming
 slug: more-cuts-coming
 date: 2024-08-30T00:00:00.000Z
-author: Java Grant
-author-slug: java-grant
+author: WATU
 permalink: /blog/2024/08/30/more-cuts-coming/index.html
 excerpt: >-
   Based on some recent
@@ -12,6 +11,10 @@ excerpt: >-
   apparent there are more cuts on their way at The University of Auckland beyond
   the ones students and staff are already kicking up a fuss about. Cuts to Staff
   "We are now starting to eat into that financial headroom and as we look...
+tags:
+  - governance
+  - student-politics
+  - teu
 ---
 
 Based on some [recent leaks](/2024/08/29/university-of-auckland-all-staff-forum-29th-august-2024) it is apparent there are more cuts on their way at The University of Auckland beyond the ones students and staff are already kicking up a fuss about.

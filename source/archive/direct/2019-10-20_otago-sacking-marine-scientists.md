@@ -10,6 +10,8 @@ author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
 permalink: /archive/2019/10/20/otago-sacking-marine-scientists/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 20-Oct-2019

@@ -7,6 +7,10 @@ author-slug: dawn-freshwater
 permalink: >-
   /archive/2024/11/12/proposed-new-faculty-arrangements-law-business-economics/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - merger
 ---
 
 all-staff-request@list.auckland.ac.nz on behalf of Dawn Freshwater<vice-chancellor@auckland.ac.nz>

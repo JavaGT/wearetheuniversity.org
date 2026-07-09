@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/09/22/art-detective-work-did-rembrandt-really-paint-that/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Art detective work: did Rembrandt really paint that?
 ====================================================

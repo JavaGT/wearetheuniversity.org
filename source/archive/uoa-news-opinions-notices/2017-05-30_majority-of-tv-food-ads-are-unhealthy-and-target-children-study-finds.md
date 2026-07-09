@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/30/majority-of-tv-food-ads-are-unhealthy-and-target-children-study-finds/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Majority of TV food ads are unhealthy and target children – study finds
 =======================================================================

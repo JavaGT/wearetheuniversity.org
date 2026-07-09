@@ -11,6 +11,9 @@ excerpt: >-
 author: Andrew Phipps <a.phipps@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2025/03/03/notification-of-strike-action/index.html
+tags:
+  - teu
+  - uoa-staff-communications
 ---
 Kia ora koutou
 

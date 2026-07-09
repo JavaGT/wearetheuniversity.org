@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/01/top-bird-study-student-overcomes-big-challenge-to-graduate-phd/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Top bird study student overcomes big challenge to graduate PhD
 ==============================================================

@@ -9,6 +9,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/09/01/On-1-September-2011-the-Copyright-Infringing-File-Sharing-Act-2011-came-into-force..html
 permalink: /archive/2011/09/01/on-1-september-2011-the-copyright-/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 On 1 September 2011 the Copyright (Infringing File Sharing) Act 2011 came into force.
 =====================================================================================

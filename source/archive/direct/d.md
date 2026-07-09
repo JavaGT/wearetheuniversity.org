@@ -8,6 +8,8 @@ title: Travellers transiting through or travelling to the US
 permalink: >-
   /archive/2025/05/30/travellers-transiting-through-or-travelling-to-the-us/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 # Travellers transiting through or travelling to the US
 

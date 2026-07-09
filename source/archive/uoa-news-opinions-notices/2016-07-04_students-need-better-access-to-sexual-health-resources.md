@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/07/04/students-need-better-access-to-sexual-health-resources/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Students need better access to sexual health resources
 ======================================================

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/10/25/low-nicotine-cigarettes-could-help-achieve-smokefree-goal/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

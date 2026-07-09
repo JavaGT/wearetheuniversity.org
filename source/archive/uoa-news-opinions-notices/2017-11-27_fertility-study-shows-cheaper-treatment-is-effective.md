@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/11/27/fertility-study-shows-cheaper-treatment-is-effective/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Fertility study shows cheaper treatment is effective
 ====================================================

@@ -8,6 +8,8 @@ author: NZUSA
 author-slug: nzusa
 permalink: /archive/2011/11/21/nationals-tertiary-education-policy-visionless/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 **National’s tertiary education policy visionless**

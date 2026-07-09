@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2011/02/23/counsellors-available-after-christchurch-earthquake/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Counsellors available after Christchurch earthquake
 ===================================================

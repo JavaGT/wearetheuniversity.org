@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2015/11/09/auckland-cancer-scientist-gains-global-recognition/index.html
 layout: layout.njk
+tags:
+  - governance
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Auckland cancer scientist gains global recognition
 ==================================================

@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/01/avatar-based-on-kiwi-technology-helping-thousands-of-australians-with-a-disability/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Avatar based on kiwi technology helping thousands of Australians with a disability
 ==================================================================================

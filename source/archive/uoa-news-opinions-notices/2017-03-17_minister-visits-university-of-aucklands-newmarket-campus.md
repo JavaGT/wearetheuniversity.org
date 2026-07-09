@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/03/17/minister-visits-university-of-aucklands-newmarket-campus/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Minister visits University of Auckland’s Newmarket campus
 =========================================================

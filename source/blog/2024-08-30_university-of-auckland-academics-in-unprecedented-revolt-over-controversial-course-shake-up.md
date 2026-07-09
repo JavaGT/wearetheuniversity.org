@@ -9,7 +9,6 @@ date: 2024-08-30T00:00:00.000Z
 source: >-
   https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/
 author: Jamie Morton
-author-slug: jamie-morton
 permalink: >-
   /blog/2024/08/30/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/index.html
 excerpt: >-
@@ -20,6 +19,11 @@ excerpt: >-
   Auckland senate votes to pause a wider curriculum transformation programme
   amid course review concerns. Vicechancellor Dawn Freshwater said the review
   aims...
+tags:
+  - course-cuts
+  - governance
+  - student-politics
+  - teu
 ---
 
 [Original article has photo and video content.](https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/)

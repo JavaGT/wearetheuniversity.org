@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/03/10/new-multi-million-dollar-health-research-partnership/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

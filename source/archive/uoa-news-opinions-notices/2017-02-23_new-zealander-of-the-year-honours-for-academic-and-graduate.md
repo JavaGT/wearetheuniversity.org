@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/02/23/new-zealander-of-the-year-honours-for-academic-and-graduate/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 New Zealander of the Year honours for academic and graduate
 ===========================================================

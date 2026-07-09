@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2016/05/26/university-of-auckland-welcomes-boost-in-research-funding/index.html
 layout: layout.njk
+tags:
+  - governance
+  - marsden
+  - uoa-news-opinions-notices
 ---
 University of Auckland welcomes boost in research funding
 =========================================================

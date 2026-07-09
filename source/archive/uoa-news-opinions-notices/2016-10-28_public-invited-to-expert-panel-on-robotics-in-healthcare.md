@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/10/28/public-invited-to-expert-panel-on-robotics-in-healthcare/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -12,6 +12,10 @@ author-slug: university-of-auckland
 permalink: >-
   /archive/2025/04/03/proposed-new-faculty-business-economics-law-student-qa/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - merger
 ---
 
 # Student-focused Q&A

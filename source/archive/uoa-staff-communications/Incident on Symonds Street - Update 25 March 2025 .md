@@ -11,6 +11,8 @@ excerpt: >-
 author: Staff Communications <staff-comms@auckland.ac.nz>
 to: all-staff@list.auckland.ac.nz
 permalink: /archive/2025/03/25/incident-on-symonds-street-update-25-march-2025/index.html
+tags:
+  - uoa-staff-communications
 ---
 Kia ora koutou,
 

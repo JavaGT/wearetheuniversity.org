@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/music-students-compete-for--5000-prize-at-graduation-concert.html
 permalink: /archive/2016/04/06/music-students-compete-for-/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Music students compete for $6000 prize at Graduation Concert
 ============================================================

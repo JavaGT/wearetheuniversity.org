@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/11/24/pickering-medal-new-technology-that-mimics-nature/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/12/21/two-rhodes-scholars-for-the-university-of-auckland/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Two Rhodes scholars for the University of Auckland
 ==================================================

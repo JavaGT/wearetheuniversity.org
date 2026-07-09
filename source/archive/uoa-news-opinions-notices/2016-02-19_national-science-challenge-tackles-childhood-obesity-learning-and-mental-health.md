@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2016/02/19/national-science-challenge-tackles-childhood-obesity-learning-and-mental-health/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 National Science Challenge tackles childhood obesity, learning and mental health
 ================================================================================

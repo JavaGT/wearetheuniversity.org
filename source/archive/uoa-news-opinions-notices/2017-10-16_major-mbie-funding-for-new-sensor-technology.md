@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/major-mbie-funding-for-new-sensor-technology.html
 permalink: /archive/2017/10/16/major-mbie-funding-for-new-sensor-technology/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Major MBIE funding for new sensor technology
 ============================================

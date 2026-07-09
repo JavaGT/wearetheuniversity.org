@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/future-of-cultural-value-for-auckland.html
 permalink: /archive/2015/11/17/future-of-cultural-value-for-auckland/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Future of cultural value for Auckland
 =====================================

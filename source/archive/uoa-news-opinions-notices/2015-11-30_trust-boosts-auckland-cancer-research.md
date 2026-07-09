@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/trust-boosts-auckland-cancer-research.html
 permalink: /archive/2015/11/30/trust-boosts-auckland-cancer-research/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Trust boosts Auckland cancer research
 =====================================

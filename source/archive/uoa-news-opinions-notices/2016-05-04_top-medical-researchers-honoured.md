@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/top-medical-researchers-honoured.html
 permalink: /archive/2016/05/04/top-medical-researchers-honoured/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Top medical researchers honoured
 ================================

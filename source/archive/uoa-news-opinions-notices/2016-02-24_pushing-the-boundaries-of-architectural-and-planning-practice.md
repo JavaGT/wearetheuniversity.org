@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/02/24/pushing-the-boundaries-of-architectural-and-planning-practice/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Pushing the boundaries of architectural and planning practice
 =============================================================

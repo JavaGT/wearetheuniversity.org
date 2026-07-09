@@ -4,7 +4,6 @@ title: TEU Update Email
 slug: teu-update
 date: 2024-08-30T00:00:00.000Z
 author: Barry Hughes
-author-slug: barry-hughes
 permalink: /blog/2024/08/30/teu-update/index.html
 excerpt: >-
   WHOA. This is interesting. It would seem that some solidarity busting is going
@@ -12,6 +11,11 @@ excerpt: >-
   staff to not communicate with students regarding upcoming cuts to professional
   staff. "It would also not be appropriate for staff to engage with students or
   involve...
+tags:
+  - course-cuts
+  - governance
+  - student-politics
+  - teu
 ---
 
 WHOA. This is interesting.

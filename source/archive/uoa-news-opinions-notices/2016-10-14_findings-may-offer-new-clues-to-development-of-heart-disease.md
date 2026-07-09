@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/10/14/findings-may-offer-new-clues-to-development-of-heart-disease/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Findings may offer new clues to development of heart disease
 ============================================================

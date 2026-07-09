@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/05/02/pacific-psychology-lecturer-keen-to-make-a-difference/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

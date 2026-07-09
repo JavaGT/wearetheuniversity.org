@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/09/26/husband-and-wife-graduate-same-day-with-same-degree/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Husband and wife graduate same day with same degree
 ===================================================

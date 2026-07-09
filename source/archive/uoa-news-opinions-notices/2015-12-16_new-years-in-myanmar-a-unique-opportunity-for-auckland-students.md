@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/12/16/new-years-in-myanmar-a-unique-opportunity-for-auckland-students/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New Years in Myanmar a unique opportunity for Auckland students
 ===============================================================

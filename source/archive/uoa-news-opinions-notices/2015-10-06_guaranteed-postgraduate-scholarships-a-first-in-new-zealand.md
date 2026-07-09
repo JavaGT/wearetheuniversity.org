@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2015/10/06/guaranteed-postgraduate-scholarships-a-first-in-new-zealand/index.html
 layout: layout.njk
+tags:
+  - governance
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Guaranteed postgraduate scholarships a first in New Zealand
 ===========================================================

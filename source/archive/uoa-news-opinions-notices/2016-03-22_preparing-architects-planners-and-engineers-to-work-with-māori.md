@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/03/22/preparing-architects-planners-and-engineers-to-work-with-m/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

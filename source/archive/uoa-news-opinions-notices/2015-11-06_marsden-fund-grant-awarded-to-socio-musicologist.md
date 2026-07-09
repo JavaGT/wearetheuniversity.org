@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/11/06/marsden-fund-grant-awarded-to-socio-musicologist/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Marsden Fund grant awarded to socio-musicologist
 ================================================

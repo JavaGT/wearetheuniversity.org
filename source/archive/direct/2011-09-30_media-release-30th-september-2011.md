@@ -9,6 +9,10 @@ author: We Are The University
 author-slug: we-are-the-university
 permalink: /archive/2011/09/30/media-release-30th-september-2011/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
+  - teu
 ---
 
 **Media Release – 30th September 2011**

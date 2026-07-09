@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2011/12/02/applications-for-admission-for-semester-one-2012-close-on-8-december/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Applications for admission for semester one 2012 close on 8 December
 ====================================================================

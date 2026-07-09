@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/01/05/you-spin-me-right-round-the-enduring-appeal-of-vinyl-in-a-digital-age/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 You spin me right round: the enduring appeal of vinyl in a digital age
 ======================================================================

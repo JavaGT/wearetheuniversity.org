@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/17/study-finds-expressive-writing-can-help-wounds-heal-faster/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Study finds expressive writing can help wounds heal faster
 ==========================================================

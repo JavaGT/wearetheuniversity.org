@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/entrepreneurism-champion-geoff-whitcher-wins-teaching-award.html
 permalink: /archive/2016/12/21/entrepreneurism-champion-wins-teaching-award/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Entrepreneurism champion wins teaching award
 ============================================

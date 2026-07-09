@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/08/25/condolences-for-earthquake-victims-in-central-italy-and-myanmar/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Condolences for earthquake victims in central Italy and Myanmar
 ===============================================================

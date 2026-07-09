@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/28/blockchain-rules-regulating-a-game-changing-new-technology/index.html
 layout: layout.njk
+tags:
+  - merger
+  - uoa-news-opinions-notices
 ---
 Blockchain rules: regulating a game-changing new technology
 ===========================================================

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/immunisation-health-targets-increase-coverage.html
 permalink: /archive/2015/10/14/immunisation-health-targets-increase-coverage/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Immunisation health targets increase coverage
 =============================================

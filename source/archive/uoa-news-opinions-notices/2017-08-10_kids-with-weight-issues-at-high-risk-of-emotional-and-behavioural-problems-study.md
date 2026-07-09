@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2017/08/10/kids-with-weight-issues-at-high-risk-of-emotional-and-behavioural-problems-study/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Kids with weight issues at high risk of emotional and behavioural problems: study
 =================================================================================

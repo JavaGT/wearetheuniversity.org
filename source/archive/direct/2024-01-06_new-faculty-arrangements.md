@@ -6,6 +6,9 @@ source-url: https://www.auckland.ac.nz/en/news/notices/2024/new-faculty-arrangem
 title: New faculty arrangements
 permalink: /archive/2025/01/06/new-faculty-arrangements/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 
 # New faculty arrangements

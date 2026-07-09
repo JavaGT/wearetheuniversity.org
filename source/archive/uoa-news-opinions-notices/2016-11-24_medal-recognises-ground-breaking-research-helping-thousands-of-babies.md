@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/11/24/medal-recognises-ground-breaking-research-helping-thousands-of-babies/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Medal recognises ground-breaking research helping thousands of babies
 =====================================================================

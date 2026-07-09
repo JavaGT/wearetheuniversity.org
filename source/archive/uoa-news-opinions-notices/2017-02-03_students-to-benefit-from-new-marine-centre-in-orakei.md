@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/02/03/students-to-benefit-from-new-marine-centre-in-orakei/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Students to benefit from new Marine Centre in Orakei
 ====================================================

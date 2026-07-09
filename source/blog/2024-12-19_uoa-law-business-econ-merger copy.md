@@ -4,7 +4,6 @@ title: Law, Business, and Economics Merger Resources
 slug: uoa-law-business-econ-merger
 date: 2024-12-19T00:00:00.000Z
 author: We Are The University
-author-slug: we-are-the-university
 permalink: /blog/2024/12/19/uoa-law-business-econ-merger/index.html
 excerpt: >-
   External Resources RNZ Nine To Noon Unease at Proposal to Change Auckland's
@@ -13,6 +12,9 @@ excerpt: >-
   Writeup hereninetonoon Notes The concequences of this merger are particularly
   hard on the law faculty. Here are some notes that will be expanded on as we
   go. A merger would undermine the Law faculty's independence, which...
+tags:
+  - governance
+  - merger
 ---
 
 # External Resources

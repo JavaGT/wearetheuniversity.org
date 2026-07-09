@@ -8,6 +8,8 @@ author-slug: heleyni-pratley
 permalink: >-
   /archive/2014/07/24/protest-reclaim-victoria-university-take-back-the-hub/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5BOsqZFbzNc?si=66Pmory_e1UIUS1a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

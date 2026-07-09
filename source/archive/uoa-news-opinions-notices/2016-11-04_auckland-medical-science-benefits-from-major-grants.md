@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/04/auckland-medical-science-benefits-from-major-grants-2/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Auckland medical science benefits from major grants
 ===================================================

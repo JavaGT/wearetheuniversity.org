@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/03/07/lecture-series-focuses-on-medium-density-housing/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Lecture series focuses on medium density housing
 ================================================

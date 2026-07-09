@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/literary-prize-tops-off-birthday-celebration.html
 permalink: /archive/2015/12/17/literary-prize-tops-off-birthday-celebration/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Literary prize tops off birthday celebration
 ============================================

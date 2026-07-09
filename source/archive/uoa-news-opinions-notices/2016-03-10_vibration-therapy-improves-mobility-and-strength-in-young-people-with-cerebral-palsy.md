@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2016/03/10/vibration-therapy-improves-mobility-and-strength-in-young-people-with-cerebral-palsy/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Vibration therapy improves mobility and strength in young people with cerebral palsy
 ====================================================================================

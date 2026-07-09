@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/04/12/Arts-underpass-back-in-action.html
 permalink: /archive/2011/04/12/arts-underpass-back-in-action/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Arts underpass back in action
 =============================

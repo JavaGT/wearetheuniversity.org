@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/02/08/kids-with-weight-issues-do-little-exercise-spend-lots-of-time-on-screens/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Kids with weight issues do little exercise, spend lots of time on screens
 =========================================================================

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2013/2013/08/29/Pacific-Studies-PhD-and-MA-scholarships.html
 permalink: /archive/2013/08/29/pacific-studies-phd-and-ma-scholarships/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Pacific Studies PhD and MA scholarships
 =======================================

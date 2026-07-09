@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2015/10/22/universitys-top-researchers-elected-as-fellows-of-the-royal-society-of-new-zealand/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University’s top researchers elected as Fellows of the Royal Society of New Zealand
 ===================================================================================

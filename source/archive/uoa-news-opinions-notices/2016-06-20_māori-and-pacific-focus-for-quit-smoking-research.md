@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/m_ori-and-pacific-focus-for-quit-smoking-research.html
 permalink: /archive/2016/06/20/m/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Māori and Pacific focus for quit smoking research
 =================================================

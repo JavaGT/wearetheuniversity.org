@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/04/03/finalists-announced-for-10th-anniversary-graduation-gala-concert/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Finalists announced for 10th Anniversary Graduation Gala concert
 ================================================================

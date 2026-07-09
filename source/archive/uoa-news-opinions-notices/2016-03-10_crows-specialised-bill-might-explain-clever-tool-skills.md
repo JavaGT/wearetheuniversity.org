@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/03/10/crows-specialised-bill-might-explain-clever-tool-skills/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Crows’ specialised bill might explain clever tool skills
 ========================================================

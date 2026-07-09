@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/09/15/university-of-auckland-rises-in-qs-world-rankings/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland rises in QS World Rankings
 =================================================

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/09/19/study-finds-obese-children-at-risk-of-serious-illness/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Study finds obese children at risk of serious illness
 =====================================================

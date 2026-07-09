@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/27/gene-profiling-to-try-and-unlock-the-causes-of-breast-cancer-in-new-zealand/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Gene profiling to try and unlock the causes of breast cancer in New Zealand
 ===========================================================================

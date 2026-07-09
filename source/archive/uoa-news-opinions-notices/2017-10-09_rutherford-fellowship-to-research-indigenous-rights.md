@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/09/rutherford-fellowship-to-research-indigenous-rights/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Rutherford Fellowship to research indigenous rights
 ===================================================

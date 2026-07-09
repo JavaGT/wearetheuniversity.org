@@ -9,6 +9,8 @@ author: Unknown
 author-slug: unknown
 permalink: /archive/2011/09/26/student-lock-in-at-auckland-university-over/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 <audio src="https://podcast.radionz.co.nz/ckpt/ckpt-20110926-1817-student_lock-in_at_auckland_university_over-048.mp3" controls>

@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2016/07/20/university-of-auckland-welcomes-government-investment-in-innovation-and-entrepreneurship/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland welcomes Government investment in innovation and entrepreneurship
 ========================================================================================

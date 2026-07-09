@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/04/07/studies-confirm-long-term-safety-of-life-saving-treatment-for-premature-babies/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Studies confirm long-term safety of life-saving treatment for premature babies
 ==============================================================================

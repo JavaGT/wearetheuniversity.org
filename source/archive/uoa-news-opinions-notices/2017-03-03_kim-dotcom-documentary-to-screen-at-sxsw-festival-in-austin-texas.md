@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/03/03/kim-dotcom-documentary-to-screen-at-sxsw-festival-in-austin-texas/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

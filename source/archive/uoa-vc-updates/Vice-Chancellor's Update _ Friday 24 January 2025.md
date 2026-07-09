@@ -11,6 +11,10 @@ excerpt: >-
 author: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2025/01/24/vice-chancellor-s-update-friday-24-january-2025/index.html
+tags:
+  - governance
+  - merger
+  - uoa-vc-updates
 ---
 Kia ora tātou
 

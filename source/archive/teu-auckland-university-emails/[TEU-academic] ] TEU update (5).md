@@ -12,6 +12,11 @@ excerpt: >-
 author: Barry Hughes <b.hughes@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 permalink: /archive/2024/04/26/teu-academic-teu-update/index.html
+tags:
+  - palestine
+  - student-politics
+  - teu
+  - teu-auckland-university-emails
 ---
 Attachment: [TEU UoA Branch Submission 23-04-24.pdf](/attachments/TEU UoA Branch Submission 23-04-24.pdf)
 ![](/attachments/image001.png)

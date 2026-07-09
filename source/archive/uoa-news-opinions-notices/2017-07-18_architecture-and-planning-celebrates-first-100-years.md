@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/07/18/architecture-and-planning-celebrates-first-100-years/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Architecture and Planning celebrates first 100 years
 ====================================================

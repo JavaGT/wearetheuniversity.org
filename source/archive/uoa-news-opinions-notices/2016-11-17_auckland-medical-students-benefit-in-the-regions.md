@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/11/17/auckland-medical-students-benefit-in-the-regions/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

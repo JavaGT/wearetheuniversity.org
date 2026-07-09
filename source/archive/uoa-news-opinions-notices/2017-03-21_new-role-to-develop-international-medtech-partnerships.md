@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/03/21/new-role-to-develop-international-medtech-partnerships/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New role to develop international MedTech partnerships
 ======================================================

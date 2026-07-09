@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/11/09/sustainable-business-survey-2016-nz-firms-poised-for-progress/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

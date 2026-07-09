@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/new-tools-detect-serious-gut-conditions.html
 permalink: /archive/2017/05/09/new-tools-detect-serious-gut-conditions/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New tools detect serious gut conditions
 =======================================

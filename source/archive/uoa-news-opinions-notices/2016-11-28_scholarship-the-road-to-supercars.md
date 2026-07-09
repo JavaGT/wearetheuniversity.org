@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/scholarship-the-road-to-supercars.html
 permalink: /archive/2016/11/28/scholarship-the-road-to-supercars/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Scholarship the road to supercars
 =================================

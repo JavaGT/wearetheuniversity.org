@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/11/01/nz-scientists-role-in-efforts-to-restore-great-prairielands/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 NZ scientist’s role in efforts to restore great prairielands
 ============================================================

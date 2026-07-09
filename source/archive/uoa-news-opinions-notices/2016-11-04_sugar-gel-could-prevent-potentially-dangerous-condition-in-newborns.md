@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/11/04/sugar-gel-could-prevent-potentially-dangerous-condition-in-newborns/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Sugar gel could prevent potentially dangerous condition in newborns
 ===================================================================

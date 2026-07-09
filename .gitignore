@@ -1,5 +1,11 @@
 settings.json
+.env
+.env.local
 node_modules
 .DS_Store
 .build-cache.json
 dist/
+# Generated watch / fetch state (may contain paths only; keep out of git by default)
+.data/
+# Pagefind intermediate if any outside dist
+pagefind/

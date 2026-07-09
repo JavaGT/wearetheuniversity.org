@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/04/08/academics-research-into-drama-funding-gaining-interest-overseas/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Academic’s research into drama funding gaining interest overseas
 ================================================================

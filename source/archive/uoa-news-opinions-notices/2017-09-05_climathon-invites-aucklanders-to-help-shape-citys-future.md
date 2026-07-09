@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/09/05/climathon-invites-aucklanders-to-help-shape-citys-future/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Climathon invites Aucklanders to help shape city’s future
 =========================================================

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/10/02/half-of-gps-unaware-of-gay-and-bisexual-mens-sexuality/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

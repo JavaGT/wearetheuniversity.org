@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2015/03/17/call-for-papers-cities-in-a-climate-of-change-public-art-and-environmental-and-social-ecologies/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Call for papers - Cities in a Climate of Change: Public Art and Environmental and Social Ecologies
 ==================================================================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/10/22/academics-research-project-earns-international-award/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Academic's research project earns international award
 =====================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/07/22/three-in-ten-rat-offspring-die-after-mothers-fed-oxidised-fish-oil-study/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Three in ten rat offspring die after mothers fed oxidised fish oil: study
 =========================================================================

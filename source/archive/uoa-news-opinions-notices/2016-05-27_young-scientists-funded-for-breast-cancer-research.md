@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/05/27/young-scientists-funded-for-breast-cancer-research/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Young scientists funded for breast cancer research
 ==================================================

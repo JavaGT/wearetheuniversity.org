@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/07/21/student-success-at-asia-pacific-mediation-competition/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Student success at Asia-Pacific mediation competition
 =====================================================

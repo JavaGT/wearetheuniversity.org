@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/06/08/Exam-information-for-Semester-One.html
 permalink: /archive/2011/06/08/exam-information-for-semester-one/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Exam information for Semester One
 =================================

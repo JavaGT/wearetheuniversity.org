@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/11/24/denial-of-invasive-species-threat-worries-scientists/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Denial of invasive species threat worries scientists
 ====================================================

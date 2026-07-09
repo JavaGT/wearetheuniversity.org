@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/11/02/cancer-researcher-wins-nz-association-of-scientists-award/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Cancer researcher wins NZ Association of Scientists award
 =========================================================

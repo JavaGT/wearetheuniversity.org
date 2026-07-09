@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/11/01/is-narcissism-on-the-rise-do-millennials-really-feel-more-entitled/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Is narcissism on the rise? Do millennials really feel more entitled?
 ====================================================================

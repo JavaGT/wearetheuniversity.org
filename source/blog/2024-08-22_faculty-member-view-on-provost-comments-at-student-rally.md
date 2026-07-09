@@ -6,8 +6,6 @@ date: 2024-08-22T00:00:00.000Z
 source: >-
   https://www.reddit.com/r/universityofauckland/comments/1eygxvk/faculty_member_view_on_provost_comments_at
 author: u/EuphoricScale7466
-author-url: https://www.reddit.com/user/EuphoricScale7466
-author-slug: euphoricscale7466
 permalink: >-
   /blog/2024/08/22/faculty-member-view-on-provost-comments-at-student-rally/index.html
 excerpt: >-
@@ -16,6 +14,11 @@ excerpt: >-
   protesting course cuts at the University of Auckland on Thursday afternoon,
   August 22. Unfortunately, I think a lot of what she said was misleading,
   incomplete, or...
+tags:
+  - course-cuts
+  - governance
+  - student-politics
+  - teu
 ---
 
 # Faculty member view on Provost comments at student rally

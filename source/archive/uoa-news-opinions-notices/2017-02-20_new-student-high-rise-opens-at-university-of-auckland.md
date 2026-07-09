@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/02/20/new-student-high-rise-opens-at-university-of-auckland/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 New student high-rise opens at University of Auckland
 =====================================================

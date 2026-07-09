@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2016/02/24/university-academic-invited-to-speak-at-the-world-bank/index.html
 layout: layout.njk
+tags:
+  - governance
+  - palestine
+  - uoa-news-opinions-notices
 ---
 University academic invited to speak at the World Bank
 ======================================================

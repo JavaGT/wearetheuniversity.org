@@ -12,6 +12,10 @@ excerpt: >-
 author: University of Auckland <studentinfo@auckland.ac.nz>
 to: ''
 permalink: /archive/2025/01/27/vice-chancellor-s-update-tuesday-28-january/index.html
+tags:
+  - governance
+  - merger
+  - uoa-vc-updates
 ---
  
 

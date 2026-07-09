@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/11/02/treatment-and-diagnosis-of-depression-needs-major-overhaul/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Treatment and diagnosis of depression needs major overhaul
 ==========================================================

@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2017/01/03/study-looks-at-pacific-culture-and-soft-drink-consumption/index.html
 layout: layout.njk
+tags:
+  - governance
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Study looks at Pacific culture and soft drink consumption
 =========================================================

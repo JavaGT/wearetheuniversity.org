@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/01/13/summer-scholar-will-study-the-effects-of-earthquakes-on-children/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Summer scholar will study the effects of earthquakes on children
 ================================================================

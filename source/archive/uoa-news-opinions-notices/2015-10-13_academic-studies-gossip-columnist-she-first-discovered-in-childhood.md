@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/10/13/academic-studies-gossip-columnist-she-first-discovered-in-childhood/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

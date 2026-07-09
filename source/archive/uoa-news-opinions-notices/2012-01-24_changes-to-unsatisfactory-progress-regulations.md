@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/01/24/Changes-to-Unsatisfactory-Progress-Regulations.html
 permalink: /archive/2012/01/24/changes-to-unsatisfactory-progress-regulations/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Changes to Unsatisfactory Progress Regulations
 ==============================================

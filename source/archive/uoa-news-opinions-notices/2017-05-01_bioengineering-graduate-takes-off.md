@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/bioengineering-graduate-takes-off.html
 permalink: /archive/2017/05/01/bioengineering-graduate-takes-off/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Bioengineering graduate takes off
 =================================

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/03/09/legal-academic-shortlisted-for-international-research-award/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

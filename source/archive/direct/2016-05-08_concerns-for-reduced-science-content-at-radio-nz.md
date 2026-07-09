@@ -9,6 +9,8 @@ author-slug: the-new-zealand-association-of-scientists
 permalink: >-
   /archive/2016/05/08/concerns-for-reduced-science-content-at-radio-nz/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 The New Zealand Association of Scientists (Inc.)

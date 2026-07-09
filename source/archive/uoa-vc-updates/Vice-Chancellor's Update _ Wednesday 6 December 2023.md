@@ -11,6 +11,9 @@ author: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: >-
   /archive/2023/12/05/vice-chancellor-s-update-wednesday-6-december-2023/index.html
+tags:
+  - governance
+  - uoa-vc-updates
 ---
 Kia ora koutou
 

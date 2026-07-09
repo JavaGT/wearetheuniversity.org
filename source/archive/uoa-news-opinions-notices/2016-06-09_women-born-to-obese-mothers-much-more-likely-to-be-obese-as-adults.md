@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/06/09/women-born-to-obese-mothers-much-more-likely-to-be-obese-as-adults/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Women born to obese mothers much more likely to be obese as adults
 ==================================================================

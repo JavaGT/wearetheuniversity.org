@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/france-warning-to-university-travellers.html
 permalink: /archive/2016/07/15/france-warning-to-university-travellers/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 France: Warning to University travellers
 ========================================

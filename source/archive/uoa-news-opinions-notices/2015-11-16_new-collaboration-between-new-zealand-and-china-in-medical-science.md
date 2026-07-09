@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/11/16/new-collaboration-between-new-zealand-and-china-in-medical-science/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

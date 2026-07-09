@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/09/from-acoustics-to-ballistics-leading-research-showcased-at-manufacturing-and-design-conference/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 From acoustics to ballistics: leading research showcased at manufacturing and design conference
 ===============================================================================================

@@ -5,7 +5,6 @@ slug: optimisation-of-our-courses-and-programmes
 date: 2024-07-01T00:00:00.000Z
 source: private communications
 author: unknown
-author-slug: unknown
 permalink: /blog/2024/07/01/optimisation-of-our-courses-and-programmes/index.html
 excerpt: >-
   July 2024 Transformation is key As a University we aspire to achieve… Delivery
@@ -13,6 +12,8 @@ excerpt: >-
   Creating connection to place and our students’ capacities for meaningful
   contribution and leadership as citizens, in the professions, and in
   communities in Aotearoa New Zealand and Te...
+tags:
+  - governance
 ---
  July 2024
  

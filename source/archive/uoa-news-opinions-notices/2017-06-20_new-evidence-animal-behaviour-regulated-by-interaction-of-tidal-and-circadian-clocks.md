@@ -10,5 +10,7 @@ source-url: >-
 permalink: >-
   /archive/2017/06/20/new-evidence-animal-behaviour-regulated-by-interaction-of-tidal-and-circadian-clocks/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

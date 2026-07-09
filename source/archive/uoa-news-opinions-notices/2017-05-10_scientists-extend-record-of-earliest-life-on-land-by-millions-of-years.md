@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/10/scientists-extend-record-of-earliest-life-on-land-by-millions-of-years/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Scientists extend record of earliest life on land by millions of years
 ======================================================================

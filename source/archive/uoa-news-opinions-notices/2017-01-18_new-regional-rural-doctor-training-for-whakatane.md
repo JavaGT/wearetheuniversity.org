@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/01/18/new-regional-rural-doctor-training-for-whakatane/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/10/05/university-of-auckland-confirms-athlete-friendly-status/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 University of Auckland confirms athlete friendly status
 =======================================================

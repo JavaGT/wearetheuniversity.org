@@ -25,15 +25,25 @@ npm run serve:www
 npm run serve:blog
 npm run serve:archive
 
-# Archive automation
-npm run archive:ingest -- --source=uoa-vc-updates path/to.eml
+# Privacy (identifiers only in local .env — never commit)
+cp .env.example .env   # set REDACT_IDENTIFIERS
+npm run privacy:redact
+npm run privacy:audit
+
+# Archive automation (no IMAP — drop .eml exports from Outlook)
+npm run archive:ingest -- --dir=./inbox
 npm run archive:validate
-npm run process:eml -- --scope=archive   # EML → markdown only
+npm run archive:vtt
+npm run archive:pdf -- --source=uoa-council file.pdf
+npm run archive:tag
+npm run archive:rss
+npm run archive:scoop
+npm run archive:oia
+npm run archive:page-watch
+npm run process:eml -- --scope=archive
 ```
 
-Shared stylesheet source of truth: `shared/style.css` (copied into every host build as `/style.css`).
-
-Archive automation opportunities: `designs/archive-automation.md`.
+Shared stylesheet: `shared/style.css`. Privacy + automation notes: `designs/privacy-and-automation.md`.
 
 ## Directory overview
 

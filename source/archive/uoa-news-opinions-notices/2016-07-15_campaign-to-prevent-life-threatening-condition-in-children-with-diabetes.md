@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/07/15/campaign-to-prevent-life-threatening-condition-in-children-with-diabetes/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

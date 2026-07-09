@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/finding-mont-liggins-babies.html
 permalink: /archive/2017/03/14/finding-mont-ligginss-babies/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Finding Mont Liggins's babies
 =============================

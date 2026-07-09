@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/creative-practice-doctorate-assists-ecosanctuary.html
 permalink: /archive/2017/05/03/creative-practice-phd-assists-ecosanctuary/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Creative practice PhD assists ecosanctuary
 ==========================================

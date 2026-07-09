@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/08/10/waste-what-are-we-doing-and-what-can-we-do-better/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Waste: what are we doing and what can we do better?
 ===================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2011/08/18/bus-route-changes-in-central-auckland-from-21-august/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Bus route changes in central Auckland from 21 August
 ====================================================

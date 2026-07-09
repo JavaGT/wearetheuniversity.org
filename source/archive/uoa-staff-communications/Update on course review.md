@@ -10,6 +10,9 @@ excerpt: >-
 author: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2024/08/22/update-on-course-review/index.html
+tags:
+  - governance
+  - uoa-staff-communications
 ---
 Kia ora tātou
 

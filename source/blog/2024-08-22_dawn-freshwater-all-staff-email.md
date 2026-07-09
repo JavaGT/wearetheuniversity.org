@@ -5,7 +5,6 @@ slug: dawn-freshwater-all-staff-email
 date: 2024-08-22T00:00:00.000Z
 source: staff mailing list
 author: Dawn Freshwater (Vice Chancellor, University of Auckland)
-author-slug: dawn-freshwater
 permalink: /blog/2024/08/22/dawn-freshwater-all-staff-email/index.html
 excerpt: >-
   Thu 22Aug24 allstaffrequest@list.auckland.ac.nz on behalf of Dawn
@@ -14,6 +13,8 @@ excerpt: >-
   clarification about the review of courses underway across the University.
   There is a suggestion that all courses with fewer than 60 students will be
   cut. This is...
+tags:
+  - governance
 ---
 
 Thu 22-Aug-24

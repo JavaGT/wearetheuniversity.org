@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/07/26/business-student-first-ever-trampolinist-to-represent-nz-at-olympic-games/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Business student first ever trampolinist to represent NZ at Olympic Games
 =========================================================================

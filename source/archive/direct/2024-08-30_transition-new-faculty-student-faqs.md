@@ -7,6 +7,9 @@ source-url: >-
 title: Transition to new faculty arrangements - Student FAQs
 permalink: /archive/2024/08/30/transition-new-faculty-student-faqs/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 # Student FAQs

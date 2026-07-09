@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/10/03/liggins-institute-namesakes-and-directors-daughters-graduate/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Liggins Institute namesake’s and director’s daughters graduate
 ==============================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/12/01/mass-surveillance-and-a-crisis-of-social-responsibility/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Mass surveillance and a crisis of social responsibility
 =======================================================

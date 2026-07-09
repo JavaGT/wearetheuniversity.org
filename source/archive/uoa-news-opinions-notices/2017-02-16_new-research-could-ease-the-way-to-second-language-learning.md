@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/02/16/new-research-could-ease-the-way-to-second-language-learning/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 New research could ease the way to second language learning
 ===========================================================

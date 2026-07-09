@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/05/26/tiring-the-legs-also-tires-the-eyes-the-remedy-is-caffeine/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Tiring the legs also tires the eyes – the remedy is caffeine
 ============================================================

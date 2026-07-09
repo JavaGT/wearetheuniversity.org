@@ -12,6 +12,10 @@ excerpt: >-
 author: University of Auckland <studentinfo@auckland.ac.nz>
 to: . <>
 permalink: /archive/2023/10/11/vice-chancellor-s-update-wednesday-11-october/index.html
+tags:
+  - governance
+  - palestine
+  - uoa-vc-updates
 ---
  
 

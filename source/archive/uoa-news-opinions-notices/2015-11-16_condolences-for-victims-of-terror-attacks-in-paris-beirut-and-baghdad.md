@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/11/16/condolences-for-victims-of-terror-attacks-in-paris-beirut-and-baghdad/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Condolences for victims of terror attacks in Paris, Beirut and Baghdad
 ======================================================================

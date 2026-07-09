@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/01/13/safety-in-numbers-fish-stick-together-by-communicating/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Safety in numbers: fish stick together by communicating
 =======================================================

@@ -6,7 +6,6 @@ title: >-
 slug: saanz-marsden-press-release
 date: 2024-12-10T00:00:00.000Z
 author: SAANZ
-author-slug: saanz
 permalink: /blog/2024/12/10/saanz-marsden-press-release/index.html
 excerpt: >-
   Source/media/SAANZPressReleaseOnMarsden10.12.2024.pdf 10th December 2024 Press
@@ -14,6 +13,9 @@ excerpt: >-
   sciences panels of the Marsden Fund The Sociological Association of Aotearoa
   New Zealand SAANZ is deeply concerned by the announcement on the 4th December
   2024 by the Hon. Judith Collins Minister of Science, Innovation...
+tags:
+  - governance
+  - marsden
 ---
 
 [Source](/media/SAANZPressReleaseOnMarsden10.12.2024.pdf)

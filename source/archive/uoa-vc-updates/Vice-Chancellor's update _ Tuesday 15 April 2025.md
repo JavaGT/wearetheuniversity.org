@@ -12,6 +12,9 @@ excerpt: >-
 author: University of Auckland <studentinfo@auckland.ac.nz>
 to: . <>
 permalink: /archive/2025/04/15/vice-chancellor-s-update-tuesday-15-april-2025/index.html
+tags:
+  - governance
+  - uoa-vc-updates
 ---
  
 

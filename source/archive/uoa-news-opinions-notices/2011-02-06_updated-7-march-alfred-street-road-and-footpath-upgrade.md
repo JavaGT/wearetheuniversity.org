@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2011/02/06/updated-7-march-alfred-street-road-and-footpath-upgrade/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/05/11/fasting-and-probiotics-may-help-prevent-diabetes/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

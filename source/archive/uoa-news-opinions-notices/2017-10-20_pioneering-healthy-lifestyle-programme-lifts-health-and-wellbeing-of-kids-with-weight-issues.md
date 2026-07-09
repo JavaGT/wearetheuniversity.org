@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/20/pioneering-healthy-lifestyle-programme-lifts-health-and-wellbeing-of-kids-with-weight-issues/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Pioneering healthy lifestyle programme lifts health and wellbeing of kids with weight issues
 ============================================================================================

@@ -12,6 +12,8 @@ author: Julie Tomov <j.tomov@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: >-
   /archive/2025/03/09/professional-staff-registration-may-2025-graduation-ceremonies/index.html
+tags:
+  - uoa-staff-communications
 ---
 Please do not reply to this message – please send any queries to [graduation@auckland.ac.nz](mailto:graduation@auckland.ac.nz)<mailto:[graduation@auckland.ac.nz](mailto:graduation@auckland.ac.nz)>
 

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/02/from-charity-to-social-enterprise-when-making-money-is-doing-good/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 From charity to social enterprise: when making money is doing good
 ==================================================================

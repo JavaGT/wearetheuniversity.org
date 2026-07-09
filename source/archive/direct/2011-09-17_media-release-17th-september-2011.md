@@ -9,6 +9,10 @@ author: We Are The University
 author-slug: we-are-the-university
 permalink: /archive/2011/09/17/media-release-17th-september-2011/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - teu
 ---
 
 **Media Release – 17th September 2011 @ 17:17**

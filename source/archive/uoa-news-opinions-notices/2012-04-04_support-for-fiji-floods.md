@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/04/04/Support-for-Fiji-floods.html
 permalink: /archive/2012/04/04/support-for-fiji-floods/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Support for Fiji floods
 =======================

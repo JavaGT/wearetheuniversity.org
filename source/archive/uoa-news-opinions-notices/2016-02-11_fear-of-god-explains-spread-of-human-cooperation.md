@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/02/11/fear-of-god-explains-spread-of-human-cooperation/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Fear of god explains spread of human cooperation
 ================================================

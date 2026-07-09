@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/10/28/university-students-to-study-flood-affected-village-in-fiji/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

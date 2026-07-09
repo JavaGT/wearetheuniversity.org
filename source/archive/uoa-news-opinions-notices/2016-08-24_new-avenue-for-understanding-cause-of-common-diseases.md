@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/08/24/new-avenue-for-understanding-cause-of-common-diseases/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

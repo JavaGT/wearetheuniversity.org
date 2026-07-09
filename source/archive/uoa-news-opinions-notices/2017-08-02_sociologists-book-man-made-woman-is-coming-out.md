@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/sociologist-s-book-man-made-woman-coming-out.html
 permalink: /archive/2017/08/02/sociologists-book-man-made-woman-is-coming-out/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Sociologist's book Man-Made Woman is coming out
 ===============================================

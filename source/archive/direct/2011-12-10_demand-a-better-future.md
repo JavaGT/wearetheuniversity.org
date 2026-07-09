@@ -8,6 +8,9 @@ author: NZUSA
 author-slug: nzusa
 permalink: /archive/2011/12/10/demand-a-better-future/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
 ---
 Date refers to the date page was archived by the Wayback Machine.
 

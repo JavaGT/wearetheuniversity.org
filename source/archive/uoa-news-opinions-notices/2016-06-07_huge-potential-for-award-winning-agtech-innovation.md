@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/06/07/huge-potential-for-award-winning-agtech-innovation/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Huge potential for award winning Agtech innovation
 ==================================================

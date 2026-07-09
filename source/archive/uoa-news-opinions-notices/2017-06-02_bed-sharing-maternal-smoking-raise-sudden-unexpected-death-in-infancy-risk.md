@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/06/02/bed-sharing-maternal-smoking-raise-sudden-unexpected-death-in-infancy-risk/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Bed sharing, maternal smoking raise sudden unexpected death in infancy risk
 ===========================================================================

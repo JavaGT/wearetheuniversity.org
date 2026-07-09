@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/02/17/study-finds-agricultural-land-use-may-help-pest-fish/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Study finds agricultural land use may help pest fish
 ====================================================

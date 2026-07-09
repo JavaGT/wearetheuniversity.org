@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/03/03/app-makes-low-salt-and-gluten-free-shopping-easy/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 App makes low salt and gluten-free shopping easy
 ================================================

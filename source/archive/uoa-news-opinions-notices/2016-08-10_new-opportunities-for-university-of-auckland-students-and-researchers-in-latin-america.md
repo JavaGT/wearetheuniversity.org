@@ -10,6 +10,8 @@ source-url: >-
 permalink: >-
   /archive/2016/08/10/new-opportunities-for-university-of-auckland-students-and-researchers-in-latin-america/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New opportunities for University of Auckland students and researchers in Latin America.
 =======================================================================================

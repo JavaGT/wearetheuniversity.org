@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2011/03/02/11-march-closing-date-for-university-of-canterbury-students-wishing-to-participate-in-an-exchange-to-the-university-of-auckland-for-semester-one/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 11 March closing date for University of Canterbury students wishing to participate in an exchange to The University of Auckland for semester one
 ================================================================================================================================================

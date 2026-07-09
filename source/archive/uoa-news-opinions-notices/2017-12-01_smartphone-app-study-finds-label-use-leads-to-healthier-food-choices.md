@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/12/01/smartphone-app-study-finds-label-use-leads-to-healthier-food-choices/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Smartphone app study finds label use leads to healthier food choices
 ====================================================================

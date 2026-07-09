@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/05/04/celebrating-success-the-university-of-aucklands-autumn-graduation/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

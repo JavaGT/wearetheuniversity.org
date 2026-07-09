@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/17/paddlers-at-the-ready-for-the-great-waka-ama-race/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Paddlers at the ready for the Great Waka Ama race
 =================================================

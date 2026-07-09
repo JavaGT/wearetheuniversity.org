@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/10/02/1-million-given-for-new-rhodes-style-scholarships/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 $1 million given for new Rhodes-style scholarships
 ==================================================

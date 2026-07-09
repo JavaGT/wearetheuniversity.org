@@ -10,6 +10,9 @@ source-url: >-
 permalink: >-
   /archive/2016/06/24/premature-girl-and-boy-babies-may-need-different-food-to-thrive-and-breastmilk-may-differ-for-each-sex/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Premature girl and boy babies may need different food to thrive – and breastmilk may differ for each sex
 ========================================================================================================

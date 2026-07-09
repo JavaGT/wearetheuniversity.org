@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/09/18/researchers-find-the-key-to-loss-of-smell-with-parkinsons-disease/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Researchers find the key to loss of smell with Parkinson’s disease
 ==================================================================

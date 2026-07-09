@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/03/07/Tmaki-bus-for-students-to-depart-from-Princes-Street.html
 permalink: /archive/2011/03/07/t/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Tāmaki bus for students to depart from Princes Street
 =====================================================

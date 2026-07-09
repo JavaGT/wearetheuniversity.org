@@ -8,6 +8,9 @@ author: Luke Oldfield
 author-slug: luke-oldfield
 permalink: /archive/2021/06/08/equity-must-extend-to-universities/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 **Luke Oldfield**

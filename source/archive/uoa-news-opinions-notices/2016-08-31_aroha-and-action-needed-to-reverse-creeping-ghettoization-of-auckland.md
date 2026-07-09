@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/08/31/aroha-and-action-needed-to-reverse-creeping-ghettoization-of-auckland/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 
 Aroha and action needed to reverse creeping "ghettoization" of Auckland

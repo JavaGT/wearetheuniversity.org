@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/11/16/leading-researchers-announced-as-fellows-of-the-royal-society/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Leading researchers announced as Fellows of the Royal Society
 =============================================================

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/04/20/innovative-youth-mentoring-programme-at-the-university-of-auckland/index.html
 layout: layout.njk
+tags:
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Innovative youth mentoring programme at the University of Auckland
 ==================================================================

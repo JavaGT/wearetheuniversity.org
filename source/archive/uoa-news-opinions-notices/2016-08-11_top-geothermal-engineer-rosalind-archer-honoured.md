@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/08/11/top-geothermal-engineer-rosalind-archer-honoured/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Top geothermal engineer Rosalind Archer honoured
 ================================================

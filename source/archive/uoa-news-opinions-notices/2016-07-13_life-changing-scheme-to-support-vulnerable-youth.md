@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/07/13/life-changing-scheme-to-support-vulnerable-youth/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Life-changing scheme to support vulnerable youth
 ================================================

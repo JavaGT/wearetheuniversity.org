@@ -7,6 +7,8 @@ source-url: >-
 title: Future Ready Schools
 permalink: /archive/2025/05/15/future-ready-schools-2/index.html
 layout: layout.njk
+tags:
+  - direct
 ---
 
 # Future Ready Schools

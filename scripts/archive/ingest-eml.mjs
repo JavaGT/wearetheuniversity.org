@@ -1,47 +1,36 @@
 #!/usr/bin/env node
 /**
- * Drop-folder EML ingest for the research archive.
+ * Drop-folder EML ingest (manual Outlook downloads — no IMAP).
  *
- * Usage:
- *   node scripts/archive/ingest-eml.mjs --source=uoa-vc-updates path/to/file.eml
- *   node scripts/archive/ingest-eml.mjs --source=teu-auckland-university-emails ./inbox/*.eml
- *   node scripts/archive/ingest-eml.mjs --source=uoa-staff-communications --dir=./dropbox
+ *   npm run archive:ingest -- path/to.eml
+ *   npm run archive:ingest -- --source=uoa-vc-updates ./inbox/*.eml
+ *   npm run archive:ingest -- --dir=./inbox
+ *   npm run archive:ingest -- --dir=./inbox --classify
  *
- * Copies .eml into source/archive/<source>/ then runs the EML→markdown pipeline
- * scoped to archive only.
- *
- * Known --source values (folders under source/archive/):
- *   direct, scoop, teu-auckland-university-emails, uoa-council,
- *   uoa-news-opinions-notices, uoa-staff-communications, uoa-vc-updates
+ * With --classify (default when --source omitted), routes by List-Id/From/Subject.
  */
 import { promises as fsp } from 'fs';
 import path from 'path';
 import { spawn } from 'child_process';
 import { fileURLToPath } from 'url';
+import { classifyEmlFile, KNOWN_SOURCES } from './classify.mjs';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const ARCHIVE = path.join(ROOT, 'source', 'archive');
 
-const KNOWN_SOURCES = new Set([
-  'direct',
-  'scoop',
-  'teu-auckland-university-emails',
-  'uoa-council',
-  'uoa-news-opinions-notices',
-  'uoa-staff-communications',
-  'uoa-vc-updates',
-]);
-
 function parseArgs(argv) {
   let source = null;
   let dir = null;
+  let classify = false;
   const files = [];
   for (const a of argv) {
     if (a.startsWith('--source=')) source = a.slice('--source='.length);
     else if (a.startsWith('--dir=')) dir = a.slice('--dir='.length);
+    else if (a === '--classify') classify = true;
     else if (!a.startsWith('-')) files.push(a);
   }
-  return { source, dir, files };
+  if (!source) classify = true;
+  return { source, dir, files, classify };
 }
 
 async function listEmls(dir) {
@@ -49,6 +38,15 @@ async function listEmls(dir) {
   return entries
     .filter((e) => e.isFile() && e.name.toLowerCase().endsWith('.eml'))
     .map((e) => path.join(dir, e.name));
+}
+
+async function exists(p) {
+  try {
+    await fsp.access(p);
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 async function uniqueDest(destDir, filename) {
@@ -59,15 +57,6 @@ async function uniqueDest(destDir, filename) {
   let i = 2;
   while (await exists(path.join(destDir, `${base} (${i})${ext}`))) i++;
   return path.join(destDir, `${base} (${i})${ext}`);
-}
-
-async function exists(p) {
-  try {
-    await fsp.access(p);
-    return true;
-  } catch {
-    return false;
-  }
 }
 
 function runPipeline() {
@@ -82,10 +71,9 @@ function runPipeline() {
 }
 
 async function main() {
-  const { source, dir, files } = parseArgs(process.argv.slice(2));
-  if (!source || !KNOWN_SOURCES.has(source)) {
-    console.error('Usage: node scripts/archive/ingest-eml.mjs --source=<folder> <files…| --dir=path>');
-    console.error('Known sources:', [...KNOWN_SOURCES].join(', '));
+  const { source, dir, files, classify } = parseArgs(process.argv.slice(2));
+  if (source && !KNOWN_SOURCES.includes(source)) {
+    console.error('Unknown --source. Known:', KNOWN_SOURCES.join(', '));
     process.exit(1);
   }
 
@@ -94,25 +82,30 @@ async function main() {
   inputs = inputs.filter((f) => f.toLowerCase().endsWith('.eml'));
 
   if (inputs.length === 0) {
-    console.error('No .eml files given.');
+    console.error('No .eml files. Export from Outlook manually, then:');
+    console.error('  npm run archive:ingest -- --dir=./inbox');
     process.exit(1);
   }
-
-  const destDir = path.join(ARCHIVE, source);
-  await fsp.mkdir(destDir, { recursive: true });
 
   const copied = [];
   for (const src of inputs) {
     const abs = path.resolve(src);
+    let destSource = source;
+    if (classify || !destSource) {
+      destSource = await classifyEmlFile(abs);
+      console.log(`[classify] ${path.basename(abs)} → ${destSource}`);
+    }
+    const destDir = path.join(ARCHIVE, destSource);
+    await fsp.mkdir(destDir, { recursive: true });
     const dest = await uniqueDest(destDir, path.basename(abs));
     await fsp.copyFile(abs, dest);
     copied.push(dest);
-    console.log(`[copy] ${abs} → ${dest}`);
+    console.log(`[copy] → ${path.relative(ROOT, dest)}`);
   }
 
-  console.log(`[pipeline] converting ${copied.length} new EML(s)…`);
+  console.log(`[pipeline] EML→markdown with redaction (${copied.length} file(s))…`);
   await runPipeline();
-  console.log('[done] Place markdown is next to each .eml; commit source/ when ready.');
+  console.log('[done] Review git diff, then commit. Raw .eml stay local-only if you prefer (git-rm after md exists).');
 }
 
 main().catch((err) => {

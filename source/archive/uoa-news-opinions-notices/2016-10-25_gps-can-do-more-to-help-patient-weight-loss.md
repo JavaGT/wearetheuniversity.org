@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/gps-can-do-more-to-help-patient-weight-loss.html
 permalink: /archive/2016/10/25/gps-can-do-more-to-help-patient-weight-loss/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 GPs can do more to help patient weight loss
 ===========================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/11/18/einstein-light-and-time-with-a-bit-of-whizz-bang/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Einstein, Light and Time - with a bit of whizz bang
 ===================================================

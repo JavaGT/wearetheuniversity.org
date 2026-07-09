@@ -6,6 +6,9 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/university-of-auckland-makes-it-three-in-a-row.html
 permalink: /archive/2016/09/22/university-of-auckland-makes-it-three-in-a-row/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland makes it three in a row
 ==============================================

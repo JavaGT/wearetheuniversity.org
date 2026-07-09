@@ -7,6 +7,10 @@ source-url: >-
 permalink: >-
   /archive/2017/10/03/companies-need-to-shape-not-predict-the-market-2/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - student-politics
+  - uoa-news-opinions-notices
 ---
 Companies need to shape, not predict, the market
 ================================================

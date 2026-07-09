@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2015/11/03/former-elam-students-plan-reunion-to-celebrate-125th-anniversary/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Former Elam students plan reunion to celebrate 125th anniversary
 ================================================================

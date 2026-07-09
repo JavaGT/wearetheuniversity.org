@@ -11,6 +11,10 @@ excerpt: >-
 author: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2024/04/30/vice-chancellor-s-update-tuesday-30-april-2024/index.html
+tags:
+  - governance
+  - palestine
+  - uoa-vc-updates
 ---
 Kia ora koutou
 

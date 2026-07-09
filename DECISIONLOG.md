@@ -4,4 +4,6 @@ Decision: Deploy archive as a separate public GitHub repo (force-orphan gh-pages
 Decision: Split blog to blog.wearetheuniversity.org (third host). Reason: Same Pages-one-site-per-repo constraint and clearer product boundary — apex hub vs campaign writing vs research dump; post permalinks stay under /blog/... for host-only redirects.
 Decision: Single shared stylesheet at shared/style.css for all three hosts. Reason: One design system avoids drift; each build passthrough-copies locally so hosts stay offline-safe without cross-origin CSS dependency.
 Decision: Scope EML pipeline with --scope and --skip-md-track. Reason: Walking ~34k archive markdown files on every www/blog build was pure overhead after the host split.
+Decision: Personal identifiers only via .env / CI secrets (REDACT_IDENTIFIERS), never hard-coded. Reason: Prevents leaking names/usernames into git; all content pipelines and privacy:audit share lib/redaction.mjs.
+Decision: No IMAP automation. Reason: University Outlook disabled IMAP; operators export .eml manually into drop-folder ingest with header auto-classify.
 

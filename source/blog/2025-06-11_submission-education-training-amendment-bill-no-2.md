@@ -5,8 +5,7 @@ title: >-
   and Training Amendment Bill (No 2)
 slug: submission-education-training-amendment-bill-no-2
 date: 2025-06-11T00:00:00.000Z
-author: Java Grant
-author-slug: java-grant
+author: WATU
 permalink: /blog/2025/06/11/submission-education-training-amendment-bill-no-2/index.html
 excerpt: >-
   I am writing to express my strong opposition to the Education Amendment Bill

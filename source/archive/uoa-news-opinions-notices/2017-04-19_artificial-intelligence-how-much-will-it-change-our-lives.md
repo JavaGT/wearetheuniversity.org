@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/04/19/artificial-intelligence-how-much-will-it-change-our-lives/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Artificial Intelligence: how much will it change our lives?
 ===========================================================

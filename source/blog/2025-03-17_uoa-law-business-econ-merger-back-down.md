@@ -6,7 +6,6 @@ title: >-
 slug: uoa-law-business-econ-merger-back-down
 date: 2025-03-17T00:00:00.000Z
 author: We Are The University
-author-slug: we-are-the-university
 permalink: /blog/2025/03/17/uoa-law-business-econ-merger-back-down/index.html
 excerpt: >-
   External Resources Uni council takes law school merger off the agenda – for
@@ -15,6 +14,10 @@ excerpt: >-
   law and business faculties following backlash over plans to discuss the matter
   in secret. Initially, the university council, led by ViceChancellor Dawn
   Freshwater...
+tags:
+  - governance
+  - merger
+  - teu
 ---
 
 # External Resources

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/actions-needed-to-curb-leading-causes-of-death-.html
 permalink: /archive/2015/12/18/actions-needed-to-curb-leading-causes-of-death/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Actions needed to curb leading causes of death
 ==============================================

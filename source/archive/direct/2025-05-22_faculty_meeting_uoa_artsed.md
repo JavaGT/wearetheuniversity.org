@@ -5,6 +5,9 @@ source: University of Auckland
 title: ArtsEd Faculty Meeting (May 2025)
 permalink: /archive/2025/05/22/faculty-meeting-uoa-artsed/index.html
 layout: layout.njk
+tags:
+  - direct
+  - student-politics
 ---
 
 # AI Summary of Faculty Meeting (May 2025)

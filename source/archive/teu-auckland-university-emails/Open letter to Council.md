@@ -14,6 +14,9 @@ to: >-
   <v.braun@auckland.ac.nz>, Helen Petousis-Harris
   <h.petousis-harris@auckland.ac.nz>
 permalink: /archive/2023/12/08/open-letter-to-council/index.html
+tags:
+  - governance
+  - teu-auckland-university-emails
 ---
 Attachment: [Open letter to UoA Council regarding staff safety.pdf](/attachments/Open letter to UoA Council regarding staff safety.pdf)
 Kia ora koutou,

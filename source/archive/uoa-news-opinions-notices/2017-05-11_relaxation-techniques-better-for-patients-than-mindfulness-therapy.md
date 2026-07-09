@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/05/11/relaxation-techniques-better-for-patients-than-mindfulness-therapy/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Relaxation techniques better for patients than mindfulness therapy
 ==================================================================

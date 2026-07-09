@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/06/08/auckland-expertise-key-to-global-heart-rhythm-research/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

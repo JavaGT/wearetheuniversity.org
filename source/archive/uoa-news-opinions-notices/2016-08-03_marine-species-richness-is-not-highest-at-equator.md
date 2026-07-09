@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2016/08/03/marine-species-richness-is-not-highest-at-equator/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

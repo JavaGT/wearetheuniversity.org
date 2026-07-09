@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/new-blood-pressure-treatment-possible.html
 permalink: /archive/2016/09/06/new-blood-pressure-treatment-possible/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 New blood pressure treatment possible
 =====================================

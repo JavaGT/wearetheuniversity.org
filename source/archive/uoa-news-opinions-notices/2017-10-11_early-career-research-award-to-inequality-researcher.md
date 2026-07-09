@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/10/11/early-career-research-award-to-inequality-researcher/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Early career research award to inequality researcher
 ====================================================

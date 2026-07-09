@@ -10,5 +10,7 @@ source-url: >-
 permalink: >-
   /archive/2016/11/23/artificial-intelligence-deal-biggest-yet-for-university-of-auckland-uniservices/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

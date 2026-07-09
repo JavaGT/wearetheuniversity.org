@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2017/03/13/university-of-auckland-enters-into-partnership-with-essential-news-venture/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 University of Auckland enters into partnership with essential news venture
 ==========================================================================

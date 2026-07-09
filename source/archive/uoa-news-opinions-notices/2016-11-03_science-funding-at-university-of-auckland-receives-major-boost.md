@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/03/science-funding-at-university-of-auckland-receives-major-boost/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Science funding at University of Auckland receives major boost
 ==============================================================

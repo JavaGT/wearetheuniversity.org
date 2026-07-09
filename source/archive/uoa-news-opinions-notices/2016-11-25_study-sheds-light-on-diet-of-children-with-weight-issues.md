@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/11/25/study-sheds-light-on-diet-of-children-with-weight-issues/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Study sheds light on diet of children with weight issues
 ========================================================

@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2017/09/01/centenary-debate-put-focus-on-architecture-and-planning/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Centenary, debate put focus on Architecture and Planning
 ========================================================

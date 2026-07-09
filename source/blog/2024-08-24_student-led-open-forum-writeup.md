@@ -4,7 +4,6 @@ title: Student Led Open Forum Writeup
 slug: student-led-open-forum-writeup
 date: 2024-08-24T00:00:00.000Z
 author: We Are The University
-author-slug: we-are-the-university
 permalink: /blog/2024/08/24/student-led-open-forum-writeup/index.html
 excerpt: >-
   Student Led Open Forum Writeup Unfortunately we were little taken aback by the
@@ -12,6 +11,9 @@ excerpt: >-
   encountered the administration offering anywhere else. Seeing as we are
   students not suuuuuper familiar with what is normal process, it was hard
   for...
+tags:
+  - governance
+  - student-politics
 ---
 # Student Led Open Forum Writeup
 

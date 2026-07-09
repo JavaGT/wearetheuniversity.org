@@ -11,6 +11,10 @@ author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
 permalink: /archive/2019/09/04/bullying-in-science/index.html
 layout: layout.njk
+tags:
+  - direct
+  - governance
+  - student-politics
 ---
 
 1

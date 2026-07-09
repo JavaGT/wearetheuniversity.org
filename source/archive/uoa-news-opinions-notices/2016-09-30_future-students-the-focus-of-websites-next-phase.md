@@ -7,6 +7,8 @@ source-url: >-
 permalink: >-
   /archive/2016/09/30/future-students-the-focus-of-websites-next-phase/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Future students the focus of website’s next phase
 =================================================

@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2016/10/26/top-researchers-elected-as-fellows-of-the-royal-society-of-new-zealand/index.html
 layout: layout.njk
+tags:
+  - governance
+  - uoa-news-opinions-notices
 ---
 Top researchers elected as Fellows of the Royal Society of New Zealand
 ======================================================================

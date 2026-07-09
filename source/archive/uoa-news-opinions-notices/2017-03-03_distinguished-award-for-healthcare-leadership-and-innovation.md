@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2017/03/03/distinguished-award-for-healthcare-leadership-and-innovation/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

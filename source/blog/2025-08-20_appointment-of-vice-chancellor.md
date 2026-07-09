@@ -4,7 +4,6 @@ title: Appointment of Vice-Chancellor
 slug: appointment-of-vice-chancellor
 date: 2025-08-20T00:00:00.000Z
 author: Cecilia Tarrant
-author-slug: cecilia-tarrant
 permalink: /blog/2025/08/20/appointment-of-vice-chancellor/index.html
 excerpt: >-
   Kia ora koutou Appointment of ViceChancellor Following Professor Freshwater’s
@@ -13,6 +12,8 @@ excerpt: >-
   Council ViceChancellor Review and Executive Remuneration Committee Terms of
   Reference, the Chancellor, ProChancellor, Chair of Finance Committee and Chair
   of...
+tags:
+  - governance
 ---
 
 

@@ -6,6 +6,8 @@ source-url: >-
   https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/call-for-un-nation-states-to-be-earth-trustees.html
 permalink: /archive/2017/05/09/call-for-un-nation-states-to-be-earth-trustees/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 Call for UN Nation States to be Earth trustees
 ==============================================

@@ -7,5 +7,7 @@ source-url: >-
 permalink: >-
   /archive/2015/09/24/students-3-minute-thesis-highlights-medias-dinomania/index.html
 layout: layout.njk
+tags:
+  - uoa-news-opinions-notices
 ---
 #

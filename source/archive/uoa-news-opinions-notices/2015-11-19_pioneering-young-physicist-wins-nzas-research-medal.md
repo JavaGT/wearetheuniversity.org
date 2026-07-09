@@ -7,6 +7,9 @@ source-url: >-
 permalink: >-
   /archive/2015/11/19/pioneering-young-physicist-wins-nzas-research-medal/index.html
 layout: layout.njk
+tags:
+  - marsden
+  - uoa-news-opinions-notices
 ---
 Pioneering young physicist wins NZAS Research Medal
 ===================================================
