@@ -4,11 +4,9 @@ title: Blog
 permalink: /index.html
 ---
 
-# WATU Blog
+# Blog
 
-Writing, open letters, meeting notes, and campaign updates from We Are The University.
-
-**Organising site:** [wearetheuniversity.org](https://wearetheuniversity.org/) · **Research archive:** [archive.wearetheuniversity.org](https://archive.wearetheuniversity.org/)
+Writing, open letters, meeting notes, and updates from We Are The University.
 
 <table>
   <thead>

@@ -5,11 +5,11 @@ permalink: /index.html
 slug: archive-home
 ---
 
-# WATU Research Archive
+# Research archive
 
 This host holds documents and mirrored material for research and accountability — press releases, institutional emails, council records, and a large Scoop.co.nz mirror. It is **not** the organising site.
 
-**Campaign writing, actions, and contact live on** [wearetheuniversity.org](https://wearetheuniversity.org/).
+**Writing, actions, and contact live on** [wearetheuniversity.org](https://wearetheuniversity.org/).
 
 ## Search
 

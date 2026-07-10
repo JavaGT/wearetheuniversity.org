@@ -1,7 +1,7 @@
 const { DateTime } = require("luxon");
 const { addSharedAssets } = require("./shared/eleventy-shared");
 
-/** Campaign blog: blog.wearetheuniversity.org */
+/** Blog: blog.wearetheuniversity.org */
 module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("date", (dateObj, format = "yyyy-MM-dd") => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format);

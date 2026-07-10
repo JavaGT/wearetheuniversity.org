@@ -6,20 +6,28 @@
  *
  * Source of truth: shared/style.css
  * Each Eleventy config passthrough-copies this to /style.css
+ *
+ * Design: "Red Thread" (July 2026) — dark-first, the caps-italic wordmark
+ * extended into page headings, red admitted only as thin lines: the masthead
+ * rule, the active/hover nav underline, and link hover underlines.
  */
 
 /* —— Design tokens —— */
 html {
-  --color-bg: #1b1b1b;
-  --color-bg-em: #111111;
-  --color-text: #e0e0e0;
-  --color-link: #7eb8e0;
-  --color-link-hover: #a8d4f0;
-  --color-border: #444;
-  --color-border-dark: #666;
-  --color-border-light: #333;
+  --color-bg: #121212;
+  --color-bg-em: #1a1a1a;
+  --color-text: #e6e3de;
+  --color-text-strong: #f2f0eb;
+  --color-muted: #8d897f;
+  --color-link: #8fc1e8;
+  --color-link-hover: #e6e3de;
+  --color-red: #d63a26;
+  --color-border: #262626;
+  --color-border-dark: #3a3a3a;
+  --color-chip-bg: #e6e3de;
+  --color-chip-text: #121212;
 
-  --font-family: Arial, Helvetica, sans-serif;
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-display: "Arial Black", Gadget, sans-serif;
   --font-size: 16px;
   --line-height: 1.6;
@@ -34,37 +42,26 @@ html {
   --border-radius-md: 0.5rem;
   --border-radius-lg: 1rem;
 
-  --h1-color: #eee;
-  --h2-color: #e2e2e2;
-  --h3-color: #d6d6d6;
-  --h4-color: #cacaca;
-  --h5-color: #bebebe;
-  --h6-color: #b2b2b2;
+  --content-max: 680px;
 
-  --content-max: 800px;
-  --nav-border: 1px solid var(--color-text);
-
-  background-color: var(--color-bg-em);
+  background-color: var(--color-bg);
   color: var(--color-text);
 }
 
-@media (prefers-color-scheme: light), print {
+@media print {
   html {
-    --color-bg: #f0f0f0;
-    --color-bg-em: #ffffff;
+    --color-bg: #ffffff;
+    --color-bg-em: #f0f0f0;
     --color-text: #181818;
+    --color-text-strong: #000000;
+    --color-muted: #555555;
     --color-link: #005a9e;
     --color-link-hover: #003d6b;
-    --color-border: #ccc;
-    --color-border-dark: #999;
-    --color-border-light: #eee;
-
-    --h1-color: #333;
-    --h2-color: #444;
-    --h3-color: #555;
-    --h4-color: #666;
-    --h5-color: #777;
-    --h6-color: #888;
+    --color-red: #b3261e;
+    --color-border: #cccccc;
+    --color-border-dark: #999999;
+    --color-chip-bg: #181818;
+    --color-chip-text: #ffffff;
   }
 }
 
@@ -88,6 +85,8 @@ a {
 
 a:hover {
   color: var(--color-link-hover);
+  text-decoration-color: var(--color-red);
+  text-decoration-thickness: 2px;
 }
 
 p {
@@ -102,65 +101,33 @@ strong {
 h1, h2, h3, h4, h5, h6 {
   margin: var(--spacing-md) 0 var(--spacing-sm) 0;
   line-height: 1.25;
+  color: var(--color-text-strong);
 }
 
-h1 { color: var(--h1-color); }
-h2 { color: var(--h2-color); }
-h3 { color: var(--h3-color); }
-h4 { color: var(--h4-color); }
-h5 { color: var(--h5-color); }
-h6 { color: var(--h6-color); }
+/* Page titles speak in the wordmark's voice */
+main h1 {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  font-size: clamp(1.4rem, 3.6vw, 2rem);
+  line-height: 1.08;
+}
 
 /* —— Chrome: header / nav / logo —— */
 header {
   box-sizing: border-box;
-  background-color: var(--color-bg-em);
+  background-color: var(--color-bg);
   color: var(--color-text);
   width: 100%;
   text-align: center;
-  padding-top: 3rem;
-  display: flex;
-  flex-direction: column;
+  padding: 2rem 1rem 0;
+  border-bottom: 3px solid var(--color-red);
 }
 
 header h1 {
-  flex-grow: 1;
   color: var(--color-text);
-}
-
-nav {
-  display: flex;
-  justify-content: center;
-  background-color: var(--color-bg-em);
-}
-
-nav ul {
-  list-style-type: none;
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0;
-  margin: 0;
-  justify-content: center;
-}
-
-nav ul li a {
-  display: block;
-  color: var(--color-text);
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  margin: 0.5rem;
-  border: var(--nav-border);
-  min-height: 44px;
-  box-sizing: border-box;
-  line-height: 1.4;
-}
-
-nav ul li a:hover,
-nav ul li a:focus-visible {
-  color: var(--color-bg-em);
-  background-color: var(--color-text);
-  outline: 2px solid var(--color-text);
-  outline-offset: 2px;
 }
 
 .logo {
@@ -174,12 +141,56 @@ nav ul li a:focus-visible {
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  font-size: clamp(1.25rem, 4vw, 2rem);
-  margin: 0.5rem 0;
+  font-size: clamp(1.15rem, 3vw, 1.6rem);
+  margin: 0 0 var(--spacing-sm);
+}
+
+.logo a {
+  color: inherit;
+  text-decoration: none;
 }
 
 .logo a:hover {
   color: inherit;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+  column-gap: 1.7rem;
+}
+
+nav ul li a {
+  display: block;
+  color: var(--color-muted);
+  text-decoration: none;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.6rem 0 0.9rem;
+  border-bottom: 2px solid transparent;
+  box-sizing: border-box;
+  line-height: 1.4;
+}
+
+nav ul li a:hover,
+nav ul li a:focus-visible {
+  color: var(--color-text);
+  border-bottom-color: var(--color-red);
+}
+
+nav ul li a[aria-current="page"] {
+  color: var(--color-text);
+  border-bottom-color: var(--color-red);
 }
 
 /* —— Main content —— */
@@ -189,36 +200,69 @@ main {
   margin: 0 auto;
   flex-grow: 1;
   box-sizing: border-box;
-  padding: 0 var(--spacing-sm);
+  padding: var(--spacing-sm) var(--spacing-sm) var(--spacing-md);
+}
+
+/* Manifesto sign-off: wordmark inverted — black on a white box */
+.sig-box {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.9rem;
+  background: var(--color-chip-bg);
+  color: var(--color-chip-text);
+  padding: 0.25rem 0.55rem;
+  display: inline-block;
+  margin-top: 0.4rem;
+}
+
+/* Source / topic chip (archive records, tags) */
+.tag {
+  font-size: 0.64rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-chip-text);
+  background: var(--color-chip-bg);
+  font-weight: bold;
+  padding: 0.12rem 0.5rem;
+  white-space: nowrap;
 }
 
 /* —— Footer / meta —— */
 .site-footer {
   text-align: center;
-  font-size: 0.9em;
-  color: var(--color-text);
-  opacity: 0.75;
   border-top: 1px solid var(--color-border);
-  margin-top: 2em;
+  margin-top: var(--spacing-md);
   padding: 1em 0;
-  background: var(--color-bg-em);
+}
+
+.site-footer p {
+  margin: 0;
 }
 
 .site-footer a {
-  color: inherit;
-  text-decoration: none;
-  font-weight: bold;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  text-transform: uppercase;
   letter-spacing: 0.05em;
+  font-size: 0.74rem;
+  color: var(--color-text);
+  text-decoration: none;
 }
 
 .site-footer a:hover {
+  color: var(--color-text);
   text-decoration: underline;
+  text-decoration-color: var(--color-red);
+  text-decoration-thickness: 2px;
 }
 
 .authors-meta {
   margin-top: 2em;
-  color: var(--color-text);
-  opacity: 0.8;
+  color: var(--color-muted);
   font-size: 0.95em;
   text-align: center;
 }
@@ -228,26 +272,33 @@ table {
   border-collapse: collapse;
   width: 100%;
   margin-bottom: var(--spacing-md);
-  border: 0.25rem solid var(--color-bg);
 }
 
 th,
 td {
-  padding: 0.5rem;
+  padding: 0.5rem 1rem 0.5rem 0;
   text-align: left;
   vertical-align: top;
+  border-bottom: 1px solid var(--color-border);
+  overflow-wrap: anywhere;
+}
+
+td:first-child {
+  white-space: nowrap;
 }
 
 th {
-  background-color: var(--color-bg-em);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+  font-weight: 700;
 }
 
-tr:nth-child(even) {
-  background-color: var(--color-bg-em);
-}
-
-tr:nth-child(odd) {
-  background-color: var(--color-bg);
+td small,
+td:first-child {
+  color: var(--color-muted);
+  font-variant-numeric: tabular-nums;
 }
 
 .year-list {
@@ -259,29 +310,24 @@ tr:nth-child(odd) {
 
 /* —— Code —— */
 code {
-  border: 0.25rem solid var(--color-bg);
+  border: 1px solid var(--color-border);
   border-radius: var(--border-radius-sm);
-  padding: 0.5rem 1rem;
+  padding: 0.1rem 0.35rem;
   background-color: var(--color-bg-em);
   color: var(--color-text);
   overflow: auto;
-  display: inline-block;
   max-width: 100%;
+}
+
+pre code {
+  display: block;
+  padding: 0.5rem 1rem;
 }
 
 /* —— Focus (a11y) —— */
 :focus-visible {
   outline: 2px solid var(--color-link);
   outline-offset: 2px;
-}
-
-/* —— Host hints (optional subtle differences) —— */
-body.site-blog .logo {
-  letter-spacing: 0.04em;
-}
-
-body.site-archive .logo {
-  letter-spacing: 0.08em;
 }
 
 /* —— Print —— */
@@ -293,6 +339,10 @@ body.site-archive .logo {
 
   main {
     max-width: max-content;
+  }
+
+  header {
+    border-bottom-color: #181818;
   }
 
   header h1,
@@ -313,9 +363,8 @@ body.site-archive .logo {
     overflow-x: auto;
   }
 
-  nav ul li a {
-    padding: 0.5rem 0.75rem;
-    margin: 0.25rem;
+  nav ul {
+    column-gap: 1rem;
   }
 }
 

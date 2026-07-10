@@ -9,39 +9,20 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 </head>
 <body class="site-{{ site.kind or 'www' }}">
+  {# Shared header: identical on every host; only the red underline moves. #}
+  {% set onWww = not site.isBlog and not site.isArchive %}
+  {% set wwwBase = "" if onWww else site.wwwUrl %}
   <header>
-    <h1 class="logo">
-      {% if site.isArchive %}
-      <a href="/" style="color:inherit; text-decoration:none;">WATU Archive</a>
-      {% elif site.isBlog %}
-      <a href="/" style="color:inherit; text-decoration:none;">WATU Blog</a>
-      {% else %}
-      <a href="/" style="color:inherit; text-decoration:none;">We Are The University</a>
-      {% endif %}
-    </h1>
+    <h1 class="logo"><a href="/">We Are The University</a></h1>
     <nav aria-label="Primary">
       <ul>
-        {% if site.isArchive %}
-        <li><a href="/">Archive home</a></li>
-        <li><a href="/archive/years/">By year</a></li>
-        <li><a href="/archive/sources/">By source</a></li>
-        <li><a href="{{ site.blogUrl }}/">Blog ↗</a></li>
-        <li><a href="{{ site.wwwUrl }}/">Organising site ↗</a></li>
-        {% elif site.isBlog %}
-        <li><a href="/">All posts</a></li>
-        <li><a href="{{ site.wwwUrl }}/">Organising site ↗</a></li>
-        <li><a href="{{ site.wwwUrl }}/about/">About ↗</a></li>
-        <li><a href="{{ site.wwwUrl }}/contact/">Contact ↗</a></li>
-        <li><a href="{{ site.archiveUrl }}/">Archive ↗</a></li>
-        {% else %}
-        <li><a href="/">Home</a></li>
-        <li><a href="/about/">About</a></li>
-        <li><a href="/contact/">Contact</a></li>
-        <li><a href="{{ site.blogUrl }}/">Blog ↗</a></li>
-        <li><a href="{{ site.archiveUrl }}/">Archive ↗</a></li>
-        <li><a href="/arcade/">Arcade</a></li>
-        <li><a href="/tools/">Tools</a></li>
-        {% endif %}
+        <li><a href="{{ wwwBase }}/"{% if onWww and page.url == "/" %} aria-current="page"{% endif %}>Home</a></li>
+        <li><a href="{{ wwwBase }}/about/"{% if onWww and "/about/" in page.url %} aria-current="page"{% endif %}>About</a></li>
+        <li><a href="{{ wwwBase }}/contact/"{% if onWww and "/contact/" in page.url %} aria-current="page"{% endif %}>Contact</a></li>
+        <li><a href="{{ "/" if site.isBlog else site.blogUrl + "/" }}"{% if site.isBlog %} aria-current="page"{% endif %}>Blog</a></li>
+        <li><a href="{{ "/" if site.isArchive else site.archiveUrl + "/" }}"{% if site.isArchive %} aria-current="page"{% endif %}>Archive</a></li>
+        <li><a href="{{ wwwBase }}/arcade/"{% if onWww and "/arcade/" in page.url %} aria-current="page"{% endif %}>Arcade</a></li>
+        <li><a href="{{ wwwBase }}/tools/"{% if onWww and "/tools/" in page.url %} aria-current="page"{% endif %}>Tools</a></li>
       </ul>
     </nav>
   </header>
@@ -55,27 +36,7 @@
     {% endif %}
   </main>
   <footer class="site-footer">
-    {% if site.isArchive %}
-    <p>
-      <a href="/">{{ site.shortName }}</a>
-      · Research archive for
-      <a href="{{ site.wwwUrl }}/">We Are The University</a>
-      · <a href="{{ site.blogUrl }}/">Blog</a>
-    </p>
-    {% elif site.isBlog %}
-    <p>
-      <a href="/">{{ site.shortName }}</a>
-      · Writing from
-      <a href="{{ site.wwwUrl }}/">We Are The University</a>
-      · <a href="{{ site.archiveUrl }}/">Archive</a>
-    </p>
-    {% else %}
-    <p>
-      <a href="/">{{ site.shortName }}</a>
-      · <a href="{{ site.blogUrl }}/">blog.wearetheuniversity.org</a>
-      · <a href="{{ site.archiveUrl }}/">archive.wearetheuniversity.org</a>
-    </p>
-    {% endif %}
+    <p><a href="/">WEARETHEUNIVERSITY</a></p>
   </footer>
 </body>
 </html>
